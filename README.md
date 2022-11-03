@@ -1,4 +1,4 @@
-## Shows
+## All Shows
 
 All shows can be returned by requesting the following:
 
@@ -6,7 +6,7 @@ All shows can be returned by requesting the following:
 https://podcast-api.netlify.app/shows
 ```
 
-## Seasons
+## Details for Specific Show
 
 Use the `id` value of a show from the request above to get detailed information for a specific show by means of the following.
 
