@@ -1,0 +1,15 @@
+
+[[redirects]]
+  from = "/shows/*"
+  to = "/shows.json"
+  status = 200
+
+[[redirects]]
+  from = "/id/:splat/*"
+  to = "/:splat.json"
+  status = 200
+
+[[headers]]
+  for = "/*"
+    [headers.values]
+    Access-Control-Allow-Origin = "*"
