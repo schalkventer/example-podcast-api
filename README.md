@@ -34,10 +34,10 @@ https://podcast-api.netlify.app/id/<SHOW_ID>
 ---
 
 - ✅ All show data loaded via a `fetch` call from the `https://podcast-api.netlify.app/shows`
-- ✅ When viewing a specific show I want data loaded via `fetch` from individual show endpoint
+- ✅ When viewing a specific show data is loaded via `fetch` from individual show endpoint
 - ✅ There is a loading state while initial data is being loaded
 - ✅ There is a loading state while new data is being loaded
-- ✅ All show data is kept in memory so that it does not have to be reloaded again during the same session
+- ✅ List is kept in memory so that it does not have to be reloaded again during the same session
 
 ---
 
