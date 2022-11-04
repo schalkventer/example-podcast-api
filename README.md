@@ -24,6 +24,12 @@ https://podcast-api.netlify.app/id/<SHOW_ID>
 
 ---
 
+- I want all data to be loaded via a `fetch` call from the `https://podcast-api.netlify.app` domain
+- I want to see a loading state while initial data is being loaded
+- I want to see a loading state while new data is being loaded
+
+---
+
 - I want to see the name of all available shows on the platform
 - I want to see shows broken down into season numbers, sorted by number
 - I want a way to listen to any episode in a season for a show
