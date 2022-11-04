@@ -20,6 +20,8 @@ https://podcast-api.netlify.app/id/<SHOW_ID>
 
 # 🧑 User Stories
 
+_Note that for each verifiable, completed story you gain towards 3% your final mark._
+
 ---
 
 - I want to see the name of all available shows on the platform
@@ -43,16 +45,16 @@ https://podcast-api.netlify.app/id/<SHOW_ID>
 
 ---
 
+- I want to mark specific episodes as favourites so that I can find them again
+- I want to see the associated show and season when viewing my favourites
+- I want to be able to remove episodes from my favourites
+
+---
+
 - I want to be able to arrange shows based on title from A-Z
 - I want to be able to arrange shows based on title from Z-A
 - I want to be able to arrange shows showing the most recent updated
 - I want to be able to arrange shows showing the furthest back updated
-
----
-
-- I want to mark specific episodes as favourites so that I can find them again
-- I want to see the associated show and season when viewing my favourites
-- I want to be able to remove episodes from my favourites
 
 ---
 
@@ -64,6 +66,17 @@ https://podcast-api.netlify.app/id/<SHOW_ID>
 
 ---
 
+- I want to see related shows when browsing a specific show
+- ...
+- ...
+- ...
+- ...
+- ...
+
+
+## Bonus Marks
+---
+
 - I want the audio player to always be visible so that I can listen to episodes while I browse
 - I want to receive a notification that confirms I want to close the page when audio is playing so that I don’t accidently close the page.
 - I want the platform to remember what show and episode I listened to last when returning to the platform
@@ -73,6 +86,9 @@ https://podcast-api.netlify.app/id/<SHOW_ID>
 
 - I want to automatically filter shows by a genre if the genre label is clicked on for a specific show
 - I want the platform to remember and show what episodes I listened all the way through
-- I want the platform to remember the exact timestamp location of the episode where I was after closing the app within a 10 seconds accuracy
+- I want the platform to remember the exact timestamp where I stoped listening within a 10 seconds accuracy of closing
 - I want the platform to remember and show the exact timestamp location of where I left off any episode
 
+---
+
+-
