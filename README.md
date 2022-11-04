@@ -20,7 +20,7 @@ https://podcast-api.netlify.app/id/<SHOW_ID>
 
 # 🧑 User Stories
 
-_Note that for each verifiable, completed story you gain towards 3% your final mark._
+**Note that for each verifiable, completed story you gain towards 3% your final mark.**
 
 ---
 
