@@ -20,7 +20,7 @@ https://podcast-api.netlify.app/id/<SHOW_ID>
 
 # 🧑 User Stories
 
-**Note that there is a total of 50 possible stories. Therefore for each verifiable, completed story you gain towards 2% your final mark. Completing all 50 will result in a mark of 100%.**
+**There is a total of 50 possible stories. Therefore for each verifiable, completed story you gain towards 2% your final mark. Completing all 50 will result in a mark of 100%. Note that user stories can be completed in any order. If you are stuck on a specific one perhaps try completing another one instead.**
 
 ---
 
