@@ -1,0 +1,162 @@
+{
+  "id": "6631",
+  "title": "Blood Ties",
+  "description": "Our family members are not always who we think. When Eleonore Richland exposed her father’s dark legacy, she vowed to clean up the family business – and hired her half-brother, Santino Reyes, to help her do it. But old habits die hard. In the shocking new third season, Eleonore reckons with what her father always taught her growing up: medicine is a bloody business. From Wondery, the makers of “The Shrink Next Door” and “Dr. Death,” Blood Ties stars Gillian Jacobs (Community, Love), Christian Navarro (13 Reasons Why), and Peter Stormare. All episodes are available now. You can binge the series ad-free on Wondery+ or on Amazon Music with a Prime membership or Amazon Music Unlimited subscription.",
+  "seasons": [
+    {
+      "season": 1,
+      "title": "Season 1",
+      "image": "https://res.cloudinary.com/dumslp4el/image/fetch/w_676,h_676/https://content.production.cdn.art19.com/images/1b/10/4e/c6/1b104ec6-1bf6-4269-bba3-127072d1b3c1/7b7c1d245cd97c69393225e84d54d0cf7c93b1858ede730ec85ae84c46b5c852ebc8d51c0eee9ae7e667af30eb6f707936c973245b9ff288a2ddee442a5c6b78.jpeg",
+      "episodes": [
+        {
+          "title": "Post Mortem",
+          "description": "There’s no place like the Caribbean for the holidays. But then the storm hits.",
+          "episode": 1,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Year of the Woman",
+          "description": "Eleonore hates flying, but she gets a little help from her brother to get back home. They also get some help they didn't ask for.",
+          "episode": 2,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Good Doctor",
+          "description": "It’s Christmas Eve. The truth comes out over Chinese food, and it’s not what Eleonore expected.",
+          "episode": 3,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Worst Christmas Ever",
+          "description": "Eleonore and Michael spend their holiday going on a mission.",
+          "episode": 4,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Family Business",
+          "description": "Where there’s a will, there’s a disagreement.",
+          "episode": 5,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Father To Millions",
+          "description": "In the Season One finale of \"Blood Ties,\" the world says goodbye to Dr. Peter Richland.",
+          "episode": 6,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "A Behind-the-Scenes Look at Blood Ties",
+          "description": "In this special interview episode, we hear from actors Gillian Jacobs and Josh Gad about what it was like to work on Blood Ties, what podcasts they listen to, and when they realized they’d met decades earlier. We also hear from writer Ben Gray and director Marshall Lewy about the ripped-from-the-headlines inspiration, and what’s coming in Season 2. With Lindsay Graham, host of American History Tellers, American Scandal and Executive Producer of \"1865.\"  ",
+          "episode": 7,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        }
+      ]
+    },
+    {
+      "season": 2,
+      "title": "Season 2",
+      "image": "https://res.cloudinary.com/dumslp4el/image/fetch/w_676,h_676/https://content.production.cdn.art19.com/images/a0/91/02/b3/a09102b3-4d60-4ef8-8ae0-2cca2eb8dca0/2f4ea2a1b7693f25ef9f528851a16c25ffc2becdcf411cc25f6e540328e96d4d789dd3b752e36d1c8a8e99bda8eb840cc4ec5721ebdb24ac0a103e0b888b10e5.jpeg",
+      "episodes": [
+        {
+          "title": "Independence Day",
+          "description": "Six months have passed. Eleonore is living on the West Coast, and she’s ready to put the past behind her. Michael is in Boulder trying to see his newborn child. Until Richland Health sends the company jet to fly them both back to New York to handle one last piece of family business.  ",
+          "episode": 1,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Crash",
+          "description": "Back to the plane crash that started it all. And Michael helps Richland’s new CEO launch a plan to resurrect the company.",
+          "episode": 2,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Trials",
+          "description": "Michael discovers some concerning details about the company’s new wonder drug. He turns to the only person he knows he can trust: his sister. But Eleonore is not sure she’s ready to forgive.",
+          "episode": 3,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Foul Play",
+          "description": "While Michael contacts the FBI with more questions about his parents’ plane crash, Eleonore may have found some answers. ",
+          "episode": 4,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Heart Failure",
+          "description": "When FBI agents show up on their doorstep in New York, Eleonore and Michael return to the island.  ",
+          "episode": 5,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Safe Deposit",
+          "description": "In the Season Two finale, Eleonore and Michael get a do-over for their dad’s memorial service, but the problems of the family won’t be as simple to lay to rest.",
+          "episode": 6,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Real Stories That Inspired Season Two",
+          "description": "In this special interview episode, Gillian Jacobs and the series’ director Marshall Lewy talk about how working on the real stories behind other Wondery podcasts like Dr. Death and Bad Batch informed the second season. And they share what it was like recording an audio drama from inside actors’ closets. And Gillian dreams up a new podcast idea starring Wayne Knight.",
+          "episode": 7,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        }
+      ]
+    },
+    {
+      "season": 3,
+      "title": "Season 3",
+      "image": "https://res.cloudinary.com/dumslp4el/image/fetch/w_676,h_676/https://content.production.cdn.art19.com/images/7c/f6/44/0c/7cf6440c-7207-440d-8d9d-76a45bf53069/d2305af345df67f572e0d2fad212047fd7e662d136bd706711fc088701e02fafe0f9e27fa46e6e7d54eb9a718938cc67135bce79ea044f4bc2710102d8cffec8.jpeg",
+      "episodes": [
+        {
+          "title": "Avalanche",
+          "description": "Davos, Switzerland. It’s been five years since she took over Richland Health, and Eleonore is finally ready to announce the biggest deal of her tenure. Santino prepares to introduce himself as the newest member of the Richland dynasty. Every moment is planned perfectly. And everything is about to go wrong.",
+          "episode": 1,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Newton’s Pendulum",
+          "description": "Back in New York, disturbing revelations hang over Eleonore’s deal with her new business partner. But Santino sees a way out of the crisis.",
+          "episode": 2,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Hostile Takeover",
+          "description": "Someone is listening.",
+          "episode": 3,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Mountain",
+          "description": "On The Mountain, Eleonore finds the answers she came for. But Santino’s not sure he’s ready to listen.",
+          "episode": 4,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Adverse Reactions",
+          "description": "Thousands of miles from New York, Eleonore and Santino learn their real problem is waiting for them back at home.",
+          "episode": 5,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Till Death Do Us Part",
+          "description": "Thousands of miles from New York, Eleonore and Santino learn their real problem is waiting for them back at home.",
+          "episode": 6,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Strange Days: Behind the Scenes of Season 3",
+          "description": "In this special interview episode, Sarah Hagi, co-host of Wondery’s Scamfluencers, sits down with Blood Ties writer and director, Benjamin Gray, and its star, Gillian Jacobs. They’ll talk about the inspiration for Season 3, pushing the boundaries of immersive audio, and Eleonore’s transformation from bright-eyed CEO to major power player.",
+          "episode": 7,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        }
+      ]
+    }
+  ],
+  "image": "https://content.production.cdn.art19.com/images/41/65/a8/83/4165a883-b520-48d0-a804-df3b8a974309/ef5c453f44657ebc21d6045b9ea41c089f8e3872c630d8afc69eae308611bc99ba34965e627db83de9025ce8ecbf30804fc740a281b6e30afdd0ebac58ec9a06.png",
+  "genres": [
+    "All",
+    "Entertainment",
+    "Featured",
+    "Fiction"
+  ],
+  "updated": "2022-10-04T08:00:00.000Z"
+}

@@ -1,0 +1,148 @@
+{
+  "id": "10182",
+  "title": "Adventures of Cairo",
+  "description": "Welcome to the exciting world of Cairo Carter! Cairo is seven years old and lives in the big city, and he loves to explore the world around him. Cairo has lots to learn about kindness, safety, and even the value of a dollar, so it’s lucky he can always depend on his family, his friends, and his community to help him learn and have tons of fun along the way. Come join him in the ADVENTURES OF CAIRO! New episodes come out every Tuesday for free, with 1-week early access for Wondery+ Kids on Apple Podcasts subscribers and Wondery+ on the Wondery app. Listen ad-free on Wondery+ or on Amazon Music with a Prime membership or Amazon Music Unlimited subscription.",
+  "seasons": [
+    {
+      "season": 1,
+      "title": "Season 1",
+      "image": "https://content.production.cdn.art19.com/images/b6/0c/e1/f2/b60ce1f2-f470-4eba-abe6-03b7dd1c3569/d3bcc1bab5f455dcb1107002c4e520c077897df7c254880767bf40d763af9e94ab9964cccf754e9f989a033dbc4e14d925cbe1d7a3ad048de7c89660c4b3dc26.jpeg",
+      "episodes": [
+        {
+          "title": "Adventures in Money",
+          "description": "When Mrs. King announces a school field trip to the aquarium, Cairo and his friends can’t contain their excitement. There’s just one problem, though - Cairo already spent his weekly allowance, and he needs five dollars to pay for the trip! After doing some extra chores around the house to earn the money, Cairo learns a lesson about saving when he’s tempted to buy some super cool slime with his new earnings instead.",
+          "episode": 1,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Adventures in Sharing",
+          "description": "There’s a winter clothing drive at school, and Cairo and his friends discover that it’s harder to part with their things than they thought! When Cairo agrees to participate in the drive to help win a special prize for class participation, his parents explain why giving back to those less fortunate is important.",
+          "episode": 2,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Adventures in Girlville",
+          "description": "Cairo really likes his new classmate Irene - She’s the best at make believe, and he really wants to be her friend! He asks Theo and Mandy for tips on how to stand out and be ‘cool’, but nothing seems to go right. But when Cairo’s big brother Omari weighs in with some advice about the power of being yourself, Cairo decides to use his new super power the next day at school.",
+          "episode": 3,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Misadventures in Lying",
+          "description": "Division homework is Cairo’s worst nightmare! Cairo doesn’t quite grasp it, but it seems so easy for everyone else. After he fibs about completing his homework and it blows up in his face, Cairo learns about asking for help when you need it.",
+          "episode": 4,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Adventures in Courage",
+          "description": "Mitch is the new kid in class, and he won’t stop bothering Cairo. First, he breaks Cairo’s crayons, and then he even eats his snacks. When Cairo tries to avoid Mitch’s teasing, he ends up hurting his friend Enrique’s feelings instead. What a mess! Can Cairo be honest with Mitch and make amends with Enrique?",
+          "episode": 5,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Adventures in Curfew",
+          "description": "Cairo loves playing basketball in the park with his friends and his big brother, Omari. But Cairo’s new curfew keeps getting in the way of his playtime. When Cairo sneaks out to the park alone and gets Omari’s basketball stolen, he gets a wakeup call about safety following the rules.",
+          "episode": 6,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Adventures in Integrity",
+          "description": "Cairo is excited to meet and play with his new neighbor, Amara. But when a necklace goes missing from Amara’s home, her mother makes the wrong assumption that Cairo and his friends stole it. Can Cairo help find the necklace, and clear his name?",
+          "episode": 7,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Adventures in Acceptance",
+          "description": "Today is the day that Cairo’s grandma is supposed to visit! But when Cairo’s parents tell him that his grandma has passed away and is 'in a better place', he doesn't understand. What better place? Determined to find his grandma, Cairo looks in all of his favorite places, and eventually learns a lesson about loss and letting go. ",
+          "episode": 8,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Adventures in Winning",
+          "description": "After a week of tests, Mrs. King rewards her class with a video game tournament. Cairo wins the first prize, but he feels the pressure when everyone asks to be his partner for the next challenge. Can Cairo learn the difference between what makes a 'good winner' vs. a 'sore loser'?",
+          "episode": 9,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Adventures in Safety",
+          "description": "Cairo is excited for two special reasons: His best friend Enrique is coming over to his house for a playdate, and Mrs. King just announced a class scavenger hunt! But when Enrique goes missing on the way home from school, Cairo asks his brother and his parents to help track him down. ",
+          "episode": 10,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        }
+      ]
+    },
+    {
+      "season": 2,
+      "title": "Season 2",
+      "image": "https://content.production.cdn.art19.com/images/b6/0c/e1/f2/b60ce1f2-f470-4eba-abe6-03b7dd1c3569/d3bcc1bab5f455dcb1107002c4e520c077897df7c254880767bf40d763af9e94ab9964cccf754e9f989a033dbc4e14d925cbe1d7a3ad048de7c89660c4b3dc26.jpeg",
+      "episodes": [
+        {
+          "title": "Adventures in Travel",
+          "description": "The Carter house is venturing into a fun filled summer vacation that Mike has spent months mapping out, but, after hearing what his friends have planned, all Cairo can think about is what he’ll be missing out on back home. Cairo struggles to have fun with his parents and brother, Omari, until he finally starts to learn about the importance of spending quality time with his family.",
+          "episode": 1,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Adventures in Responsibility",
+          "description": "It’s Cairo’s turn to take care of the school pet, Percy the Parrot, and he couldn’t be more excited! When Cairo brings the parrot home, he’s faced with great responsibility and tries to rise to the occasion. Cairo has to feed Percy, clean up after him, and even cut his video game time short to make sure Percy is well looked after. Will Cairo return the pet back to school without ruffling any feathers?? ",
+          "episode": 2,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Adventures in Cyberbullying",
+          "description": "When Theo’s mother surprises him with an extra gaming headset, he can't wait to invite Cairo over to play their favorite video game, Blockhead! The boys have a blast in the virtual world together until they run into some unpleasant players. If Cairo and Theo want to keep playing online, they'll have to learn how to safely deal with cyberbullies.",
+          "episode": 3,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Adventures in Family Values",
+          "description": "Cairo and his family prepare for a weekend visit from their eccentric grandparent, Grandpa Carter. While his wise-cracking jokes keep the family laughing, Cairo finds it difficult to relate to his grandpa because of their age difference. In time, Cairo soon learns the value of respecting his elders and opening up to their wisdom. ",
+          "episode": 4,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Adventures in Patience",
+          "description": "It’s time for the Carter family BBQ, and everyone's invited! Even Enrique’s little brother, Mateo! But at the BBQ, Mateo’s antics start to get out of hand. Mateo is dropping plates and breaking decorations, leaving Enrique to pick up the pieces. If Enrique plans to lead by example, he’s going to need a crash course on how to be a caring big brother. ",
+          "episode": 5,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Adventures in Respect",
+          "description": "Cairo is excited to get home from school until he discovers an unexpected surprise: a babysitter. Cairo has never had to listen to anyone outside of his family before, and all Cairo wants to do is trade Jungle Jam cards with his friends. But, his babysitter, Sandra, is under strict orders to make Cairo finish his homework before he can play. Cairo must follow her rules, or else he might find himself in big trouble. ",
+          "episode": 6,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Adventures in Halloween",
+          "description": "Halloween is right around the corner! But there’s just one problem, Cairo doesn’t have a costume for trick or treating yet. When Cairo and his friends go costume shopping, he learns that finding something spooktacular to wear is harder than he thought. How will he get all of that candy if he doesn't look eerie-sistable? If Cairo plans on having a gourd time, he'll have to think outside the box to create his dream costume. ",
+          "episode": 7,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Adventures in Brotherly Love",
+          "description": "Cairo is looking forward to spending some time with his big brother this weekend but is shocked to find Omari at home with his new girlfriend, Lola. Omari and Lola attempt to spend time with Cairo, but he can’t help feeling left out. Before Cairo can welcome the addition of Lola in Omari’s life, he’ll have to accept that no one can break their brotherly bond.",
+          "episode": 8,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Adventures in Determination",
+          "description": "Cairo has always been a superstar swimmer. After he earns another medal, he decides to try out for the Starfish Swimming Team. But when he sees the strong competitors he’s up against, Cairo grows anxious about tryouts. Cairo’s family and friends will have to lend their support in order to get him in a winning mindset.",
+          "episode": 9,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Adventures in Gratitude",
+          "description": "Cairo and his friends are cast in a school play, but Mandy finds herself too nervous to perform in front of an audience. After being given the most lines, Mandy can’t help but be ungrateful for the opportunity. If Mandy plans on tackling her stage fright, she’ll have to change her perspective and search for the confidence to speak publicly. ",
+          "episode": 10,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        }
+      ]
+    }
+  ],
+  "image": "https://content.production.cdn.art19.com/images/b6/0c/e1/f2/b60ce1f2-f470-4eba-abe6-03b7dd1c3569/bba3c2ccf524c18e2099bb64d98f88ca52822127b25dbd30936ec318f206931f087c6075c5b839b3e4ddcfbfd45ce6ad84b57fa16c23bebf9b8839e6f1bd7c16.png",
+  "genres": [
+    "All",
+    "Featured",
+    "Kids and Family"
+  ],
+  "updated": "2022-11-02T07:01:00.000Z"
+}

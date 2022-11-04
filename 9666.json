@@ -1,0 +1,76 @@
+{
+  "id": "9666",
+  "title": "Iowa Chapman and The Last Dog",
+  "description": "The Last Dog is a thrilling and heartfelt audio adventure with the love story between a girl and a dog at its center. In an apocalyptic future, climate change and overconsumption have made our planet a very different place. The seas have risen, resources are scarce…and animals have disappeared off the face of the earth. Most people believe they never existed at all. 12-year-old Iowa Chapman is not most people. And when she’s rescued by what might be the last remaining dog, she realizes the responsibility she has to keep this amazing creature safe. Pursued by the evil Regulators, Iowa and Doggo set off on a journey in search of Haven, a legendary island where some believe animals might still be living. From Gen-Z Media, creators of Six Minutes, The Last Dog is GZM’s first movie-length audio epic. For more great Gen-Z Media podcasts visit: http://gzmshows.com",
+  "seasons": [
+    {
+      "season": 1,
+      "title": "Season 1",
+      "image": "https://content.production.cdn.art19.com/images/90/40/94/ed/904094ed-02fa-4f0d-9ebe-9fcd26a01d15/11e4efbcad67b19b67052b08bda754fb8dea1f8163fdf2fefafb933f9c9876986a65ba93afc794f2647cfe33c225925e73c97ea08701fa795f9c763a22d0b86c.jpeg",
+      "episodes": [
+        {
+          "title": "Iowa Chapman and The Last Dog (Stereo Audio Version)",
+          "description": "Iowa Chapman and The Last Dog is a thrilling and heartfelt audio adventure with the love story between a girl and a dog at its center. ",
+          "episode": 1,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Iowa Chapman and the Last Dog (3-D Audio Version)",
+          "description": "This version of Iowa Chapman and the Last Dog was Mixed using Dolby's Atmos Production Suite, it is best experienced with headphones. If you'd like to listen on speakers, the original version is your best option.",
+          "episode": 2,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Chapter 1 – The Collector",
+          "description": "Iowa’s parents are taken away by the Regulators, but not before revealing a wondrous secret. Years later, Iowa, now living with her Aunt Callie, searches for remnants of the world as it used to be…but not everyone wants her to find them. Keep listening for a discussion about climate change with Dr. Dalia Kirschbaum, Chief of the Hydrological Sciences Laboratory at NASA’s Goddard Space Flight Center.",
+          "episode": 3,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Chapter 2 – The Monster",
+          "description": "Visiting her secret collection, Iowa is trapped by Regulators and rescued…by a miraculous creature. Listen afterward for a discussion about the conservation of rare and uncommon animal, plant, and natural communities with Nathan Shepard, Eastern Regional Field Biologist with the North Carolina Natural Heritage Program.",
+          "episode": 4,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Chapter 3 – Cargo",
+          "description": "Iowa comes face to face with a real-life dog, and is deputized an “Agent of the Animals” so that she can deliver him to safety. Keep listening for a discussion about dogs, with Author, Naturalist, Journalist and dog expert Mark Derr.",
+          "episode": 5,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Chapter 4 – Junktown",
+          "description": "Following the rhymes of an ancient song, Iowa and the dog set off for the legendary Haven. But their journey hits a snag in a dangerous town, “built on what’s been shunned.” Stay tuned for a discussion about urbanization and the rise of cities with Dr. Luna Khirfan, Associate Professor at the School of Planning in the University of Waterloo’s Faculty of Environment.",
+          "episode": 6,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Chapter 5 – A Journey to the Sun",
+          "description": "Iowa and the dog escape Junktown down a dark well, and find themselves in a world bigger than she could’ve ever imagined. Stay tuned for a discussion about the effects of climate change on lakes and rivers with Dr. JT Reager (pron: Ray-ger), Scientist at the NASA Jet Propulsion Laboratory.  ",
+          "episode": 7,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Chapter 6 – Doggo",
+          "description": "Iowa gives her traveling companion a name, but their journey down river does not go according to plan. Stay tuned for a discussion about a  very specific type of grasshopper  with Dr. Rick Overson, Research Scientist at Arizona State University and Co-Director of the Global Locust Initiative.",
+          "episode": 8,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Chapter 7 – Mama Bee and the Boys",
+          "description": "Iowa and Doggo are captured by a family with bad intentions…and a hearty appetite. Stay tuned for a discussion about flammable, combustible, and explosive materials with Supervisory Special Agent and Certified Fire Investigator with the Bureau of Alcohol, Tobacco, Firearms and Explosives, James Panos.",
+          "episode": 9,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Chapter 8 – An Old Friend",
+          "description": "Iowa and Doggo grow closer as they make their way back to the river where they discover a mysterious boat. Stay tuned for a discussion about modern farming practices is Dr. Estelí Jiménez-Soto, Professor of Nutrition & Food Studies at Syracuse University.  ",
+          "episode": 10,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        }
+      ]
+    }
+  ],
+  "image": "https://content.production.cdn.art19.com/images/90/40/94/ed/904094ed-02fa-4f0d-9ebe-9fcd26a01d15/03ebc89ab0e8951c437fa4d7d24e06ee03a1f56307dafb321745752ac1ccf53b6a121eba63c54a99c45aea7b021a5277dff0d1fb5c0673cce45ba9ea5895f845.jpeg",
+  "updated": "2022-11-03T07:01:00.000Z"
+}

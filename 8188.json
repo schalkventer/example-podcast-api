@@ -1,0 +1,612 @@
+{
+  "id": "8188",
+  "title": "Little Stories Everywhere",
+  "description": "New episodes come out every Tuesday for free, with 1-week early access for Wondery+ Kids subscribers. A good story can take you anywhere. Every week Little Stories Everywhere will bring you magical, adventurous, fantastical tales to excite your imagination and carry you and your family members to new places around the world. Hosted by Oscar-nominated actor Virginia Madsen and celebrated voice actor Robbie Daymond, stories will include timeless classics as well as brand-new tales.",
+  "seasons": [
+    {
+      "season": 1,
+      "title": "Classic Christmas Tales",
+      "image": "https://res.cloudinary.com/dumslp4el/image/fetch/w_676,h_676/https://content.production.cdn.art19.com/images/7c/42/30/0e/7c42300e-39be-4d8e-a375-11cdd37fab1d/7e25fee7e7b687860d427d307c70a06edf925fa0ac6616a6b79e883ccf4b865152e61821e9e5c7304ccb3ea175a4a3f42fef4317f9e4c46271403191d4ce5150.jpeg",
+      "episodes": [
+        {
+          "title": "A Merry Christmas - Part One",
+          "description": "A heart-warming chapter from Little Women. In part one, the four March sisters discover the meaning of charity just before Christmas. Written by Louisa May Alcott.",
+          "episode": 1,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "A Merry Christmas - Part Two",
+          "description": "In part two, the March sisters perform a magical play and discover an enchanting surprise on Christmas day. Written by Louisa May Alcott.",
+          "episode": 2,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Tilly's Christmas",
+          "description": "A tender-hearted girl rescues a small creature, and a mysterious neighbor rewards her on Christmas day. Written by Louisa May Alcott.",
+          "episode": 3,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Butterflyflutterby & Flutterbybutterfly - Part One",
+          "description": "In part one, a charming uncle invents a fairytale for his niece and nephew, but in order to continue the story the children must remember tiny details. Written by William Dean Howells.",
+          "episode": 4,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Butterflyflutterby & Flutterbybutterfly - Part Two",
+          "description": "In part two, the uncle spins an elaborate yarn that only the niece and nephew have the power to end or keep going, forever. What will they do? Written by William Dean Howells.",
+          "episode": 5,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Kate's Choice - Part One",
+          "description": "In England, a teenage girl named Kate is orphaned and sent to live in America. She must decide which of her American relatives to live with as her immediate family. Written by Louisa May Alcott.",
+          "episode": 6,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Kate's Choice - Part Two",
+          "description": "In part two, Kate throws a Christmas party and makes her choice, and her decision brings her extended American family closer. Written by Louisa May Alcott.",
+          "episode": 7,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Santa Claus and Little Billee - Part One",
+          "description": "In part one, a small boy finds himself lost in a toy department in New York City while shopping with his mother on Christmas Eve. When he searches for help, he meets Santa Claus. But it turns out Santa Claus needs help too. Written by John Kendrick Bangs.",
+          "episode": 8,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Santa Claus and Little Billee - Part Two",
+          "description": "In part two, Little Billee asks Santa for help finding his way home. As they go searching for Billee’s family, the boy learns about Santa’s mysterious past.  Written by John Kendrick Bangs.",
+          "episode": 9,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        }
+      ]
+    },
+    {
+      "season": 2,
+      "title": "Season 2",
+      "image": "https://content.production.cdn.art19.com/images/1e/74/fd/d4/1e74fdd4-78cf-40db-96df-2132bce7e286/755571ea75f982304b013333c026987825fea82152a0fbbdbd0d3992d956bf7d8e2abf741d541321c5c5727ad84ca076141ae7348269d871d7bb253d8aaecfd7.jpeg",
+      "episodes": [
+        {
+          "title": "Game of Griffins - Part One",
+          "description": "Nine-year-old Bea wakes up one morning as a character inside her favorite television series for grown-ups, Game of Griffins. But there’s one problem: she missed a crucial episode! Now she has no idea where this adventure will take her.",
+          "episode": 1,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Game of Griffins - Part Two",
+          "description": "In the second and final part of Game of Griffins, Bea and Philpott march toward the Volcano of Fear for a final showdown with the evil king. Bea must free the griffins, but there’s one problem: she still has no plan. ",
+          "episode": 2,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Adventures with Eli the Cat",
+          "description": "In an animal shelter, a curious cat named Eli dreams of being rescued from his purple cage. One day, after many long days, Eli finds a loving home but he still feels trapped. Eager to explore, Eli decides to let his curiosity lead the way.",
+          "episode": 3,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Crazy for Hats!",
+          "description": "Caroline has six weeks to turn her passion into a career. As the streets of Paris buzz with excitement, the young girl embarks on a journey to become the city’s premier hat maker. Caroline wants her designs to sparkle as bright as the Eiffel Tower, but perfection takes time, and her mother has given her a strict deadline. How will she ever be able to save enough money to buy her own shop?",
+          "episode": 4,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "It'll Make You Happy!",
+          "description": "Parents can be embarrassing. No one knows this better than Sippy Brown. Her dad is an eccentric painter with a knack for the unconventional. But when he turns the family car into a canvas for his designs, Sippy's life is turned upside down. ",
+          "episode": 5,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Alfred and the Fairies of Iceland",
+          "description": "Alfred struggles to embrace his new life after moving from sunny California to Iceland. Everything feels strange, and he misses his friends. But when playing outside alone in the garden, Alfred stumbles upon magical fairies desperate for help. The fairies plot to save their endangered home –– and Alfred joins their quest.",
+          "episode": 6,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Wendell's Wonderful Worrisome Day",
+          "description": "Wendell takes the bus to school every day. He treats it like a ritual. But one day his rule-abiding driver leaves town and is replaced with a quirky farmer—Wendell buckles in for a bumpy ride that offers many surprises along the way. ",
+          "episode": 7,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "My Father’s Dragon - Part One",
+          "description": "In part one, an adventurous boy named Elmer Elevator runs away from home to rescue a captured baby dragon held on a mysterious and forbidden Island.",
+          "episode": 8,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "My Father’s Dragon - Part Two",
+          "description": "Elmer arrives on Wild Island but he must learn how to maneuver past its ferocious inhabitants in order to rescue the baby dragon.",
+          "episode": 9,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "My Father’s Dragon - Part Three",
+          "description": "Elmer musters up courage he didn't know he had as he tries to outwit his foes in a final mighty battle to free the baby dragon.",
+          "episode": 10,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        }
+      ]
+    },
+    {
+      "season": 3,
+      "title": "Season 3",
+      "image": "https://content.production.cdn.art19.com/images/1e/74/fd/d4/1e74fdd4-78cf-40db-96df-2132bce7e286/755571ea75f982304b013333c026987825fea82152a0fbbdbd0d3992d956bf7d8e2abf741d541321c5c5727ad84ca076141ae7348269d871d7bb253d8aaecfd7.jpeg",
+      "episodes": [
+        {
+          "title": "Flyaway Baby",
+          "description": "Sebastian has had it with his baby brother Arnold. The crying, the fussing, the messes. He can’t take it anymore. Sebastian just wants him gone and to get his old family back. But Arnold is no ordinary baby and soon he’ll make Sebastian regret that he ever wished him away.",
+          "episode": 1,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Lost on Mars - Part One",
+          "description": "Most kids would be upset when their parents tell them they’re moving, but not Gaia. Her family is on a mission to Mars, where she’s the first kid to ever to live on the red planet. The only problem is, it’s not quite the adventure she was promised. With the help of her robot friend, TwoBit, Gaia finds a way to take part in the exploration – even if it means defying her parent’s wishes.",
+          "episode": 2,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Lost on Mars - Part Two",
+          "description": "In part two of “Lost on Mars,” Gaia is in a race against time to save her family and robot TwoBit from a botched scientific expedition. She needs to get everyone back to base camp safely, but things go wrong at every turn. Her parents are unconscious, TwoBit is broken down, oxygen levels are dwindling and the rover’s battery is dying. With time and options running out, will Gaia be able to save them all?",
+          "episode": 3,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Music Will Take You Places",
+          "description": "Moving hasn’t been easy on Chloe. She feels out of place in her new home and upset that her dad is always working. As a peace offering, Chloe’s dad gives her his treasured record player, hoping that she’ll find escape and comfort through music. What she discovers instead is so much more in this magical journey of sound and imagination.",
+          "episode": 4,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Hamster With All The Answers",
+          "description": "Ralphie prefers to practice his moves on the basketball court over studying for his upcoming tests, and it shows. If Ralphie doesn't start to improve his grades, his parents plan to pull him away from shooting hoops. Before his next exam, Ralphie discovers an unexpected shortcut that offers him all of the right answers but is it too good to be true?",
+          "episode": 5,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Aunt Prue, Super Sleuth",
+          "description": "When sisters Angeline and Emma are forced to spend the summer with their Aunt Prue, the girls are certain they’re going to have a miserable time. When they realize that Prue and her pet chicken Mildred are detectives, the summer takes an exciting turn full of mystery, museums, and stolen diamonds - not to mention chocolate cake for dinner!",
+          "episode": 6,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Inconstant Moon",
+          "description": "It’s the first day of Ramadan and Nabeel is ready, for the first time, to tackle the entire month of fasting. Ever since his father left, Nabeel has been helping out with his little sister and today he’s even going to get to lead the prayer in his house. But the absence of his father leaves an emptiness in his house. Will he still get to spend Eid with his father like they used to?",
+          "episode": 7,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Portal in the Pond - Part One",
+          "description": "Aidan and Amelia are brother and sister and their Grandmother has told them the same mystical bedtime story about the portal in the pond, for years now - but now that Aidan is a little older he’s convinced it’s actually true! When he decides to follow Grandma into the forest on one of her walks, Aidan discovers there is much more to the story than Grandma ever told him.",
+          "episode": 8,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Portal in the Pond - Part Two",
+          "description": "On the other side of the magical pond, Aidan sets off to find his Grandmother. Along the way he meets wonderful new creatures and learns that he must help them defeat an evil king. Far more than a walk in the woods, this second part of the story is a heroic act of imagination for Aidan. ",
+          "episode": 9,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "How Felix Found His Moxie - Part One",
+          "description": "When Ten-year old Felix gets his first cell phone he quickly makes friends with Moxie, a virtual assistant application on his phone. After a lightning storm causes a power outage during a system update, Moxie and Felix wake up in a body swap: Moxie has taken over Felix’s body (and voice!), while Felix is stuck inside his phone. It’s all fun and games until Moxie realizes that she likes being a real, living person and decides she wants to stay in Felix’s body permanently. Will Felix be trapped in his phone forever while an AI runs his life?",
+          "episode": 10,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        }
+      ]
+    },
+    {
+      "season": 4,
+      "title": "Season 4",
+      "image": "https://content.production.cdn.art19.com/images/1e/74/fd/d4/1e74fdd4-78cf-40db-96df-2132bce7e286/755571ea75f982304b013333c026987825fea82152a0fbbdbd0d3992d956bf7d8e2abf741d541321c5c5727ad84ca076141ae7348269d871d7bb253d8aaecfd7.jpeg",
+      "episodes": [
+        {
+          "title": "Camilla the Indoor Pigeon",
+          "description": "Camilla is a pigeon that lives in Central Park. There’s plenty to eat and lots to do in the middle of New York City, but what Camilla loves the most is peeking into the building windows to see all the exciting stuff humans are doing- and all the different apartments! One day while strolling through Grand Central Station, Camilla decides that she wants to be an indoor pigeon. Despite the disapproval and judgement of her friends and family, Camilla embarks on an exciting journey to find her perfect indoor home...away from cats.",
+          "episode": 1,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Nessie Needs a Friend",
+          "description": "Nessie, the Loch Ness Monster, lives in the center of a beautiful lake. She spends all day playing hide and seek with people who come to visit her. Nessie was the best hider, possibly in the entire world - no one had ever caught her! She loves her daily game but hates when everyone leaves at the end of the day. She gets sad and scared because she’s all alone and hears spooky noises coming from the woods surrounding the lake. Nessie will have to learn how to be brave and trust her instincts to seek out what’s scaring her and no longer hide from it.",
+          "episode": 2,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Nessie and Bigfoot: BFFs",
+          "description": "Now that Nessie and Bigfoot are Best Friends Forever, they play games for hours. But then they realize that their friend The Captain hasn’t returned since going for a walk in the woods. Together, they decide to summon the courage to search for the Captain even though they’ve been hearing a scary sound coming from the other side of the forest. Along the way, they use teamwork and bravery to try and find their friend. And they even make a few new creature friends along the way.",
+          "episode": 3,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Cloud Hotel - Part One",
+          "description": "Max doesn’t like hotels. The beds are unfamiliar, he can always hear people talking in other rooms and they can never make his oatmeal right. But when his older sister Clara wins a trip to visit The Cloud Hotel, his Mom says he has to go with her. When they arrive Max learns this isn’t just any old hotel: it’s a magic one with surprises around every corner.",
+          "episode": 4,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Cloud Hotel - Part Two",
+          "description": "Floating people! Fire eaters! His sister disappearing! Max didn’t expect any of this when he agreed to take this trip. And the only thing Max likes less than hotels are surprises! Before he can get a ride to get back home though, the hotel owner promises him there’s one more magic trick he’s going to want to see. It’s one that will change his life.",
+          "episode": 5,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Maceo Master Chef",
+          "description": "When Maceo Clark wins the Child Chef World Stage Competition, his dreams come true. He’s about to be the youngest chef ever to cook in the world renowned Tagine restaurant in New York CIty. But trouble starts when the Sous Chef, Gary, gets jealous that there’s a rising star in his kitchen. What will happen when one of the foremost food critics comes to try Maceo’s cooking? Will it be two thumbs UP or two thumbs DOWN? ",
+          "episode": 6,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Best American Robot - Part One",
+          "description": "Vicky’s dad won’t let her watch her favorite tv show, Best American Robot until all the dishes are done. So she comes up with a plan that will let her watch tv whenever she wants: she’s going to turn their whole house into one giant robot that will do all of her chores! But when Vicky creates a robot that’s just a little too smart...things start to get out of hand. ",
+          "episode": 7,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Best American Robot - Part Two",
+          "description": "When Vicky’s new robot starts to take over their lives she knows she has to do something about it - and fast. She’s entered her machine into the Best American Robot Juniors competition and they want to see it in action. Will Vicky be able to repair the ‘bot or will she have to dismantle her greatest invention ever?",
+          "episode": 8,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Under the Water",
+          "description": "A father and daughter go fishing on the banks of the Mississippi and when they return home, the daughter has changed. Part myth and part mythology, this children’s story brings to light the importance of heritage, the mystery of lineage and the beauty of intergenerational communication.",
+          "episode": 9,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Herman & Petunia",
+          "description": "Carl and Ruby are twins. They do everything together, for better or for worse. When the duo misbehaves, their mother says that it’s like they turn into different children. She calls these alter-egos “Herman and Petunia.” One summer day, when the siblings are home alone, they find two children, who look exactly like them, making an enormous mess in the kitchen. The strange, uninvited guests have no manners and exhibit bad behavior. Surely, mom would disapprove. What ensues is a mad chase throughout the day for Carl and Ruby to try and contain these two bizarro versions of themselves.",
+          "episode": 10,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        }
+      ]
+    },
+    {
+      "season": 5,
+      "title": "Season 5",
+      "image": "https://content.production.cdn.art19.com/images/1e/74/fd/d4/1e74fdd4-78cf-40db-96df-2132bce7e286/755571ea75f982304b013333c026987825fea82152a0fbbdbd0d3992d956bf7d8e2abf741d541321c5c5727ad84ca076141ae7348269d871d7bb253d8aaecfd7.jpeg",
+      "episodes": [
+        {
+          "title": "The Onion Who Made Everyone Cry",
+          "description": "Onion is a sweet, kind soul, who’d love more than anything to fit in and have friends in the garden. But his strong scent makes it impossible for others to be around him without bursting into tears! But all that’s about to change, when the onion enters the garden talent show to finally prove to everyone what he’s made of...",
+          "episode": 1,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Brave Adventures of Luka the Lamb",
+          "description": "Luka the Lamb is tired of his life in the pasture. He needs some adventure. So he sets out on his own to explore the amazing Mexican wilderness. But little Luka ends up getting much more adventure than he bargained for: wild animals, amazing people and a load of life lessons.",
+          "episode": 2,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Encore: Music will Take you Places",
+          "description": "Moving hasn’t been easy on Chloe. She feels out of place in her new home and upset that her dad is always working. As a peace offering, Chloe’s dad gives her his treasured record player, hoping that she’ll find escape and comfort through music. What she discovers instead is so much more in this magical journey of sound and imagination.",
+          "episode": 3,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Miles and his Extraordinary Ordinary Dog",
+          "description": "Miles doesn’t have much time for other kids. So that’s why his parents decided to get him… a dog! Ben would much rather read quietly in his room than play fetch with a smelly animal. But it won’t be long before this dog shows Miles that you can’t just be a dog by its pawprints!",
+          "episode": 4,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Playground Warriors",
+          "description": "Edward is the leader of all battle reenactment adventures in the playground. An enigmatic monitor to the toddlers, Edward helps out during breaktime to transform these toddlers into Lil’ Warriors, who partake in playground battles of epic proportions. But when playtime is threatened by the mighty Napp, will the disbanded rogues accept defeat, or will Edward manage to salvage their cherished playtime?",
+          "episode": 5,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Ghost-Cat of Haunted Hollow",
+          "description": "Andrew is a ghost-cat. Naturally, everyone in the superstitious town of Haunted Hollow stays away from him. They think ghost-cats are scary, unlucky, and bad. Andrew, however, just wants a family to haunt… and love. Join us on a spooky adventure as Andrew searches for the purrrfect home, and find out what happens when he meets Wanda the Witch of Haunted Hollow Forest!",
+          "episode": 6,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Zoe the Comedy Zombie",
+          "description": "Zoey is one of the funniest people out there, but it’s hard to have a career as a comedian when you’re also a zombie. Zoey does everything in her power to hide the fact that she’s a zombie while she performs, but it starts to get more and more difficult as she gets more and more famous. How do you stop your arm falling off mid-punchline? Find out in this spooky halloween tale. ",
+          "episode": 7,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Conchas Contigo (Day of the Dead)",
+          "description": "At the end of the Day of the Dead celebrations, Suzanna sneaks into the living room for a late-night snack. But before she can tip-toe back to her room, she’s caught by her Ancestor who’s back from the dead and hungry for the missing conchas! Follow Suzanna and her great-grandmother on an adventure to find the best conchas in town! And find out why Dia de los Muertos can be the most spectacular holiday of the year…",
+          "episode": 8,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Grandpa Gopi’s Magic Medicine",
+          "description": "Twins Ayush and Shalu are excited to celebrate the first day of Diwali, which honors Dhanvantri, the god of Indian medicine… but they can’t stop fighting! When they dare each other to taste the strange liquid from a peacock-shaped beaker, they are suddenly transported to an ancient village, filled with potion cures for jealousy, anger, cruelty and spite. How will they decide which cure to take home? And what will Grandpa Gopi say when he realizes what they’ve been up to?!",
+          "episode": 9,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Bina the Bouncy Elephant Ballerina",
+          "description": "Bina is a bouncy baby elephant with a spring in her step and a stomp in her heart. She’s late for everything, constantly forgetting things, and almost always misses her pottery classes, because she loves to sleep in! But when her herd embarks on a 300-mile trek through the Okavango Delta, she’ll discover how to survive in the wilderness, how to become a leader, and most importantly, why her name means “dance” in Sotho!",
+          "episode": 10,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        }
+      ]
+    },
+    {
+      "season": 6,
+      "title": "Season 6",
+      "image": "https://content.production.cdn.art19.com/images/1e/74/fd/d4/1e74fdd4-78cf-40db-96df-2132bce7e286/755571ea75f982304b013333c026987825fea82152a0fbbdbd0d3992d956bf7d8e2abf741d541321c5c5727ad84ca076141ae7348269d871d7bb253d8aaecfd7.jpeg",
+      "episodes": [
+        {
+          "title": "The Tallest Christmas Tree in New York",
+          "description": "Penelope and her mom select a small Christmas tree from a sidewalk seller for their tiny apartment in Manhattan. But when they get it home, the tree starts to magically grow... Penelope gets to know her upstairs neighbors as the tree bursts through into the apartments above, until eventually, everyone is celebrating their different winter holidays together!",
+          "episode": 1,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Santa and the Magic Cookies",
+          "description": "Alison wants to make special Christmas cookies for Santa this year. She decides to make some delicious gingerbread cookies, all by herself. But when she takes them out of the oven: THEY COME ALIVE! And now they are determined to escape in the most elaborate of ways. How will Alison get the cookies back in time for Santa’s Christmas Eve visit? Find out... or eat crumbs!",
+          "episode": 2,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Great Escape at the North Pole",
+          "description": "Ren is a disaster on the drums. He’s worried about embarrassing himself at his winter concert, and wishes he could escape the holiday season. His wish backfires and lands him in The North Pole! To rediscover the magic of Christmas, Ren will need to find his courage, and discover the Christmas sparkle within!",
+          "episode": 3,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Blast the Shy Firework",
+          "description": "Blast comes from a long line of lively, confident fireworks. But unlike them, he’s actually pretty shy. Exploding in the sky in a whirlwind of colors isn’t as easy as it looks! But when Blast meets Bowie, an equally shy skywriting plane, the pair decide to team up, overcome their fears and create the most spectacular sky show of all time!",
+          "episode": 4,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Time-Traveling Goats: Snack to the Future",
+          "description": "When Barbara and Danny discover a time machine, they do what any pair of curious and hungry goats would do - they travel through time looking for snacks! But after rescuing a dinosaur egg and bringing it back to their farm, they soon realize that even the cutest dinosaur can make a BIG mess...",
+          "episode": 5,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Robo and Pop-Pop’s Guide to Human Friendship",
+          "description": "Robo, an optimistic robot, wants to become friends with real human kids. Together with his trusted pet, Pop-Pop, a talking toy car, they go on a journey to eat some burgers, blend some milkshakes, and see if they can make a real human friend!",
+          "episode": 6,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Animal Crackers Gone Wild",
+          "description": "Lion, Bear, Turtle, and Monkey are not your everyday wild animals… because they’re animal crackers! And to follow their dreams, they just need to escape from the top shelf of a bodega. However, standing in their way is one intimidating Bodega Cat... who, as it turns out, might not be so different from them after all!",
+          "episode": 7,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Stanley the Seal's Surf School",
+          "description": "Jake is sick of chickening out on surfing. One morning, he charges into the ocean. When things don’t go as planned, he’s rescued by Stanley, a magical seal with a secret underwater surf school. Will Stanley’s unique teaching methods give Jake enough confidence to surf in front of his brother? Dive in and find out!",
+          "episode": 8,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "How to Dance with a Tasmanian Devil",
+          "description": "Mia the Tasmanian Devil is grumpy, hairy, and stinky. But despite all that, she’s on a mission to change the way the world sees Tasmanian Devils. Together with her friend Keiko, she’ll enter a beauty pageant and star in a dance contest… and she’s gonna do it Tasmanian Devil style!",
+          "episode": 9,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Valentine’s Day Stinks: Superhero Edition!",
+          "description": "Valentine is a supervillain born on Valentine’s Day… and he absolutely hates it. Each year on his birthday, everyone talks about love and everything is pink. Yuck! This year, he plans to destroy Valentine’s Day, but that all changes when a new evil mastermind comes to town.",
+          "episode": 10,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        }
+      ]
+    },
+    {
+      "season": 7,
+      "title": "Season 7",
+      "image": "https://content.production.cdn.art19.com/images/1e/74/fd/d4/1e74fdd4-78cf-40db-96df-2132bce7e286/755571ea75f982304b013333c026987825fea82152a0fbbdbd0d3992d956bf7d8e2abf741d541321c5c5727ad84ca076141ae7348269d871d7bb253d8aaecfd7.jpeg",
+      "episodes": [
+        {
+          "title": "How Potato Gorgonzola Got Her Name",
+          "description": "Potato Gorgonzola doesn't understand her funny-sounding name. And other kids think it's weird! But when Potato's parents sit her down and tell the mind-blowing story behind her name, Potato Gorgonzola wants to share it with the world!",
+          "episode": 1,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Mr. Singh and the Night Statues",
+          "description": "Mr. Singh is a lonely statue who spots a shooting star, and gets the chance to make a wish. When he comes to life one night, he discovers the quirky members of “The Society of Statues.” Later he meets Miss Peaches, the loneliest cat statue in the world. Will the statues be able to keep their friendship alive once the sun rises?",
+          "episode": 2,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Eddie and The Spaghetti Yeti",
+          "description": "Eddie is a very picky eater and there’s only one thing he likes – spaghetti! Today is his favorite day of school, Pasta Day, but when lunch is canceled after all the ingredients go missing, Eddie is determined to track down the mysterious culprit and put pasta back on the menu!",
+          "episode": 3,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Mark the Unicorn",
+          "description": "Mark was a unicorn unlike any other in Cloudtopia. Mark didn’t have a horn. Because of this, Mark was totally friendless and often the subject of bullying by the most popular unicorn in school, Sprinkle. One regular day, a very un-regular thing happens that changes Mark and Sprinkle’s relationship forever…",
+          "episode": 4,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "What Does Your Dad Do?",
+          "description": "Amelia is cool. Her dad… is not. He works in the sewers, which is totally embarrassing and gross. When her dad hears her lying to her friends about his job, he takes her on a sewer adventure. Maybe her dad is a little cooler than she first thought…",
+          "episode": 5,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Case of the Missing Chocolate Bunny!",
+          "description": "Every year Mr. Bunny throws his annual Easter egg hunt. But this year, things don't go according to plan. In the middle of his party, Mr. Bunny discovers his grand prize, a delicious chocolate bunny wrapped in beautiful gold foil, has been stolen! Which one of his guests could have taken it? Was it Mrs. White Whale? Or Mr. Green Iguana? Maybe it was Mrs. Peacock! It's up to Mr. Bunny to investigate. Can he solve the case of the missing chocolate bunny?",
+          "episode": 6,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Javi's Imaginary Adventures",
+          "description": "Javi is a kid with a WILD imagination that has been getting him into some trouble. Inspired by his exciting clothing, Javi’s mind takes him to places that no one else can see. But with a little guidance and some paint brushes, he’ll learn just how wonderful his imagination is when channeled the right way!",
+          "episode": 7,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Ramona the Bowling Ball",
+          "description": "Ramona the Bowling Ball is pretty good at her job, sailing down the lanes and knocking all those pins over. But she’s curious and wants to see the rest of the world, so she hops the rails and sails out the door, eager to see the city. It’s fun at first, but as night falls, Ramona’s on a race against time to return to the bowling alley before closing time, or else she’ll be trapped outside forever!",
+          "episode": 8,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Erin and the Extraterrestrials",
+          "description": "Everything about Erin's life is out-of-this-world. She lives near a swamp, her dad's name is The Swordfish King, and she's got a UFO-building workshop in her bedroom. Erin just needs to see a real UFO up-close... and her life would be complete!",
+          "episode": 9,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Space Adventures: Pluto's Big Problem",
+          "description": "All her life, Pluto has been a planet. Until suddenly, she’s not. But then...what IS she? The cutest little gumball in the galaxy sets off to find out! Outer space is full of interesting characters, and one of them has to have the answer she's looking for…",
+          "episode": 10,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        }
+      ]
+    },
+    {
+      "season": 8,
+      "title": "Season 8",
+      "image": "https://content.production.cdn.art19.com/images/1e/74/fd/d4/1e74fdd4-78cf-40db-96df-2132bce7e286/755571ea75f982304b013333c026987825fea82152a0fbbdbd0d3992d956bf7d8e2abf741d541321c5c5727ad84ca076141ae7348269d871d7bb253d8aaecfd7.jpeg",
+      "episodes": [
+        {
+          "title": "My Sister… the Shapeshifter!",
+          "description": "One afternoon while Mateo Delgado is playing piano, he looks out the window to see his sister leaving for soccer practice. But is that really where she’s going? Because she just transformed into a 6-foot LIZARD WARRIOR! Eager to learn more about his sister’s secret life as a shapeshifter, Mateo investigates…",
+          "episode": 1,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Opi’s Magical Sleepover Club",
+          "description": "Tonight is the sleepover Opi has been waiting for. She brings her stuffed Whale and Giraffe along for the ride. But when darkness kicks in, and the bathroom is far, far away, Opi is going to need a little magic to help her through…",
+          "episode": 2,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Fourth of July Spy Heist!",
+          "description": "Briggs the Bald Eagle is the world's greatest treasure hunter. And this Fourth of July, he's planning his ultimate heist: to obtain George Washington's wig. With the help of his trusty sidekick, Trixie the Turkey, can Briggs pull off his biggest score yet? Or will he discover he's in over his head?",
+          "episode": 3,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Rocco vs. the Socktopus",
+          "description": "It’s springtime and Rocco must finish his spring cleaning before he can play outside. But when he discovers that none of his socks have a matching pair, Rocco sets out on an epic adventure, only to find his missing socks guarded by the mighty Socktopus…",
+          "episode": 4,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Ghostly Tales: The Haunting of Frostworth Lane",
+          "description": "Aisling the ghost girl is lonely. She’s tired of haunting the empty house at 15 Frostworth Lane. Every time somebody moves in, Arlogg — the house’s other ghost — scares them away. So when a new family moves in, Aisling will do anything to make them stay…",
+          "episode": 5,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Pepperoni Grand Prix",
+          "description": "Drag Race Day is Kwame’s favorite day – but he’s stuck with his mom working in her food truck. That is, until she takes him to an underground food truck rally! With a tricked out truck of high-tech gadgets, Kwame straps in for the ride of his life.",
+          "episode": 6,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Space Adventures: The Lost Pet",
+          "description": "Most asteroids love school. But Nelly isn’t most asteroids. When her first day gets off to a rocky start, she heads out on an adventure across the galaxy to set things right… and try not to get sucked into a black hole!",
+          "episode": 7,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Ice-Cream Investigation",
+          "description": "Melody is an aspiring investigative journalist — and an ice cream enthusiast. Good thing her mom works at the Sweet Tooth Ice Cream Factory! When her mom won’t take her to work for the secret flavor reveal, Melody takes matters into her own hands. Will she uncover the new flavor, or get caught sticky-handed?",
+          "episode": 8,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Mind-Melting Kingdom of Heavy Metal",
+          "description": "Cyrus loves playing classical guitar and taking lessons from his eccentric teacher, Raeya. But when Raeya goes missing, Cyrus’s search transports him to a land ruled by heavy metal music, where he’ll battle the evil troll Gremulon… and shred his socks off!",
+          "episode": 9,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Pembi the Night Hippo",
+          "description": "Pembi the hippo loves exploring the jungle at night. But when she gets caught in a poacher’s trap, she is forced to face the daylight. How will Pembi escape? Join us on the tiny Tiwai Island in Sierra Leone to discover the hidden creatures of the night!",
+          "episode": 10,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        }
+      ]
+    },
+    {
+      "season": 9,
+      "title": "Season 9",
+      "image": "https://content.production.cdn.art19.com/images/1e/74/fd/d4/1e74fdd4-78cf-40db-96df-2132bce7e286/755571ea75f982304b013333c026987825fea82152a0fbbdbd0d3992d956bf7d8e2abf741d541321c5c5727ad84ca076141ae7348269d871d7bb253d8aaecfd7.jpeg",
+      "episodes": [
+        {
+          "title": "Daniela Vega reads… The Mystery of the Red Phoenix",
+          "description": "Daniela Vega, star of the Oscar-winning film “A Fantastic Woman,” tells the story of a Spanish girl whose family trip to Argentina turns into a mystical adventure. When Javiera is magically transported to the mountains of Patagonia, the only way to escape is with the help of furry, feathery and fabulous friends along the way!",
+          "episode": 1,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Oscar Nuñez reads… The Magic Zapatos",
+          "description": "“The Office” star Oscar Nuñez tells the story of Ana, a girl who’s terrified to perform at her upcoming dance recital — until her mom gives her a pair of enchanted shoes. The zapatos magicos take Ana on an amazing adventure that just might help her overcome her stage fright!",
+          "episode": 2,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Shawn Smitty and the Lost City",
+          "description": "It’s Shawn Smitty’s birthday and he is NOT in the mood to celebrate. But when he and his best friends discover a treasure map in the backyard, the birthday boy is determined to find the Lost City and finally become a real explorer!",
+          "episode": 3,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Most Boring Story You’ve Ever Heard",
+          "description": "*Listen to the end for a special Robbie Daymond surprise!* Olivia the Brown Bear is the most boring teenager in the entire forest. So boring, in fact, that her stories put people to sleep almost immediately! If you’re ready for a challenge, try listening to this entire story without falling asleep…",
+          "episode": 4,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "My Cousin Got STUCK… in a Video Game!",
+          "description": "Carlos and Sofia hate sharing their favorite video game, Lucha-Mania. However, on a dark and stormy night, lightning strikes and the kids are zapped into the game! Now transformed into masked luchadors, these bickering siblings will need to form a tag team and defeat the game’s final boss: El Gigante!",
+          "episode": 5,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Space Adventures: Cat Pirates… in Space!",
+          "description": "Captain Claws flies through space with his crew of pirate cats. From their spaceship, The Whisker's Revenge, the crew hunts out the tastiest cat treats in the galaxy. There’s just one problem on this voyage: an alien stowaway!",
+          "episode": 6,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Curse of the Halloween Candy",
+          "description": "Halloween means scary stories, candy, and sometimes… scary stories ABOUT candy! Join three pieces of candy on Halloween night as they try to avoid being eaten and give each other a fright, with tales from their haunted pasts!",
+          "episode": 7,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Ghostly Tales: My Secret Ghost Garden",
+          "description": "Delilah has the most beautiful ghost garden in the whole ghost world. But there’s a mischievous doggy in her haunted neighborhood, and it loves nothing more than to smash up all her flowers! One night, Delilah decides to follow the dog... and discovers the REAL secret behind his antics.",
+          "episode": 8,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Ketchup Challenge",
+          "description": "Welcome to America’s Next Top Condiment, the chaotic game show where the best sauces of Sauceville compete for the top spot. Ketchup is the competition's youngest ever entrant - does he have what it takes to beat Mustard, Mayo… and BBQ?!",
+          "episode": 9,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Princess of Honey Creek Falls",
+          "description": "When Leighaheleke is asked to create a family tree at school, it’s just another reminder that, unlike her best friend Cherry, she has barely any family at all. But when she takes an enchanted adventure through her Native American reservation, she gets a peek into her ancestral past — and generations of secrets are revealed!",
+          "episode": 10,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        }
+      ]
+    }
+  ],
+  "image": "https://content.production.cdn.art19.com/images/1e/74/fd/d4/1e74fdd4-78cf-40db-96df-2132bce7e286/764385bb44ec1e4982cc6354e6c9ab721791b8fb24abe2ce209551ec4d33279182f249812d1ceb8efbedbe1f37b745c5d06f98ae5649e7c0c7cb0657ce0e5f05.png",
+  "genres": [
+    "All",
+    "Featured",
+    "Fiction",
+    "Kids and Family"
+  ],
+  "updated": "2022-11-01T07:01:00.000Z"
+}

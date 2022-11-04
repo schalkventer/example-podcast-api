@@ -1,0 +1,149 @@
+{
+  "id": "8256",
+  "title": "Catfish: The Podcast",
+  "description": "You finally find the person of your dreams, but there’s just one problem: you haven’t yet met them in real life. When you start to suspect something isn’t quite right, you need someone to help you find out the truth. That’s where “Catfish: The Podcast” comes in. A “Catfish” is someone who creates a false online identity to pursue romantic relationships. For eight seasons of the hit TV show, host Nev Schulman and his co-hosts have helped people track down their online love interests to uncover whether that person is real…or a catfish.   Now, from MTV and Wondery, “Catfish: The Podcast” brings you the most shocking episodes of the hit series, adapted for your ears for the very first time. Hosted by Nev Schulman.",
+  "seasons": [
+    {
+      "season": 1,
+      "title": "Season 1",
+      "image": "https://content.production.cdn.art19.com/images/ea/bd/50/e1/eabd50e1-4f51-4bb0-b8ba-ae02fae59ffe/6256f41f7d03c18ff9b398b9e26df24a38fa20253c09166eeebf30d6487234adb06bb85c144b367a29b623144ef43cf1eb45db770641d091d6d88ddf7911fb40.jpeg",
+      "episodes": [
+        {
+          "title": "Miracle/Javonni",
+          "description": "Host Nev Schulman is joined by special guest, Charlemagne, to solve the mystery of Miracle’s strange relationship with Javonni. Miracle has had a tough life. She is a single mother and feels like Javonni is the answer to her prayers. He is sweet and caring and makes her happier than she has ever been. But they are all in for a big surprise when they find out who Javonnis really is.",
+          "episode": 1,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Colleen/Tony",
+          "description": "At just 20 years old, Colleen has already had a string of bad relationships. Tony makes her feel special and safe. After a very short time and without ever meeting face to face, they have gotten engaged. Nev and co-host Max have a sense that something is not right. So they go to work to find out the truth and land at the center of an intense family drama. ",
+          "episode": 2,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Kelsey/Brandon",
+          "description": "Kelsey has been talking to Brandon for three years. She met him online when she was engaged to another man and they were just friends. When she broke off her engagement, the heartbroken Kelsey leaned on Brandon for support and a strong bond formed. But whenever they plan to meet, something always goes wrong. Nev and Max set out to find Kelsey’s “Redneck Romeo” and get to the bottom of why he never shows up.",
+          "episode": 3,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Robert/Ashley",
+          "description": "Robert has been in a wheelchair since he was a teenager. He has connected with Ashley over the internet and thinks she is the woman of his dreams. But, even though the feelings seem to be mutual, it is obvious to Nev and Max that Ashley is hiding something. When they do finally bring the two together, the outcome shocks even them.",
+          "episode": 4,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Red/Jalisa",
+          "description": "On this episode, Max is joined by new co-host Kamie Crawford. They meet Red, who has been corresponding with Jalisa for many years. She has finally decided to travel to Los Angeles to track her down. Red’s friend is very concerned and reaches out to Nev and Kamie to help. When they find out the whole story, it’s even crazier than they expected.",
+          "episode": 5,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Alyssa/Tyler",
+          "description": "Alyssa met Tyler on a dating website. After texting for three months, Alyssa falls head over heels. But she begins to question if Tyler is real after he refuses to meet or videochat. Nev and Max help her untangle the story of the love of her life. Lurking beneath his profile is a massive bombshell.",
+          "episode": 6,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Lawrence/Cierra",
+          "description": "Cierra helped Lawrence through some of the darkest days of his life. But they've never met in real life. Lawrence reaches out to Nev and Max so he can finally meet his guardian angel. But Lawrence has a secret. Who is catfishing who?",
+          "episode": 7,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Traves/Candy",
+          "description": "Traves has fallen hard for Candy Red, a model living in Las Vegas. He wants to spend the rest of his life with her -- but they’ve never met IRL. There are so many warning signs on this one. But Nev and Max have never wanted to help someone more.",
+          "episode": 8,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Mandy/Jose",
+          "description": "Eighteen-year-old Quentin reaches out to Nev and Max to help him find out the truth about his mom's online love Jose. He thinks she's being Catfished and doesn't want to see her heartbroken. Nev and Max follow the clues to Jose's identity right down a rabbit hole. The final reveal is a shocker.",
+          "episode": 9,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Dylan/Sevinia",
+          "description": "Dylan has been talking to Sevenia for five years -- since he was fifteen years old. She has been there for him through some very hard times and she is the love of his life. But they have never met. He contacts Nev and Max to help him out. At the same time, Sevenia reached out to them saying that she wants to come clean because she isn’t who Dylan thinks she is. In this one, the truth is stranger than fiction.",
+          "episode": 10,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        }
+      ]
+    },
+    {
+      "season": 2,
+      "title": "Season 2",
+      "image": "https://content.production.cdn.art19.com/images/ea/bd/50/e1/eabd50e1-4f51-4bb0-b8ba-ae02fae59ffe/6256f41f7d03c18ff9b398b9e26df24a38fa20253c09166eeebf30d6487234adb06bb85c144b367a29b623144ef43cf1eb45db770641d091d6d88ddf7911fb40.jpeg",
+      "episodes": [
+        {
+          "title": "Sheklia & Talli",
+          "description": "A concerned son reaches out when his mom's mysterious online boyfriend seems too shady for comfort. But Mom is hiding secrets of her own, and once Nev & Max find their man, things take a surprising turn that shocks even them.",
+          "episode": 1,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Kiaira & Cortney",
+          "description": "Kiaira and Cortney had a baby together, but the two have never met. Kiaira knows that something doesn’t add up, but is desperate to meet her baby boy. Nev and Max are called in to bring the family together, but they worry this could be the greatest manipulation in catfish history.",
+          "episode": 2,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Angel & Jordan",
+          "description": "Angel met Jordan on Tinder and ignited a fire that caused her to end a real-life relationship with her boyfriend Brandon in order to pursue him. Nev and his wife Laura are on the case to try and locate this mystery man and discover some shocking truths about Angel’s past that might derail her entire life.",
+          "episode": 3,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Gemini and Myranda",
+          "description": "Tatyana writes to Nev and Kami to help her new boyfriend Gemini find Myranda. He has been chatting with Myranda online for seven years and Tatyana is sure that she is a Catfish. Tatyana just wants Gemini to find closure so that they can get on with their relationship. But no one expects what Nev and Kamie discover as they stage their first-ever intervention for a repeat catfish.",
+          "episode": 4,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Kirsten and Alex",
+          "description": "Kirsten met Alex a month ago online while she was stuck living under quarantine with her ex fiancé. Alex almost immediately admitted that he was a Catfish. Kirsten is now fearful that this mystery person could be anyone she is interacting with and she needs to find out the truth so she can move on with her life.",
+          "episode": 5,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Ryan and Micah",
+          "description": "Looking for love, Ryan met Micah on Tinder and thought he'd found his quarantine bae. But when Kamie and Nev start to dig, they go down a deep hole and discover someone much more dangerous than just a Catfish.",
+          "episode": 6,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Dianela and Jose",
+          "description": "Dianela has been in a relationship with a man named Jose for four years. They are both from Venezuela but have moved to the United States to escape the dangerous political situation in their country. Dianela is madly in love even though Jose has disappointed her on numerous occasions. Kamie and Nev get to work to solve the mystery of this international romance.",
+          "episode": 7,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Brooklyn/Jason",
+          "description": "Brooklyn is a young mother of four children. She desperately wants to meet the man she will marry and settle down with forever. She met Jason online and was smitten very quickly to the point that she has even put off a relationship with a guy she met IRL. There are so many red flags that she refuses to see, including an ex-boyfriend and two young women with shady intent.",
+          "episode": 8,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Jay/Anna",
+          "description": "Jay met Anna online two months ago. She is a beautiful dancer from the Philippines, who now lives in Las Vegas. In this short time Jay is already aware of the red flags in the situation and wants the truth. The investigation leads to the Philippines and back again. And where it ends up shocks them all.",
+          "episode": 9,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Jake/Taylor",
+          "description": "Jake is an eighteen year-old TikTok star who has fallen deeply in love with a young woman named Taylor he met online four months ago. She seems to really care about him which he doesn’t often find in his world. But she refuses to show her face and has ghosted him numerous times when they plan to meet in person. She’s definitely hiding something, but the truth reveals that Jake has secrets of his own.",
+          "episode": 10,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        }
+      ]
+    }
+  ],
+  "image": "https://content.production.cdn.art19.com/images/ea/bd/50/e1/eabd50e1-4f51-4bb0-b8ba-ae02fae59ffe/b1c64fa8376a10fc02357609b132d08706c95273f14b001927cfeecc290aac884c18c8202c2c30b70314ebc5296bf6ec93664ec56c1dc10f971f1afc5a73860c.jpeg",
+  "genres": [
+    "All",
+    "Entertainment",
+    "Featured",
+    "True Crime and Investigative Journalism"
+  ],
+  "updated": "2022-11-01T21:00:00.000Z"
+}

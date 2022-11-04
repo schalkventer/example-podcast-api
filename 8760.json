@@ -1,0 +1,132 @@
+{
+  "id": "8760",
+  "title": "Secret Sauce",
+  "description": "How do certain companies succeed where others have failed? What’s their “secret sauce”...and how can we get our hands on their recipes? From Wondery, the makers of the hit podcasts Business Wars and WeCrashed, comes SECRET SAUCE. Co-hosts Samuel Donner and John Frye take you behind the scenes of the most innovative leaders, trailblazing companies, and thriving cultures to learn what they have done to become a success. From how design guru Jony Ive worked with Steve Jobs to create some of Apple’s most iconic products, to how Warren Buffett invests better than just about anyone else. These are the unique recipes for what it takes to get to the top and stay there. Available ad-free on Wondery+ or on Amazon Music with a Prime membership or Amazon Music Unlimited subscription.",
+  "seasons": [
+    {
+      "season": 1,
+      "title": "The Secret Sauce of Airbnb",
+      "image": "https://res.cloudinary.com/dumslp4el/image/fetch/w_676,h_676/https://content.production.cdn.art19.com/images/71/5f/7f/db/715f7fdb-f1ea-4f25-9cc9-6f37046bce93/2a28be2f15b09f47fe3e57f2172b942d17c1fc41147e55a9bb9b56f80b6fabac88f26367dda8b82c7f7f6b0044231770798f26293e1eac3600305253a35f7bf8.jpeg",
+      "episodes": [
+        {
+          "title": "The Secret Sauce of Airbnb | Ingredient #1: Shameless",
+          "description": "Imagine a world where you show up at a stranger’s house and ask to sleep on their bed in exchange for a few bucks. Strangely enough, millions of people around the globe have done just that with AirBnB. In this three-part series, Sam and John seek the recipe for how a couple of design students overcame the odds to create a billion-dollar tech “unicorn.” In this first episode, it all starts with two founders with an air mattress and a dream, who are rejected by just about every investor in Silicon Valley.",
+          "episode": 1,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Secret Sauce of Airbnb | Ingredient #2: Trust",
+          "description": "Airbnb's website is live. People are just getting comfortable with the notion of booking lodgings from strangers when guests trash an AirBnB home. Brian Chesky and Joe Gebbia face their biggest crisis yet. If the business is going to grow, the experience must be safe and satisfying for everyone. Turns out their secret sauce is missing a few key ingredients. ",
+          "episode": 2,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Secret Sauce of Airbnb | Ingredient #3: Transparency",
+          "description": "Brian Chesky has become a superstar in Silicon Valley. Airbnb's cult of fans continues to book trips, but guests start to realize that their opportunity at landing a place to stay isn't necessarily created equally. As the team begins to deliver on their promise of an inclusive experience, a global disaster threatens their company's future. Airbnb must use what they've learned if they are going to survive a global crisis.",
+          "episode": 3,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Secret Sauce of Airbnb | Interview with Katrina Brooker",
+          "description": "Airbnb has changed the way people live and travel. And yet, CEO and co-founder Brian Chesky is a highly unusual figure in Silicon Valley. He is a designer turned entrepreneur running a billion-dollar company. Business journalist Katrina Brooker has spent years covering Brian Chesky and his secret sauce. Katrina talks to hosts Samuel Donner and John Frye about Chesky’s “nice guy” persona, his connection to Walt Disney, and the challenges that lie ahead for his company. ",
+          "episode": 4,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        }
+      ]
+    },
+    {
+      "season": 2,
+      "title": "The Secret Sauce of The NBA Bubble",
+      "image": "https://res.cloudinary.com/dumslp4el/image/fetch/w_676,h_676/https://content.production.cdn.art19.com/images/12/a9/d4/70/12a9d470-9edb-4ea3-8563-f631f95a57a8/2a315994420ff2f548321139a2310c334e05359215a4ffceb16e8b23ea6cfeec88d89822ef11b5a3638d536323c089f347983266067e38f9c3f748878af3f0ee.jpeg",
+      "episodes": [
+        {
+          "title": "The Secret Sauce of The NBA Bubble | Ingredient #1: Authenticity",
+          "description": "An NBA game is canceled just moments before tip-off. As the thousands of fans file out of the stadium, It’s the first moment for many of the impact the global pandemic will have on the sports world. Enter NBA Commissioner Adam Silver, superstar LeBron James, and a group of problem solvers determined to keep the season alive safely. Will they succeed -- or will the coronavirus and massive social justice protests burst the NBA Bubble? The first of our three part series. ",
+          "episode": 1,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Secret Sauce of The NBA Bubble | Ingredient #2: Continuous Improvement",
+          "description": "The NBA is packing up their bags, jerseys in tow, and heading to the happiest place on Earth: Disney World. The NBA Bubble is about to commence with strict health protocols, but Lebron and the entire league are starting to feel the effects of isolation. There are no longer fans and family around to support and cheer the players on. Even worse, America’s long-overdue awakening on racism threatens to burst the bubble. NBA Commissioner Adam Silver, and his team of seasoned professionals, must find a way to boost morale and address the country's wounds if they want the season to continue. ",
+          "episode": 2,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Secret Sauce of The NBA Bubble | Ingredient #3: Culture Eats Strategy For Breakfast",
+          "description": "The NBA Bubble is on the brink of collapse as playoffs are set to begin. The NBA can no longer ignore the Black Lives Matter movement, and the players refuse to bench the conversation. Teams across the country are ready to take a stand and end the season early. Will players call it quits and walk off the court, or can the league come together to create a national stage for the movement?",
+          "episode": 3,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Secret Sauce of The NBA Bubble | Interview with Joe Vardon",
+          "description": "Very few people were allowed inside the NBA Bubble besides coaches and their players, but The Athletic's Joe Vardon had a front-row seat to the national science experiment turned sporting event of the year. Joe joins Secret Sauce to discuss the strict health protocols in Disney World and even a few of the shenanigans behind the scenes. ",
+          "episode": 4,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        }
+      ]
+    },
+    {
+      "season": 3,
+      "title": "The Secret Sauce of Jony Ive",
+      "image": "https://res.cloudinary.com/dumslp4el/image/fetch/w_676,h_676/https://content.production.cdn.art19.com/images/87/52/f9/13/8752f913-cb2a-4a46-a492-089b884706df/78fc2b52644a576579c568f0e34ab5c37df4afac0233b5a3ee0154988d6de1d631664a823ca884b4f1eff7f852836bbe76674c81ad2903b55b4d7f0e01c74eb5.jpeg",
+      "episodes": [
+        {
+          "title": "The Secret Sauce of Jony Ive | Ingredient #1: Fragile Ideas",
+          "description": "There might be no other product in the world more ubiquitous than one designed by Apple. Known for products with sleek features, classic design elements, and of course, their signature logo, Apple has a cult of fans that brandish their beloved purchases with a great deal of pride. The tech company's product line has evolved from computers to mobile devices to wearable technology and continues to set trends. Apple's success is undeniable. However, that wasn't always the case. In the 90s, Steve Jobs was ousted, sales were plummeting, and products weren't sexy. Luckily, there was a little-known design genius from across the pond ready to make his mark on the world and forever change the landscape of how people interact with products: enter Jony Ive, the creative genius who revolutionized modern design and functionality.",
+          "episode": 1,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Secret Sauce of Jony Ive | Ingredient #2: Believe in Your F'ing Self",
+          "description": "There might be no other product in the world more ubiquitous than one designed by Apple. Known for products with sleek features, classic design elements, and of course, their signature logo, Apple has a cult of fans that brandish their beloved purchases with a great deal of pride. The tech company's product line has evolved from computers to mobile devices to wearable technology and continues to set trends. Apple's success is undeniable. However, that wasn't always the case. In the 90s, Steve Jobs was ousted, sales were plummeting, and products weren't sexy. Luckily, there was a little-known design genius from across the pond ready to make his mark on the world and forever change the landscape of how people interact with products: enter Jony Ive, the creative genius who revolutionized modern design and functionality.",
+          "episode": 2,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Secret Sauce of Jony Ive | Ingredient #3: Legacy",
+          "description": "Apple has become a product goldmine with the success of the iMac and iPod, but Jony and Steve refuse to stop there. Jony Ive believes that he can do for phones what the iMac did for computers. And if he does that, it’ll secure the legacy of his collaboration with his best friend, Steve Jobs. The only problem is Jony's design requires materials that aren't on the marketplace, and Steve's health is declining rapidly. In his final act, Jony will have to find a way to honor Apple's vision — a vision that has changed how the world interacts with technology and that he helped design.",
+          "episode": 3,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Secret Sauce of Jony Ive | Interview with Steven Levy",
+          "description": "When Steve Jobs returned to Apple as Interim CEO in 1997, the company was in need of a big win. Over the next decade, Apple and Jobs would launch some of the most innovative and successful products to have ever come out of Silicon Valley. But Jobs couldn’t have pulled off the iMac, iPod and iPhone without his young superstar designer Jony Ive. Few journalists have more insight into the legendary creative partnership of Ive and Jobs than WIRED Magazine’s Editor at Large, Steven Levy. Levy has covered technology for more than 30 years and got to know Ive and Jobs over several interviews spanning decades. He joins Secret Sauce to discuss what made the pair so successful, Ive’s legacy, and perhaps Ive’s last great gift to Apple: the design of its new headquarters, Apple Park.",
+          "episode": 4,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        }
+      ]
+    },
+    {
+      "season": 4,
+      "title": "The Secret Sauce of Warren Buffett",
+      "image": "https://res.cloudinary.com/dumslp4el/image/fetch/w_676,h_676/https://content.production.cdn.art19.com/images/11/c1/be/f8/11c1bef8-d8fe-492b-95d6-3199b6d07c31/b0197ea0a66c10ca8d76fba9630ffa536fd6393e2eb1c406a6541cbd53b43c2f2510377f213ba21b5957de2ebcb2f0a582a9e90fd0908aff172a27fa0920ee31.jpeg",
+      "episodes": [
+        {
+          "title": "The Secret Sauce of Warren Buffett | Ingredient #1: Trusting Your Inner Scorecard",
+          "description": "Warren Buffett, like most hyper-successful business people, wasn't born a billionaire. Buffett was born during the Great Depression and watched his country suffer financially. At an early age, the business magnate begins studying financial trends and pinches pennies on his way to becoming one of the world’s wealthiest people. But his interest in the stock market doesn’t cement his success. Warren isn’t the best student, and he most certainly isn’t winning any popularity contest. To grow his own money, he must first find a way to get people to trust him and view him as a long-term investment.",
+          "episode": 1,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Secret Sauce of Warren Buffett | Ingredient #2: Build Your Arsenal",
+          "description": "Warren Buffett’s hit the jackpot. He’s a millionaire at the ripe old age of 32. Warren’s built a name for himself through his honesty, and he’s learning how to bring his business values into his activism and vice versa. And although he’s become an altruistic and trustworthy money-handler, he’s still prone to spurts of anger and rash decisions. A business relationship gone awry leads to Warren making his biggest mistake yet - buying a failing textile company. To make the company profitable, Warren will need to create a business model no one has ever seen before.",
+          "episode": 2,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Secret Sauce of Warren Buffett | Ingredient #3: Risk Everything",
+          "description": "By 1991, Warren Buffett’s the second richest man in America. In the years to follow, his wealth will continue to grow and affect the global economy. Warren has everything a person needs, but his relationship with his wife, the person he values the most, is fraught after years of neglect. His business has always come first. Warren will have to learn how to put other people’s needs first. As Warren works on his selflessness, he unlocks a key characteristic that has the power to change his legacy: a knack for generosity.",
+          "episode": 3,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        }
+      ]
+    }
+  ],
+  "image": "https://content.production.cdn.art19.com/images/db/ea/78/3d/dbea783d-82ee-430f-8db9-cb8409e3ae22/e58264bc3e60343216283d8ce23c35b4c077ac8e486b2fec393f121b24104d1b862b7084b11e2fa3ffea6404b668d5b03ddf4254552cb8d79af0ab5dff3e8e5b.png",
+  "genres": [
+    "All",
+    "Business",
+    "History"
+  ],
+  "updated": "2021-07-13T09:00:00.000Z"
+}

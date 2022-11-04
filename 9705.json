@@ -1,0 +1,127 @@
+{
+  "id": "9705",
+  "title": "Becoming Mother Nature",
+  "description": "Becoming Mother Nature introduced us to troubled 13-year-old Chloe Lovejoy, who prematurely inherited the mantle and awesome power of Mother Nature from her Grandmother Ivy. In season one, Chloe struggled mightily to balance the trials and tribulations of middle school with...you know, saving the world. With Cupid and the Reaper, Volume II of “The Natureverse,” Chloe will soon learn she’s not the only super-powered teenager in the world. Meet thirteen-year-old Mondo Ramirez, a hopeless romantic in Savannah, Georgia, who rarely thinks of consequences. When his elaborate 8th grade promposal goes awry, Mondo accidentally kills the Grim Reaper, inheriting the Reaper’s cloak and scythe in the process. Marcus Aronson never accepted or understood his parents’ divorce. Logical and socially challenged, Marcus went on a mission to find Cupid himself, and finally convinced the winged archer him to hand over his arrows and his title. Armed with research, algorithms and a huge pair of wings, Marcus is determined to change the way people fall in love. Cupid and The Reaper, Volume II of the “Natureverse,” tells the buddy-adventure story of these two mismatched and unlikely heroes. Can Marcus and Mondo learn to work together and harness the powers of life, death and love to fight off a mysterious supernatural force in their school? And will Chloe see them as friends...or foes? For more great Gen-Z Media podcasts visit: http://gzmshows.com",
+  "seasons": [
+    {
+      "season": 1,
+      "title": "Season 1",
+      "image": "https://res.cloudinary.com/dumslp4el/image/fetch/w_676,h_676/https://content.production.cdn.art19.com/images/67/d3/2e/17/67d32e17-44d2-402a-826d-e7fc4c40f973/a3be8c6c52ce2b329d02a63cd4d45fd95e9b32643a542f9e7b7226b4e5a99833e706e77aa517b944c7a42a03c736857af4b861afb917145aa602c348ee2e6f41.jpeg",
+      "episodes": [
+        {
+          "title": "Becoming Mother Nature: Blizzard",
+          "episode": 1,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Becoming Mother Nature: Quake",
+          "episode": 2,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Becoming Mother Nature: Hail",
+          "episode": 3,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Becoming Mother Nature: Clear Skies",
+          "episode": 4,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Becoming Mother Nature: Tidal Wave",
+          "episode": 5,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Becoming Mother Nature: Growing",
+          "episode": 6,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Becoming Mother Nature: Heat Wave",
+          "episode": 7,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Becoming Mother Nature: Avalanche",
+          "episode": 8,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Becoming Mother Nature: The Calm Before the Storm",
+          "episode": 9,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Becoming Mother Nature: Storm of the Century",
+          "episode": 10,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        }
+      ]
+    },
+    {
+      "season": 2,
+      "title": "Season 2",
+      "image": "https://res.cloudinary.com/dumslp4el/image/fetch/w_676,h_676/https://content.production.cdn.art19.com/images/a9/8e/60/f5/a98e60f5-624f-4654-a7c9-1b8c582c53e0/805e8463246e72607eca7b317b43b46b9045033696930c1e8350973c09e75a398f43a396ef204735f3d66fac50092e27a14c89bd3d7270e394dbe8e3da13b7e6.jpeg",
+      "episodes": [
+        {
+          "title": "Cupid and the Reaper: Love and Death",
+          "episode": 1,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Cupid and the Reaper: Arrows and the Scythe",
+          "episode": 2,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Cupid and the Reaper: Zombies and the Teacher",
+          "episode": 3,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Cupid and the Reaper: Dad and the Dance",
+          "episode": 4,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Cupid and the Reaper: Selfies and the Spell",
+          "episode": 5,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Cupid and the Reaper: Breaking News and the Rainbow",
+          "episode": 6,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Cupid and the Reaper: Avengers and the Swimming Hole",
+          "episode": 7,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Cupid and the Reaper: Lost Loves and Chaos",
+          "episode": 8,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Cupid and the Reaper: Family and Friends",
+          "episode": 9,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Cupid and the Reaper: The End and the Beginning",
+          "episode": 10,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        }
+      ]
+    }
+  ],
+  "image": "https://content.production.cdn.art19.com/images/82/13/f6/9a/8213f69a-882f-49ae-b25b-aa0d91c27fe3/f2c8dcc41fe54ea9d738b6a73942a1ab3be4d2c6e528e7b24121cf89275a7944aab19b3f1ae44e5c65039510a17903e42577e0fb977ab8af2e388d0b3273c476.jpeg",
+  "genres": [
+    "All",
+    "Kids and Family"
+  ],
+  "updated": "2021-10-14T09:00:00.000Z"
+}

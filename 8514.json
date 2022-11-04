@@ -1,0 +1,657 @@
+{
+  "id": "8514",
+  "title": "Against The Odds",
+  "description": "Humans are resilient. In our toughest moments, we will fight, we will struggle, and we will triumph...often against the odds.  In this immersive series from Wondery, host-adventurers Mike Corey and Cassie De Pecol will share thrilling stories of survival. From the daring rescue of a soccer team trapped in an underwater cave in Thailand, to a woman taken hostage by Somali pirates, these stories made headlines around the world. AGAINST THE ODDS will make you feel as though you’re living these experiences with our heroes as they push themselves to their limits. New episodes come out every Tuesday for free, with 1-week early access for Wondery+ subscribers. Listen ad-free on Wondery+ or on Amazon Music with a Prime membership or Amazon Music Unlimited subscription.",
+  "seasons": [
+    {
+      "season": 1,
+      "title": "Thai Cave Rescue",
+      "image": "https://res.cloudinary.com/dumslp4el/image/fetch/w_676,h_676/https://content.production.cdn.art19.com/images/19/ac/06/ee/19ac06ee-4d75-41ea-9e92-c36b2c3c8703/cbaffd85daf5d39a448dd96faaf1d71c2d0071e8dc80f07d95c19b3fbaaa600f36df32f1656dbfd7b682e47c61ed3ebdc1d26c46dd3b823f98ff07b87849a0f4.jpeg",
+      "episodes": [
+        {
+          "title": "Thai Cave Rescue | Lost",
+          "description": "In 2018, twelve young soccer players and their coach are exploring a six-mile caving system in Thailand when they are trapped inside by heavy rains. Local authorities attempt to rescue them. But it’s going to take an international effort by some of the world’s most expert divers, if they want to have a prayer of succeeding in this daring and dangerous mission.",
+          "episode": 1,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Thai Cave Rescue | Risk",
+          "description": "Rescuers locate the 12 boys and their soccer coach deep inside the Tham Luang, but now they have another problem. How will they get them all out? An international team frantically looks for solutions, but no one can agree on a plan. Meanwhile, monsoon rains are coming and the clock is ticking down.",
+          "episode": 2,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Thai Cave Rescue | Chaos",
+          "description": "The boys on the soccer team struggle to stay alive inside the cave. Expert divers from around the world arrive in Thailand to find a media circus and a slow-moving bureaucracy. All of them must work against harrowing conditions and disappearing oxygen levels to get to the boys before it’s too late.",
+          "episode": 3,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Thai Cave Rescue | Chamber Nine",
+          "description": "It’s been fourteen days since 12 boys and their coach went missing inside the Tham Luang. The Thai government gives the greenlight to a highly complex mission to dive the boys out. Estimates for them all making them out alive is low. One of the most dangerous rescue missions in history is about to begin. ",
+          "episode": 4,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Thai Cave Rescue | Interview with Rick Stanton",
+          "description": "Rick Stanton was one of the lead divers on the mission to rescue 12 boys and their soccer coach from an underwater cave in Thailand. Rick talks to Mike Corey, about his lifelong passion to explore underwater caves. He discusses how he got into the world of cave rescue, what it was like to participate in this harrowing mission, and how the experience changed his life.",
+          "episode": 5,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Thai Cave Rescue | Meet the Hosts",
+          "description": "The two hosts of Against the Odds, Mike Corey and Cassie De Pecol, interview each other on their lives as adventurers in this special episode. They discuss what drives them to explore, why they’re drawn to the subject of survival, and what stories they’ll be diving into on Against the Odds. ",
+          "episode": 6,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        }
+      ]
+    },
+    {
+      "season": 2,
+      "title": "Kidnapped in the Desert",
+      "image": "https://res.cloudinary.com/dumslp4el/image/fetch/w_676,h_676/https://content.production.cdn.art19.com/images/5c/78/7b/5b/5c787b5b-2989-4bb6-ae04-4adb090d0d18/44e6d891813ad926e6bf824a5f7c042fa3494a7ee9c866cd87bb22aee60bbaab21f8667db16a52ce03bd694404cb85c7646558f3fb35b53d1b5520cf3808e05d.jpeg",
+      "episodes": [
+        {
+          "title": "Kidnapped in the Desert | Beyond the Green Line",
+          "description": "In the fall of 2011, humanitarian aid worker Jessica Buchanan is traveling through the Somali desert when she and a colleague are kidnapped by land pirates. Her organization quickly springs into action and brings in negotiators who wait for a ransom call. Meanwhile, three hundred miles away, Jessica’s husband Erik does whatever he can to bring her home, while Jessica fights to stay alive one day at a time.",
+          "episode": 1,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Kidnapped in the Desert | Big Money",
+          "description": "As days and then weeks go by, Jessica tries to adjust to life as a hostage in the Somali desert, but she’s sick and her body is failing. Back in Nairobi, her husband works with her NGO on a plan to get Jessica medicine she needs, but her kidnappers trust no one, not even the negotiators. Jessica’s family meets with an FBI agent who explains to them the possible outcomes of the situation. None of them make it easy to stay hopeful.",
+          "episode": 2,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Kidnapped in the Desert | Interview with Jessica Buchanan",
+          "description": "Jessica Buchanan was kidnapped by Somali land pirates, and spent 93 days in captivity before her daring rescue by SEAL team six. Jessica talks to Against the Odds host, Cassie De Pecol, about her experience and how it’s informed the rest of her life.",
+          "episode": 3,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Kidnapped in the Desert | Zero Hour",
+          "description": "After months in captivity, Jessica Buchanan is battling a kidney infection, and her body’s on the verge of collapse. The negotiations for her release aren’t going anywhere and the Crisis Management Team overseeing Jessica’s case has run out of options. It’s time for Seal Team Six to execute a daring rescue plan to bring Jessica home. ",
+          "episode": 4,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        }
+      ]
+    },
+    {
+      "season": 3,
+      "title": "Prisoner of War",
+      "image": "https://res.cloudinary.com/dumslp4el/image/fetch/w_676,h_676/https://content.production.cdn.art19.com/images/ad/c3/3a/b2/adc33ab2-e0e1-45fe-981c-8c5e9b0343e1/2d9d9e47107b74c25b1f4a2c6532133c186ceee695ddca6ed2b2ca59b040b8d2667965aade75ee8d0dcc7c111be64ae48b9f27955031bda21554e57a09b11ce6.jpeg",
+      "episodes": [
+        {
+          "title": "John McCain: Prisoner of War | When Your Luck Runs Out",
+          "description": "It's 1967, and American Naval Pilot John McCain is on a bombing mission in the midst of the Vietnam War when he’s shot down by the enemy. After surviving the crash, he’s taken in as a prisoner of war and housed at the infamous Hanoi Hilton. This is the epic story of his journey to survive five and half years in captivity. ",
+          "episode": 1,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "John McCain: Prisoner of War | The Crown Prince",
+          "description": "Lieutenant Commander John McCain’s plane was shot down on a bombing mission and he survived the crash. He was taken in as a prisoner of war and housed at the infamous Hanoi Hilton. Now, John must face the ultimate test of will when his captors torture him, and then make him an offer that seems too good to be true… ",
+          "episode": 2,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "John McCain: Prisoner of War | Regrets",
+          "description": "John McCain’s body and mind are starting to deteriorate after months of imprisonment. To survive, he’ll need to make a tough choice. Meanwhile, on the other side of the world, a crisis threatens to destroy John's family. ",
+          "episode": 3,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "John McCain: Prisoner of War | Greater than Himself",
+          "description": "After five years in captivity, John McCain and his fellow POWs try to keep their spirits up by finding new ways to hold on.  When news comes that the war will soon be over, he must figure out what learnings he wants to bring back to his future life. ",
+          "episode": 4,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "John McCain: Prisoner of War | Interview with Doug McCain and Everett Alvarez",
+          "description": "John McCain was a prisoner of war in North Vietnam for five and a half years. John's son, Doug McCain, and the longest-held prisoner of war in Hanoi Hilton, Everett Alvarez, discuss the Vietnam War's effects on their lives and those they loved. ",
+          "episode": 5,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        }
+      ]
+    },
+    {
+      "season": 4,
+      "title": "The Savage Mountain",
+      "image": "https://res.cloudinary.com/dumslp4el/image/fetch/w_676,h_676/https://content.production.cdn.art19.com/images/41/36/c5/76/4136c576-9719-4833-9a30-84b8a2c9a6ec/89b93df397b858edfd73beb2328fdd4aed714fcbdd91b3b683382da45ae7e65ea4382202195abaf18de1641bc9d91ae2096d62a75fb87b5f7e5bcb6d41266e3f.jpeg",
+      "episodes": [
+        {
+          "title": "K2: The Savage Mountain | Summit Fever",
+          "description": "In the summer of 2008, mountaineers from eight different countries gather at the foot of the world’s second tallest mountain, K2. All of them have a single goal: reach the summit. But to do that they will need to undertake one most difficult, and dangerous, climbs on earth. Sunny mornings can suddenly transform into white out conditions. Avalanches drop from overhead without warning. The technical challenge is so great, one in four who attempt it won’t come down. But in early August, this doesn’t stop more than two dozen climbers from attempting the feat.  ",
+          "episode": 1,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "K2: The Savage Mountain | The Death Zone",
+          "description": "An international group of climbers are close to summiting one of the world’s tallest, and most dangerous, mountains. Their goal was to reach the peak by mid-afternoon and get down before dark when temperatures drop to 40 below and the thin air and darkness can leave climbers confused and lost. But problems with the rope line have put them behind and they are using all of their strength to push past the traverse. The summit is so close… but so is nightfall, and not all of them will make it back.",
+          "episode": 2,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "K2: The Savage Mountain | The Final Descent",
+          "description": "Unforeseen conditions have put the world's strongest climbers to the test as they battle their way down the mountain. Before it’s over, the savage mountain will bring on more avalanches and below-zero temperatures. It’s a race against the clock for the remaining climbers to get off the mountain before it’s too late.",
+          "episode": 3,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "K2: The Savage Mountain |Fredrik Sträng, Pt. 1: On Climbing the World’s Highest Peaks",
+          "description": "Mountaineer Fredrik Sträng survived the deadly turn of events on K2 in 2008. In part 1 of this 2-part interview, Sträng talks about the challenges of climbing the world’s highest peaks and what it's like to train for these incredible feats.",
+          "episode": 4,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "K2: The Savage Mountain | Fredrik Sträng, Pt. 2: On Surviving K2",
+          "description": "On August 1, 2008 Mountaineer Fredrik Sträng was on K2, the second highest mountain on Earth. He’d reached Camp 4 at 26,000 feet and was ready for the final push up to the summit. But Sträng and another member of his team decided to call off their summit bid when they saw climbers backed up on the rope line. It wasn’t an easy decision, but one that may have saved their lives. In Part 2 of our interview, Sträng shares his memories of climbing K2 in 2008 and those harrowing days when disaster struck in the Death Zone.",
+          "episode": 5,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        }
+      ]
+    },
+    {
+      "season": 5,
+      "title": "Shipwreck on the Sahara",
+      "image": "https://res.cloudinary.com/dumslp4el/image/fetch/w_676,h_676/https://content.production.cdn.art19.com/images/f3/4c/2e/31/f34c2e31-2dc7-497c-869b-ac4fb962a87a/135fe235bf116ae618f12bea17f387af0dc634ffd27cacb1ee06a8d8d653655840c8b1c433c9fc105b242b9b8184f21cd55cbcffc581608d5ae72bd96b4cfa10.jpeg",
+      "episodes": [
+        {
+          "title": "Shipwreck on the Sahara | The Storm",
+          "description": "In August 1815, a ship called The Commerce runs aground off the coast of Northwest Africa. Onboard are eleven crew members who are merchant traders who have no choice but to row to shore. They will soon find themselves at the edge of the Sahara, one of the most inhospitable places on earth where oasis settlements are controlled by tribes who also run the trans-Saharan slave trade. With no way to escape and dwindling supplies, they will need to cross the largest hot desert in the world. If captured by desert tribes, they face enslavement or death, but without help from locals, they will die of hunger and thirst. ",
+          "episode": 1,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Shipwreck on the Sahara | Thirst",
+          "description": "Captain James Riley’s ship is marooned off the coast of Northwest Africa, where the Sahara meets the sea. The vessel is useless, and his crew’s only chance to make it home is by crossing the largest hot desert in the world. Aside from the sun and lack of food and water, the men also have to avoid being taken captive by desert tribes. But after a chance encounter with a trader named Sidi Hamet, Riley learns there might be a way out - but the price will be very high.",
+          "episode": 2,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Shipwreck on the Sahara | Honor Among Thieves",
+          "description": "When Captain Riley and his crew are divided amongst warring nomadic tribes, Riley needs to devise a plan to find all of his men. Only then can he convince Sidi Hamet to take them to the city of Swearah where he can make a bid for their freedom. But to get there they’ll have to pass through 800 miles of unforgiving sun and sand. It’s a gamble that might cost him and his men their lives.",
+          "episode": 3,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Shipwreck on the Sahara | Interview with Dean King",
+          "description": "Author Dean King traveled across the world to retrace Captain Riley’s footsteps through the Sahara Desert. His book, Skeletons on the Zahara: A True Story of Survival, recounts Riley’s story and King’s own experiences in the desert. King shares his memories of discovering Riley’s forgotten memoir and what his journey taught him about friendship and survival.",
+          "episode": 4,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Shipwreck on the Sahara | The Letter",
+          "description": "Sidi Hamet’s family is hundreds of miles away, far across the Sahara. Hamet yearns for his wife but must pay off his debts to his father-in-law before they are reconnected. Meanwhile, Captain James Riley searches for his freedom in the city of Swearah. But, if Riley is going to find his way back across the sea, he must find someone to pay ransom for an American crew. The two men must rely on one another in order to succeed, but only one will live to tell the tale.",
+          "episode": 5,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        }
+      ]
+    },
+    {
+      "season": 6,
+      "title": "Surviving Antarctica",
+      "image": "https://res.cloudinary.com/dumslp4el/image/fetch/w_676,h_676/https://content.production.cdn.art19.com/images/f1/82/09/d2/f18209d2-3300-499c-b7fe-c27fe5d33f2a/1d6d6fae1e2ba1e3f38a99f3640bf16f084f9e5a4200778dcba9141e2a5b1108b296d5438f271efea7e9bcd0201da6a2e0de9fd5513ff33d77000157aef17a06.jpeg",
+      "episodes": [
+        {
+          "title": "Endurance: Surviving Antarctica | Obsession",
+          "description": "In March 1914, Sir Ernest Shackleton works to put together a crew of twenty-eight men to sail from England to Antarctica. It was a new continent untouched by humanity that only the most adventurous men dared to explore—men who yearned to be the first to see what no other person had.  ",
+          "episode": 1,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Endurance: Surviving Antarctica | Patience",
+          "description": "Sir Ernest Shackleton and his crew of twenty-seven men witness their ship, the Endurance, take a devastating blow against the unforgiving ice off the coast of Antarctica. The men will have to build camp and spend the winter on an ice floe. They’re unsure of how or when they’ll get home, but they’ll need to learn how to survive on desolate terrain.",
+          "episode": 2,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Endurance: Surviving Antarctica | Determination",
+          "description": "Ernest Shackleton and his men are trapped on an ice floe off the coast of Antarctica. Tensions are running high, and rations are dwindling quickly. Shackleton is unsure how they are going to survive. Escaping the ice seems nearly impossible. The crew must remain determined if they plan to set sail for Elephant Island and regain their freedom.",
+          "episode": 3,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Endurance: Surviving Antarctica | Perseverance",
+          "description": "Ernest Shackleton and his crew of twenty-seven men were finally able to set sail for Elephant Island, but now the boats have been separated. They’ll have to endure the sea’s wrath. Shackleton’s crew must win the battle against the arctic’s unruly, icy waters if they ever plan to reach safety.",
+          "episode": 4,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Endurance: Surviving Antarctica | Hope",
+          "description": "In a final attempt to get his men home, Ernest Shackleton and his crew have to get through the Drake Passage, the most dangerous stretch of ocean in the world. And that’s just the beginning. When they reach their goal of South Georgia island, they realize the only way to reach civilization is to cross 29 miles of impassable ice and snow on foot - something no one has ever done before. ",
+          "episode": 5,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Endurance: Surviving Antarctica | Interview with Chris Turney",
+          "description": "Chris Turney is an Earth scientist studying the causes and impacts of environmental and climate change with a focus on the Antarctic. Turney shares tales from his own ambitious expeditions to Antarctica and the greatest challenges Shackelton and his crew faced on the ice. ",
+          "episode": 6,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        }
+      ]
+    },
+    {
+      "season": 7,
+      "title": "Plane Crash in the Andes",
+      "image": "https://res.cloudinary.com/dumslp4el/image/fetch/w_676,h_676/https://content.production.cdn.art19.com/images/6e/e9/12/8e/6ee9128e-9105-4d43-8858-ddb80b043248/c940a79facbe6b891b184c8694af86421476c67c0bee8a4224a60e937d5308114664c6eab5f2babf0ce436c9e30b0a1c2e3752009f7335146ad9bd7485c3d4bf.jpeg",
+      "episodes": [
+        {
+          "title": "Plane Crash in the Andes | The Crash",
+          "description": "In October 1972, an Uruguayan rugby team traveling to their next match in Santiago, Chile, crashes into the Andes Mountains after their plane strikes a glacier. Stranded on the snow-covered side of a mountain, they will have to do the unthinkable to survive. ",
+          "episode": 1,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Plane Crash in the Andes | The Cutting",
+          "description": "The remaining survivors of the Fairchild crash are starting to lose hope that rescuers will arrive after ten days of inactivity. Nando Parrado and Roberto Canessa understand their only chance at survival is to send a small team through the Andes mountains and down into Chile for help. Unfortunately, they remain stranded, and their food supply has just run out. If they’re going to climb through the Andes successfully, they’ll need to build up their strength and make some tough decisions.",
+          "episode": 2,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Plane Crash in the Andes | The Choice",
+          "description": "After escaping an avalanche that killed eight more passengers, the survivors of the Fairchild are starting to lose all hope. Many in the group are on death’s door. Time is running out. They can’t wait any longer for rescue. They must seek it out on their own. The expedition to find help and get off the mountain is more urgent than ever. Nando and Roberto will have to debate the best path to safety, but the men can take only one route.",
+          "episode": 3,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Plane Crash in the Andes | The Climb",
+          "description": "In a final attempt to escape the Andes, Nando and Roberto have headed east to pursue safety. The men face a difficult journey as the weather takes a turn for the worst, and their food supply dwindles. Back at the fuselage, their teammates wait for rescuers to arrive. The remaining survivors have accepted their fate: they're all doomed if the two men don't find civilization. There is only one option left. Roberto and Nando must survive their hike out through one of the largest mountain ranges in the world.",
+          "episode": 4,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Plane Crash in the Andes | Returning to the Andes with Mountaineer Ricardo Peña",
+          "description": "Nando Parrado and Roberto Canessa braved 36 miles of brutal mountain terrain to escape the Andes and save their teammates. But this isn’t where the story of Flight 571 ends. While hiking near the crash site in 2005, mountaineer Ricardo Peña discovered a jacket belonging to one of the survivors and wreckage from the plane that had never been found. The following year Peña led a National Geographic expedition retracing the route Nando and Roberto took out of the Andes.",
+          "episode": 5,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        }
+      ]
+    },
+    {
+      "season": 8,
+      "title": "Chilean Mine Collapse",
+      "image": "https://res.cloudinary.com/dumslp4el/image/fetch/w_676,h_676/https://content.production.cdn.art19.com/images/2a/8d/3f/43/2a8d3f43-33be-4d1b-a1fb-44e9a806e28c/701c0d9e55719c4e4a8d5087e2e48e8b53706b7078877b55291ccb6e55de1b1c79fe754bd7988f05892fae9208600fb60a493378dafcaedb149255a9cecabd18.jpeg",
+      "episodes": [
+        {
+          "title": "Chilean Mine Collapse | The Mountain Weeps",
+          "description": "In 2010, the San Jose copper mine in Chile suffers a catastrophic collapse, leaving 33 miners trapped over 2,000 feet underground. As they desperately search for a way out, a massive rescue effort begins on the surface. But with the trapped miners running out of food and succumbing to despair, it’s a race against the clock to reach them and get them out.",
+          "episode": 1,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Chilean Mine Collapse | No Escape",
+          "description": "After exploring possible escape routes and finding them all blocked, the 33 miners must face the truth: They really are trapped, more than 2,000 feet underground. Now, they must stay disciplined and ration their emergency food and water supplies if they have any hope of survival.",
+          "episode": 2,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Chilean Mine Collapse | The Breakthrough",
+          "description": "Two weeks after the collapse of the San Jose mine in Chile, 33 trapped miners find themselves starving to death, doubting they’ll ever be rescued. Then, a glimmer of hope: Rescue workers drilling above finally reach the miners through a small borehole. It’s big enough to send down emergency supplies, but not big enough to pull the miners out. Now the question becomes: How much longer will the 33 men have to endure life 2,000 feet below the surface?",
+          "episode": 3,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Chilean Mine Collapse | The Phoenix",
+          "description": "After sixty-nine days trapped underground, finally the drilling operations team has created a bore hole large enough to extract the 33 miners. But this will be the first operation of its kind. Will the 2,200 foot tunnel and extraction pod maintain its integrity amidst dynamite blasts and continually crumbling stone? On the surface, thousands of bystanders wait to see if everyone of The 33 will reach the surface alive.",
+          "episode": 4,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Chilean Mine Collapse | Into the Dark with Héctor Tobar",
+          "description": "When the 33 miners emerged to surface after 69 days in the depths of the San José mine, they set the Guinness World Record for the longest time spent trapped underground. For his book Deep Down Dark, Pulitzer Prize-winning journalist Héctor Tobar got to know all 33 men and many of their family members. Today, Héctor joins host Mike Corey to discuss his experience visiting mines in Chile, his time with the miners, and the aftermath of the rescue.",
+          "episode": 5,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        }
+      ]
+    },
+    {
+      "season": 9,
+      "title": "Rock Climbers Abducted",
+      "image": "https://res.cloudinary.com/dumslp4el/image/fetch/w_676,h_676/https://content.production.cdn.art19.com/images/90/cb/ed/80/90cbed80-b0af-4174-99dc-a9d12263026d/bd19556729f9ef24db079023476be15cc0adfc2a9b38201ccef9064ca9cb9dc1f9c90a73963bebeaee0c85b4bb2033d01abd93dd99d3eaa87a5173c834d24062.jpeg",
+      "episodes": [
+        {
+          "title": "Rock Climbers Abducted | Welcome to Paradise",
+          "description": "In August of the year 2000, four American rock climbers set out to explore the majesty of the Pamir Alai Mountain range in Kyrgyzstan. But only a week into their expedition, they’re taken captive by rebel militants. The group is forced to hike through brutal terrain under the cover of night to avoid detection by the Kyrgyz army. With little to no food or water provided by their captors, the young climbing team had to struggle through severe dehydration and hunger. Finally, they realized they would have to fight for their lives to escape. It's a thrilling story of survival in the face of violence and terror, and doing whatever it takes to make it home alive.",
+          "episode": 1,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Rock Climbers Abducted | Hostage Situation",
+          "description": "After being kidnapped by rebel militants in a remote region of Kyrgyzstan, four American rock climbers are forced at gunpoint toward the Uzbekistan border. But their captors are being trailed by the Kygyz army. Soon, the unwitting climbers find themselves in the middle of a firefight of epic proportions and they have to hide to stay alive. As night falls, the climbers are forced on the move again and they begin to realize if they want to survive they must escape on their own.",
+          "episode": 2,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Rock Climbers Abducted | Fight or Flight",
+          "description": "Days without food or water start to weaken the young climbers as their captors push them further into the mountains and further from civilization. But their captors are starting to lose steam too. On a cold dark evening the Americans are left alone with only one of their kidnappers and it dawns on them: there won’t be many more moments where they might be able to overtake their heavily armed captor. But will they have the courage to act?",
+          "episode": 3,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Rock Climbers Abducted | Breaking Free",
+          "description": "When the Americans finally act out and decide to fight for their lives, they’re left alone in an inhospitable mountain rage full of rebel militants and a trigger happy army. Far more than just a rescue mission, the climbers have to cross miles of treacherous terrain in the black of night with hopes that they won’t be mistaken for an insurgent militia by the Kyrgyz army. And if they do make it back to civilization, will they be able to make it all the way back home to the US. And if they do will anyone believe their story?",
+          "episode": 4,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Rock Climbers Abducted | Over the Edge with Climber and Author Greg Child",
+          "description": "After being taken hostage by members of the Al Qaeda-linked Islamic Movement of Uzbekistan, the lives of four American climbers were never the same. And just one year later, the attack on the World Trade Center made the threat of terrorism more real for everyone. Mountaineer and author Greg Child interviewed all four climbers to tell their story in his book, Over the Edge. On this episode, he joins host Cassie De Pecol to describe the effect 9/11 had on the climbers, his own experiences climbing in Kyrgyzstan, and returning to the region with John Dickey and Jason Smith to face one of the men that had held them captive.",
+          "episode": 5,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        }
+      ]
+    },
+    {
+      "season": 10,
+      "title": "Disaster at Sea",
+      "image": "https://res.cloudinary.com/dumslp4el/image/fetch/w_676,h_676/https://content.production.cdn.art19.com/images/f7/6c/01/25/f76c0125-a17b-4a28-8396-28754c1b2f84/84e2d6fd2d94f89edf57ea6cc22515c57d2d9106c8b1952e96f62e6b895ff12d6627a83e00dee83961904c9909e1d934afbc75ff005d2c28a6393dfcd9458488.jpeg",
+      "episodes": [
+        {
+          "title": "USS Indianapolis: Disaster at Sea | Abandon Ship",
+          "description": "In the final weeks of World War II, the Navy cruiser U.S.S. Indianapolis was attacked and sunk by a Japanese submarine in the middle of the Philippine Sea. The nine hundred survivors found themselves stranded in the middle of the open ocean, many without rafts or life vests, wondering when – or if – help was coming.",
+          "episode": 1,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "USS Indianapolis: Disaster at Sea | Troubled Waters",
+          "description": "The nine hundred men who survived the torpedo attack on the U.S.S. Indianapolis are either drifting in the sea, fighting strong currents and swells, or clinging to rafts. They’re at the mercy of the ocean, hundreds of miles from land, with dwindling supplies and no drinking water. And soon, they’ll have to confront a terrifying new challenge – shark attacks.",
+          "episode": 2,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "USS Indianapolis: Disaster at Sea | Holding On",
+          "description": "It’s been two days since U.S.S. Indianapolis sank, and the number of survivors is dwindling. They’re being picked off by sharks, and driven insane by sleep deprivation, dehydration, and saltwater poisoning. As they hope and pray for a rescue, they will encounter a new enemy that none of them could have imagined, even in their worst nightmares.",
+          "episode": 3,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "USS Indianapolis: Disaster at Sea | Rescued",
+          "description": "By sheer chance, an American bomber pilot on a routine test flight has spotted the survivors of U.S.S. Indianapolis, who have been floating in the middle of the Philippine Sea for over three days. But rescuing them will be easier said than done. The survivors are hundreds of miles from the nearest land, and the ocean waters are getting rough. To get the men out of the water as quickly as possible, some of the rescuers will have to put their own lives on the line.",
+          "episode": 4,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "USS Indianapolis: Disaster at Sea | Rediscovering Indy with Filmmaker Sara Vladic",
+          "description": "Sara Vladic was 13 when she first heard about USS Indianapolis while watching a World War II documentary with her dad. In just one sentence, the film described how the ship delivered the bomb that ended the war and then sank. For Sara, that moment would spark a decades-long journey to discover the untold story of Indy and its crew.",
+          "episode": 5,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        }
+      ]
+    },
+    {
+      "season": 11,
+      "title": "Stranded in the Arctic",
+      "image": "https://res.cloudinary.com/dumslp4el/image/fetch/w_676,h_676/https://content.production.cdn.art19.com/images/2b/67/ed/48/2b67ed48-64dc-4dac-95cf-829ac948d829/b86f8762f33bab5b3a085fc9ac1ef933344b02da271c615aa9f03c607839c24faaa0c352ab1aad34a188b772464a3be11dd64d6729fd77821f57eddebcb18158.jpeg",
+      "episodes": [
+        {
+          "title": "Ada Blackjack: Stranded in the Arctic | A Desolate Land",
+          "description": "In 1921, an expedition set out from Alaska for a remote island high in the Arctic Circle. With them was a 23-year-old Inuit woman named Ada Blackjack, who had been hired by four white explorers to cook and sew. For Blackjack, it was her last chance to earn enough money to pay for her young son’s medical treatment. But she had never spent any time in the wilderness, and the harsh Arctic surroundings would push her to her limits.",
+          "episode": 1,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Ada Blackjack: Stranded in the Arctic | Marooned",
+          "description": "After one year on Wrangel Island, the five members of the expedition are alarmed to realize that the supply ship that was scheduled to relieve them won’t be coming. Winter has arrived early, the ocean is freezing over, and the ship won’t be able to make it through the ice. With dwindling food supplies, the team has to make a last-ditch effort to go in search of help. Now, Ada Blackjack finds herself alone with the expedition’s dying leader, Lorne Knight – and she must learn new survival skills if she has any hope of keeping him alive.",
+          "episode": 2,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Ada Blackjack: Stranded in the Arctic | The Female Robinson Crusoe",
+          "description": "Lorne Knight has died, and Ada Blackjack finds herself completely alone on Wrangel Island. She’s losing hope she’ll ever see her son Bennett again. But she’s determined to do whatever it takes to survive until the other members of her team return with a supply ship, even if it means confronting her biggest fear: polar bears.",
+          "episode": 3,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        }
+      ]
+    },
+    {
+      "season": 12,
+      "title": "Kidnapped in the Desert",
+      "image": "https://res.cloudinary.com/dumslp4el/image/fetch/w_676,h_676/https://content.production.cdn.art19.com/images/49/94/57/0a/4994570a-2677-4a49-ac6c-024dcafc7774/6929795e7e8fbf1a3bc6b7f39963c760f632eeef0b6452954c097d823728bb5cce7a7eb4d120a6cfb647e52befea88092f841fb7b071cf2b303bbaa873164f34.jpeg",
+      "episodes": [
+        {
+          "title": "Encore: Kidnapped in the Desert | Beyond the Green Line",
+          "description": "In the fall of 2011, humanitarian aid worker Jessica Buchanan is traveling through the Somali desert when she and a colleague are kidnapped by land pirates. Her organization quickly springs into action and brings in negotiators who wait for a ransom call. Meanwhile, three hundred miles away, Jessica’s husband Erik does whatever he can to bring her home, while Jessica fights to stay alive one day at a time.",
+          "episode": 1,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Encore: Kidnapped in the Desert | Big Money",
+          "description": "As days and then weeks go by, Jessica tries to adjust to life as a hostage in the Somali desert, but she’s sick and her body is failing. Back in Nairobi, her husband works with her NGO on a plan to get Jessica medicine she needs, but her kidnappers trust no one, not even the negotiators. Jessica’s family meets with an FBI agent who explains to them the possible outcomes of the situation. None of them make it easy to stay hopeful.",
+          "episode": 2,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Encore: Kidnapped in the Desert | Zero Hour",
+          "description": "After months in captivity, Jessica Buchanan is battling a kidney infection, and her body’s on the verge of collapse. The negotiations for her release aren’t going anywhere and the Crisis Management Team overseeing Jessica’s case has run out of options. It’s time for Seal Team Six to execute a daring rescue plan to bring Jessica home.",
+          "episode": 3,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        }
+      ]
+    },
+    {
+      "season": 13,
+      "title": "Avalanche at Tunnel Creek",
+      "image": "https://res.cloudinary.com/dumslp4el/image/fetch/w_676,h_676/https://content.production.cdn.art19.com/images/83/f7/63/a7/83f763a7-7814-4a3f-8d69-bee8d60bd03f/042c6209fea65ff3080c06418ab86a5d1f1dfaf1ea39d5d5cac9009f3446efeadcf3b21521032b1f9435f797d944ed85e6fa19f023abdf8ae292582b7385c18a.jpeg",
+      "episodes": [
+        {
+          "title": "Avalanche at Tunnel Creek | Into the Backcountry",
+          "description": "Lured by the promise of fresh powder, more and more skiers and snowboarders are heading onto backcountry slopes. But in the wrong conditions, these areas can turn from playgrounds to death traps in an instant. That's what happened to one group of elite athletes in the Tunnel Creek backcountry section near Stevens Pass Ski Resort in Washington State. There, without warning, five skiers found themselves caught in one of nature’s deadliest forces – an avalanche.",
+          "episode": 1,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Avalanche at Tunnel Creek | ‘Snow Fall’ with Adventure Journalist John Branch",
+          "description": "When New York Times reporter John Branch first heard reports of an avalanche in Washington State, he didn’t think much about it. But when his editor asked him to poke around, John discovered the human story of a community of skiers and the passion that brought them face to face with powerful forces of nature. John’s article, Snow Fall: The Avalanche at Tunnel Creek, won the Pulitzer Prize for feature writing in 2013. He joins host Mike Corey to discuss the events of that fateful morning in February of 2012, the science of avalanches, and what drives extreme athletes to push themselves to the limit.",
+          "episode": 2,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        }
+      ]
+    },
+    {
+      "season": 14,
+      "title": "Meltdown at Fukushima",
+      "image": "https://res.cloudinary.com/dumslp4el/image/fetch/w_676,h_676/https://content.production.cdn.art19.com/images/52/2d/18/cf/522d18cf-c917-4da7-b55d-8b994e55f52a/f067a45beabb3676fbbb1a6a37f7824f1c255d9faf377e63e94e11f8ac8a700d7670cf3e7908e94a5bc026b61130ff5941f5031b459c61915d088eff2b17ef62.jpeg",
+      "episodes": [
+        {
+          "title": "Meltdown at Fukushima | Triple Disaster",
+          "description": "In March 2011, one of the largest earthquakes in history struck eastern Japan, followed by a massive tsunami. This one-two punch then caused a third disaster—a total loss of power at the Fukushima Daiichi nuclear power plant. Employees at the plant found themselves scrambling to cool down the reactors, and avoid a deadly meltdown.",
+          "episode": 1,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Meltdown at Fukushima | Pressure",
+          "description": "Crippled by a tsunami of unprecedented scale, one of the reactors at Japan’s Fukushima Daiichi nuclear power plant is in danger of melting down. To save it, workers must do the unthinkable: Vent radioactive steam into the atmosphere, to avoid a larger catastrophe as explosive gasses build up inside the reactor core. And they must risk exposing themselves to dangerous levels of radiation to do it.",
+          "episode": 2,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Meltdown at Fukushima | Collapse",
+          "description": "Now contending with multiple damaged reactors, engineers at the Fukushima Daiichi nuclear power plant in Japan hatch a series of increasingly desperate plans to prevent a total meltdown. But several explosions and the loss of vital cooling pumps bring the entire plant to the brink of chaos. As the crisis worsens, it becomes clear that the very future of Japan is at stake.",
+          "episode": 3,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Meltdown at Fukushima | The Devil's Chain Reaction",
+          "description": "After a week of unrelenting disasters—and with Tokyo itself now under threat—the managers of the Fukushima Daiichi nuclear power plant are forced to evacuate all but the most essential staff. But the remaining few rally for one last battle to prevent the explosion of the reactor cores and avert a catastrophic meltdown.",
+          "episode": 4,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Meltdown at Fukushima | Ghost Towns with NPR’s Kat Lonsdorf",
+          "description": "It’s been more than decade since the meltdown at the Fukushima Daiichi nuclear power plant. But the region is still grappling with the environmental, economic and emotional legacy of the disaster. Evacuations have lifted – but many people still haven’t returned. And what does it mean to reopen a nuclear ghost town? That’s what NPR reporter Kat Lonsdorf wanted to discover when she visited Fukushima in early 2020. Kat joins host Mike Corey to discuss how locals are rebuilding their communities and the future of nuclear power in Japan.",
+          "episode": 5,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        }
+      ]
+    },
+    {
+      "season": 15,
+      "title": "Trapped on Mount Hood",
+      "image": "https://res.cloudinary.com/dumslp4el/image/fetch/w_676,h_676/https://content.production.cdn.art19.com/images/e4/71/88/ae/e47188ae-9925-4793-bf34-a4e24191798a/683361bd0c964322b2fb1ebca74eabc2fb9538f45c5ee1518784935e96194e544108583b20d781f90c328ef0aa59903ca21c6dbe6ca94474b78f9b1a519cb43e.jpeg",
+      "episodes": [
+        {
+          "title": "Trapped on Mount Hood | Whiteout",
+          "description": "In May 1986, a group of high school students and faculty embarked on a journey to the top of Mount Hood, Oregon's tallest mountain. The climb was part of an annual wilderness program, and was usually uneventful. But during this climb, a brutal and massive storm engulfed the mountain, stranding the climbers near the summit, and forcing them into a harrowing battle for survival.",
+          "episode": 1,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Trapped on Mount Hood | Considered Lost",
+          "description": "With night falling, the student climbers and their adult chaperones must take refuge in a cramped, frigid, and hastily dug snow cave. Their leader, Father Tom Goman, begins to succumb to hypothermia. Meanwhile, search and rescue teams prepare to deploy. But as the storm that first trapped the climbers on Mount Hood rages on, the dire nature of their predicament becomes increasingly apparent.",
+          "episode": 2,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Trapped on Mount Hood | Search and Rescue",
+          "description": "Morning provides no relief for the Oregon Episcopal School climbers trapped without food or water high on Mount Hood. The storm that forced them to take shelter in a snow cave shows no signs of letting up. Two of the climbers embark on a perilous journey to find help, while elite rescuers battle the elements, and confront the terrifying possibility that they could wind up stranded on the mountain as well.",
+          "episode": 3,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Trapped on Mount Hood | Discovery",
+          "description": "As the search for the missing climbers enters its second day, rescuers redouble their efforts to find the lost students and their adult guides. But the vastness of the search area presents major challenges. Rescue workers and parents face the awful reality that the missing climbers' chances for survival are dwindling rapidly. But then, a crucial discovery gives them hope, and profoundly alters the nature of the search.",
+          "episode": 4,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Trapped on Mount Hood | Aftermath with Ric Conrad",
+          "description": "The Mount Hood tragedy remains the second deadliest mountaineering accident in North American history. Growing up in Oregon, Ric Conrad remembers following the developments on the six o’clock news when he was just a few years older than some of the teenage climbers. But it wasn’t until he had his own experience tackling Mount Hood that he decided to investigate more.",
+          "episode": 5,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Trapped on Mount Hood | Close Calls and Epic Adventures with Peter Stark",
+          "description": "On this special episode, survival writer Peter Stark joins host Mike Corey for a wide-spanning conversation about adventure – why we’re drawn to it and how it can push us to the edge. They’ll discuss Stark’s Outside Magazine article Frozen Alive, about what it feels like to succumb to hypothermia, as well as how to deal with risk in the wilderness, and exploring the blank spots on the map. They’ll also swap stories about encounters with deadly mamba snakes in Africa.",
+          "episode": 6,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        }
+      ]
+    },
+    {
+      "season": 16,
+      "title": "Thai Cave Rescue",
+      "image": "https://res.cloudinary.com/dumslp4el/image/fetch/w_676,h_676/https://content.production.cdn.art19.com/images/7f/08/12/0e/7f08120e-1f34-4696-96d0-96001903a507/c093c5ca4e23ffb7b20f7e35a616d9d018eded5c0be1f1218a1c5c0b7963c27be898a6b88c069134e7b815fd44c5c066814e86a15aa6079be52cf7dab7816ae6.jpeg",
+      "episodes": [
+        {
+          "title": "Encore: Thai Cave Rescue | Lost",
+          "description": "In 2018, twelve young soccer players and their coach are exploring a six-mile caving system in Thailand when they are trapped inside by heavy rains. Local authorities attempt to rescue them. But it’s going to take an international effort by some of the world’s most expert divers, if they want to have a prayer of succeeding in this daring and dangerous mission.",
+          "episode": 1,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Encore: Thai Cave Rescue | Chaos",
+          "description": "The boys on the soccer team struggle to stay alive inside the cave. Expert divers from around the world arrive in Thailand to find a media circus and a slow-moving bureaucracy. All of them must work against harrowing conditions and disappearing oxygen levels to get to the boys before it’s too late.",
+          "episode": 2,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Encore: Thai Cave Rescue | Risk",
+          "description": "Rescuers locate the 12 boys and their soccer coach deep inside the Tham Luang, but now they have another problem. How will they get them all out? An international team frantically looks for solutions, but no one can agree on a plan. Meanwhile, monsoon rains are coming and the clock is ticking down.",
+          "episode": 3,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Encore: Thai Cave Rescue | Chamber Nine",
+          "description": "Rescuers locate the 12 boys and their soccer coach deep inside the Tham Luang, but now they have another problem. How will they get them all out? An international team frantically looks for solutions, but no one can agree on a plan. Meanwhile, monsoon rains are coming and the clock is ticking down.",
+          "episode": 4,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Encore: Thai Cave Rescue | On the Set of Thirteen Lives with Rick Stanton",
+          "description": "The story of the Thai cave rescue captivated the world – spawning numerous books, documentaries, and most recently, the Hollywood film, Thirteen Lives, directed by Ron Howard. On today’s episode, British rescue diver Rick Stanton returns to discuss his time consulting on the movie. He’ll share what it was like working with Viggo Mortensen, the actor who plays Rick, and how the dives were meticulously recreated for the film.",
+          "episode": 5,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        }
+      ]
+    },
+    {
+      "season": 17,
+      "title": "Crash in a Volcano",
+      "image": "https://res.cloudinary.com/dumslp4el/image/fetch/w_676,h_676/https://content.production.cdn.art19.com/images/45/24/2e/39/45242e39-a16b-4530-9a62-2bc50db86b86/8183a928d2fc387233362470383262608ba06d6071ccbf97219028a84eab8e1365d73b82f80140a8eb6db2e9152c10390fdb95a3e1248e8feb85e53cd149ca6e.jpeg",
+      "episodes": [
+        {
+          "title": "Crash in a Volcano | Into the Crater",
+          "description": "In November 1992, a Hollywood camera crew soars above Hawaii’s Kīlauea, one of the world’s most dangerous volcanoes, to capture footage for a major feature film. But suddenly their helicopter’s engine cuts out, and they plunge into an active crater. Trapped and inhaling toxic fumes, the men will have to battle for survival — even for every breath — if they’re going to escape the volcano and see their loved ones again.",
+          "episode": 1,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Crash in a Volcano | Climbing Out",
+          "description": "Rescue workers search for the camera crew trapped inside Kilauea’s Pu’u O’o crater, but they’re forced to abandon their efforts when an incoming storm makes conditions too hazardous. Cameramen Chris Duddy and Mike Benson struggle to survive a night inside the volcano. When daylight comes and there’s still no sign of rescue, Chris makes a fateful decision — to try to save his own life and bring back help for his friend.",
+          "episode": 2,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Crash in a Volcano | Thank You, Madam Pele with Chris Duddy",
+          "description": "In 1992, Christopher Duddy was a young Hollywood cameraman assigned to shoot footage of an active volcano on Hawaii’s Big Island. Then his helicopter crashed inside the volcano near a pool of molten lava, and his life would never be the same. Host Mike Corey hears how Chris can still remember the sights, smells and sounds on his epic climb out…nearly 30 years later.",
+          "episode": 3,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        }
+      ]
+    },
+    {
+      "season": 18,
+      "title": "Wildfire in Paradise",
+      "image": "https://res.cloudinary.com/dumslp4el/image/fetch/w_676,h_676/https://content.production.cdn.art19.com/images/79/42/10/cb/794210cb-6369-464b-8c7d-e96bfca88b63/6910d7584f5f9f9520a53f6418d4a853edda23ce77604697e3f2801fadba2f7d417c0a7666a830e9e49f0505cf55e36286782578adfe6865ff2fb791790c5c5f.jpeg",
+      "episodes": [
+        {
+          "title": "Wildfire in Paradise | Ignition",
+          "description": "In the early morning of November 8, 2018, a faulty electrical line sparked a fire in the woods of Butte County, California. Spurred on by high winds and dry brush from extreme drought, the fire spread faster than anyone had ever seen before. In a little over an hour, it arrived in the town of Paradise, California, forcing 27,000 residents to flee for their lives.",
+          "episode": 1,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Wildfire in Paradise | Bottleneck",
+          "description": "As a fast-moving wildfire closes in on their town, Paradise residents move to evacuate as quickly as possible. But not everyone knows about the seriousness of the fire. Electronic evacuation alerts from Cal Fire aren’t getting through to the whole town. And others are stubbornly committed to staying put to defend their properties. Meanwhile, hundreds of drivers, including a school bus full of children, are getting trapped on the clogged roads leading out of town.",
+          "episode": 2,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Wildfire in Paradise | Engulfed",
+          "description": "As the fire rages and traffic on the main roads out of Paradise comes to a standstill, firefighters realize evacuation is no longer a viable option. First responders race to locate places of refuge within the town, where trapped civilians and other firefighters can wait out the fire as safely as possible. Meanwhile, other residents and firefighters find themselves stuck in gridlock, with nowhere to go as the flames close in.",
+          "episode": 3,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Wildfire in Paradise | Containment",
+          "description": "By mid-afternoon of November 8, 2018, the Camp Fire has largely moved through Paradise. Families separated by the fire are desperate to find each other and know who survived — and if they’ll be able to return to their homes. The town of 27,000 people has largely been destroyed, leaving residents to reckon with the aftermath of the devastation.",
+          "episode": 4,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Wildfire in Paradise | Paradise Lost with Lizzie Johnson",
+          "description": "By the time it was contained in late November 2018, the Camp Fire had become the deadliest and most destructive wildfire in California history. Journalist Lizzie Johnson spent two years reporting on the fire and its aftermath for The San Francisco Chronicle and her book, Paradise: One Town’s Struggle to Survive An American Wildfire. Lizzie joins host Cassie De Pecol to discuss the stories she heard from local residents, firefighters and rescue crews in Paradise, and shares her own experiences reporting from the fire zone.",
+          "episode": 5,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Wildfire in Paradise | Evacuating Paradise with Beth Bowersox and Daniel Swain",
+          "description": "CalFire dispatcher Beth Bowersox was on duty the morning the Camp Fire ignited. She joins Host Cassie De Pecol to share what it was like behind the scenes as a first responder, and her decision to evacuate all of her hometown of Paradise. Later, UCLA climate scientist Daniel Swain discusses whether there could be another Camp Fire.",
+          "episode": 6,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        }
+      ]
+    },
+    {
+      "season": 19,
+      "title": "The Race to Save Squalus",
+      "image": "https://res.cloudinary.com/dumslp4el/image/fetch/w_676,h_676/https://content.production.cdn.art19.com/images/08/b3/77/99/08b37799-b35e-42b2-bd8e-f98b7a1c8d77/82f4e5a139e2222b0a13990bd753f792badf9ae4c2868023839af81e933f45e13a8f04bc97c3fff6857a58c456b8c7dd1d4a209256e2e0d27efcfe2d08042c01.jpeg",
+      "episodes": [
+        {
+          "title": "Submarine Rescue: The Race to Save Squalus | Into the Deep",
+          "description": "On the morning of May 23, 1939, a state-of-the-art U.S. Navy’s submarine, the USS Squalus, was doing a routine test dive when something went terribly wrong. The sub began flooding, and plunged 240 feet down to the bottom of the ocean, trapping the dozens of sailors aboard. The ship’s captain knew he had to act fast if he had any hope of saving his crew from a horrible death. ",
+          "episode": 1,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        }
+      ]
+    }
+  ],
+  "image": "https://content.production.cdn.art19.com/images/a3/77/2c/e4/a3772ce4-34f7-431d-bf80-968f555b7003/6c099d5ec76b40bb54e72a75c1dcbc44c5c13a764114fb5183fe7eecd201619fca37cf3dd029c2fc320fb1a3cfab716d94297cbe7bb32ead208b779579015683.png",
+  "genres": [
+    "All",
+    "Featured",
+    "History"
+  ],
+  "updated": "2022-11-01T07:01:00.000Z"
+}

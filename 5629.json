@@ -1,0 +1,313 @@
+{
+  "id": "5629",
+  "title": "Tides of History",
+  "description": "Everywhere around us are echoes of the past. Those echoes define the boundaries of states and countries, how we pray and how we fight. They determine what money we spend and how we earn it at work, what language we speak and how we raise our children. From Wondery, host Patrick Wyman, PhD (“Fall Of Rome”) helps us understand our world and how it got to be the way it is. New episodes come out Thursdays for free, with 1-week early access for Wondery+ subscribers. Listen ad-free on Wondery+ or on Amazon Music with a Prime membership or Amazon Music Unlimited subscription.",
+  "seasons": [
+    {
+      "season": 1,
+      "title": "Rise of the Modern World",
+      "image": "https://content.production.cdn.art19.com/images/a4/b7/0e/b1/a4b70eb1-2ba8-4320-ba12-20939a9c0d13/486bc367f5acec6dbb5fdfb84d510a1ed304ba20c6e9c97da0448a62e6d4a1c5b91fb30198437f6d4db969db5f171aa63648545002fbaa81d9fcc422a2e05b9e.jpeg",
+      "episodes": [
+        {
+          "title": "The Ebb and Flow of History",
+          "description": "History shapes our world in ways both seen and unseen. In the introductory episode of Tides of History, we explore two major tides - the Fall of Rome and the Rise of the Modern World - and why history matters in the here and now.",
+          "episode": 1,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Interview: Podcaster and Author Mike Duncan on the End of the Roman Republic",
+          "description": "I'm joined by Mike Duncan, host of The History of Rome and Revolutions podcast and author of the upcoming book The Storm Before the Storm: The Beginning of the End of the Roman Republic. We discuss his new book - which is excellent! - along with whether the United States is Rome, the practice of history, storytelling, and much more.",
+          "episode": 2,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Military Revolution, 1350-1650",
+          "description": "As the fifteenth century turned into the sixteenth, warfare was transformed. Cannon made castles obsolete, and firearms and pikes displaced knights as the dominant force on the battlefield. Most of all, the scale of war grew infinitely larger, with a correspondingly greater impact on society as a whole.",
+          "episode": 3,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Life as a Mercenary in the Military Revolution",
+          "description": "The Military Revolution transformed warfare, but what was it like to be one of the soldiers who experienced those enormous changes? We follow the lives and careers of two English archers in the late stages of the Hundred Years War and two German mercenaries around 1500 to try to understand what the Military Revolution meant for real people.",
+          "episode": 4,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Interview: Dr. Jennifer Raff on DNA and History",
+          "description": "I'm joined by Dr. Jennifer Raff, assistant professor of anthropology at the University of Kansas, to discuss her work with DNA. Dr. Raff explains how DNA is rewriting our understanding of prehistory and migration and changing everything we thought we knew about the deep past.",
+          "episode": 5,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Interview: Historian Dan Jones on the Knights Templar",
+          "description": "I'm joined by historian Dan Jones, author of some of the best popular history out there (The Wars of the Roses, The Plantagenets) to discuss his new book on the fascinating Knights Templar (The Templars: The Rise and Spectacular Fall of God's Holy Warriors). We discuss the Templars, the Crusades, and what's familiar and foreign about the Middle Ages.",
+          "episode": 6,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Roman City",
+          "description": "Cities were what made the Roman world, well, Roman. They were centers of culture and political life, and they were the bedrock that tied together its economy. Today we'll explore how those cities came into being, what sustained them, and what made them so important to the Roman Empire.",
+          "episode": 7,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Decline and Fall of the Roman City",
+          "description": "Cities were what made the Roman world Roman, but as the Empire fell apart, so did its cities. They shrank drastically or disappeared entirely between 400 and 600. In today's episode, we'll find out how and why.",
+          "episode": 8,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Interview: Christianizing the Roman Empire with Professor Lisa Bitel",
+          "description": "How did the Roman Empire, and barbarian Europe after it, become Christian? To find out, I talked to Professor Lisa Bitel of the University of Southern California, a world-class expert on medieval Christianity and Christian conversion.",
+          "episode": 9,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Rise of Capitalism and the Early Modern Economic Explosion",
+          "description": "Out of the disasters of the Black Death and the economic recession that followed grew the roots of the economic innovations that still define our world today. From credit instruments to the capitalist mindset, the years between 1350 and 1650 built the institutions that eventually led to an economy that's recognizably our own.",
+          "episode": 10,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        }
+      ]
+    },
+    {
+      "season": 2,
+      "title": "The Later Middle Ages",
+      "image": "https://content.production.cdn.art19.com/images/a4/b7/0e/b1/a4b70eb1-2ba8-4320-ba12-20939a9c0d13/486bc367f5acec6dbb5fdfb84d510a1ed304ba20c6e9c97da0448a62e6d4a1c5b91fb30198437f6d4db969db5f171aa63648545002fbaa81d9fcc422a2e05b9e.jpeg",
+      "episodes": [
+        {
+          "title": "Interview: Historian and Friend of the Show Keith Pluymers on Rebellions and Popular Politics in Early Modern Europe",
+          "description": "Keith returns to talk to us about rebellions, revolts, and how you can have popular politics in non-democratic political systems. We also discuss trials and executions of cows (!!!) for treason and other fascinating anecdotes.",
+          "episode": 1,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Tides of History Book Club: Roger Crowley Takes Us To The High Seas",
+          "description": "This week we talked about friend of the show Roger Crowley, whom we interviewed back in April. He's a master storyteller, and luckily for us he decided to write a bunch of books for us to enjoy!",
+          "episode": 2,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Black Death",
+          "description": "Between 1346 and 1351, the Black Death killed tens of millions of people - at least half the population - in Europe and the Middle East. This great mortality, one of the worst disasters of any era, fundamentally reshaped European society and set the stage for the world that followed.",
+          "episode": 3,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Europe After the Black Death",
+          "description": "Plague, war, and a worsening climate drastically changed Europe in the years and decades after 1350. This new state of affairs laid the groundwork for the explosion around 1500 that gave rise to the modern world.",
+          "episode": 4,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Hundred Years War: Origins and the Triumph of England",
+          "description": "The Hundred Years War, fought between England and France from 1337 to 1453, defined late medieval politics and drastically changed the course of history. Today, we explore the origins of the conflict and the first six decades, from 1337 to 1396.",
+          "episode": 5,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Hundred Years War: Agincourt, Joan of Arc, and the Rise and Fall of English Power in France",
+          "description": "The second major phase of the Hundred Years War saw the peak of English power in France, controlling half of the kingdom and ruling it as a dual monarchy. But that situation couldn't last, and beginning with the miraculous intervention of Joan of Arc, English control on the continent slowly seeped away into utter defeat.",
+          "episode": 6,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Interview: Historian William Chester Jordan on the Great Famine and the High Middle Ages",
+          "description": "Historian William Chester Jordan of Princeton University joins us to talk about his work on the Great Famine of the fourteenth century.",
+          "episode": 7,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Tides of History Book Club: Getting Medieval with Dan Jones",
+          "description": "Leah and I discussed the medieval narrative histories of Dan Jones, whom I interviewed last September on Tides of History about his book The Templars. That's one of three books we discussed, all of which are available on Audible, so you should check them out.",
+          "episode": 8,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Effects of the Hundred Years War",
+          "description": "Wars that last for a century tend to leave a mark. The Hundred Years War transformed warfare, remade England and France as states, and had a transformative impact on the subjects of both kingdoms.",
+          "episode": 9,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Chivalry",
+          "description": "When we think of the Middle Ages, the first thing that comes to mind is usually knights in shining armor. Chivalry - the ideal of behavior that guided knights - was a major force in medieval life. Honor and piety, bravery and reputation: these were core values for the secular elite. We explore what they actually meant to medieval people.",
+          "episode": 10,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        }
+      ]
+    },
+    {
+      "season": 3,
+      "title": "Early Modern Explosion",
+      "image": "https://content.production.cdn.art19.com/images/a4/b7/0e/b1/a4b70eb1-2ba8-4320-ba12-20939a9c0d13/486bc367f5acec6dbb5fdfb84d510a1ed304ba20c6e9c97da0448a62e6d4a1c5b91fb30198437f6d4db969db5f171aa63648545002fbaa81d9fcc422a2e05b9e.jpeg",
+      "episodes": [
+        {
+          "title": "1492: A Guided Tour of Europe on the Brink",
+          "description": "1492 was a big year, and not just because a certain Genoese navigator set sail into the unknown. Europe was on the cusp of enormous changes. Follow along as we travel all across the continent and get a feel for Europe on the brink.",
+          "episode": 1,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Historical Fiction and the Wars of the Roses: An Interview with Philippa Gregory",
+          "description": "We talked to bestselling novelist Philippa Gregory about her views of history and historical fiction, and her perspective on the Wars of the Roses, where she has spent many years.",
+          "episode": 2,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Queen Isabella of Spain and the End of the Reconquista",
+          "description": "Queen Isabella of Castile was the greatest of the state-building rulers of the late Middle Ages. During her rule, she sent Columbus to America, married Ferdinand of Aragon to launch modern Spain, and finished the centuries-long Reconquista, ending centuries of Muslim rule in Iberia.",
+          "episode": 3,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Spanish Inquisition, the Expulsion of the Jews, and the Rise of Spain",
+          "description": "Queen Isabella of Castile was one of the great state-building monarchs of the later Middle Ages, but state-building had a dark side: the Spanish Inquisition, the expulsion of the Jews, and the beginnings of a decades-long war that would consume western Europe for three generations.",
+          "episode": 4,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Minisode: Messianic Rulers and Military Revolutions in Spain",
+          "description": "Let's chat about some of the other interesting things Patrick discovered in his research for this month's episodes: messianic rulership and military revolutions in the Spain of Isabella and Ferdinand.",
+          "episode": 5,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Civil War, Reconstruction, and the Gilded Age: An Interview with Stanford's Professor Richard White",
+          "description": "The Civil War and its decades-long aftermath continue to define American life well into the twenty-first century. Today we chat with Stanford's Professor Richard White, author of The Republic For Which It Stands: The United States During Reconstruction and the Gilded Age, 1865-1896, to get a grip on this pivotal and under-discussed era of history.",
+          "episode": 6,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Rise and Fall of the Medici Bank",
+          "description": "The Medici name still carries echoes of power and labyrinthine politics. But the Medici got their start as bankers, and built a financial empire that spanned fifteenth-century Europe. Popes, kings, and merchants all did business with the Medici, and the family's power over Florence grew out of its fiscal wizardry - at least until it all fell apart.",
+          "episode": 7,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Jakob Fugger: The Richest Man Who Ever Lived?",
+          "description": "At the end of the fifteenth century, the center of European banking suddenly swung from its birthplace in Italy to south Germany. The key figure in that transition was Jakob Fugger of Augsburg, maybe the richest man who ever lived.",
+          "episode": 8,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Minisode: Banking",
+          "description": "We catch up a bit more on Jakob Fugger's personality - or lack thereof - along with some of the other important south German trading firms of the age, the development of the Antwerp financial market, and the connection between banking and the patronage of Renaissance art.",
+          "episode": 9,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Classic Tides: Life in Renaissance Florence",
+          "description": "We're revisiting an episode of Tides of History we originally released in January 2018. Pay close attention, we're going to be spending a LOT of time in Italy this summer.",
+          "episode": 10,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        }
+      ]
+    },
+    {
+      "season": 4,
+      "title": "Prehistory",
+      "image": "https://content.production.cdn.art19.com/images/a4/b7/0e/b1/a4b70eb1-2ba8-4320-ba12-20939a9c0d13/486bc367f5acec6dbb5fdfb84d510a1ed304ba20c6e9c97da0448a62e6d4a1c5b91fb30198437f6d4db969db5f171aa63648545002fbaa81d9fcc422a2e05b9e.jpeg",
+      "episodes": [
+        {
+          "title": "Bone, Stone, and Genome: Understanding Humanity's Deep Past",
+          "description": "Welcome to a new season of Tides of History! Over the next year, we'll be traveling from the very origins of our species through the peopling of the planet, the Ice Age, and then to the beginnings of agriculture, cities, metalworking, and states. Today, we cover our deepest past, from the divergence from our closest ape relatives to the first appearance of anatomically modern humans.",
+          "episode": 1,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Ghosts of Archaic Humans",
+          "description": "Until very recently, Homo sapiens - our species - was only one of several varieties of humans on this planet. As our ancestors spread outward from Africa in their great migration, they encountered those other species. The results of those encounters left us a genetic legacy that is still with us today.",
+          "episode": 2,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Ancient DNA and the Human Story: Interview with Geneticist Eske Willerslev",
+          "description": "Ancient DNA is the key that's unlocking the deep history of humanity, allowing us to answer questions about our collective past that we never dreamed of addressing even 20 years ago. Eske Willerslev is a pioneer in the field of extracting, sequencing, and analyzing the preserved DNA of people who lived thousands upon thousands of years ago; on top of that, he's a fascinating person with unique perspectives on how to understand the human past.",
+          "episode": 3,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Trapped in Ice: The Paleolithic World",
+          "description": "Twenty thousand years ago, the world was locked in ice. The glaciers advanced from the poles and mountain ranges, swallowing huge portions of the planet's surface and making the rest colder and drier, a more difficult place to live. Yet people nevertheless thrived, spreading out across the continents and creating some of the most incredible art in human history.",
+          "episode": 4,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Who Were the First Americans?",
+          "description": "The Americas were the last continents Homo sapiens reached. Why did it take so long for people to enter this vast and promising expanse of land? Who were they, and where had they come from? In today's episode, we explore the latest - just days old! - science of the First Americans, and discover the descendants they've left behind even today.",
+          "episode": 5,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "New Insights on the First Americans: Interview with Professor Jennifer Raff",
+          "description": "Our understanding of the past is constantly in flux, and there's no field where that's clearer than with the early settlement of the Americas. I'm joined by Professor Jennifer Raff of the University of Kansas, an anthropological geneticist, to discuss the game-changing (or not?) recent work pushing back the date of first settlement to 30,000 years ago or more.",
+          "episode": 6,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "How Should We Understand the Deep Human Past? Interview with Professor John Hawks",
+          "description": "Professor John Hawks of the University of Wisconsin-Madison, one of the world's best communicators on the deep human past and paleoanthropology, joins me to talk about archaic humans, genomics, and whether the concept of different human species even makes sense these days. Check out his blog, which is an amazing resource, and follow him on Twitter.",
+          "episode": 7,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "After the Ice: The Younger Dryas, the Mesolithic, and the Birth of a New World",
+          "description": "For most of Homo sapiens' time out of Africa, we lived in a world defined by ice. But by around 20,000 years ago, the ice had begun to melt, the glaciers retreating back toward the poles and mountain ranges. This left behind a new world, a whole different series of environments, opportunities, and perils for the people who had made it through the Ice Age.",
+          "episode": 8,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The First Farmers",
+          "description": "The domestication of plants and animals has remade the way that people feed themselves, organize their societies, and interact with the landscapes around them. But for most of the human past, this isn't how people subsisted. When, where, and how did people start farming? And most importantly, why?",
+          "episode": 9,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "How Did People Domesticate Animals? An Interview with Professor Greger Larson",
+          "description": "The domestication of animals has transformed the way that people eat, clothe themselves, and live over the past 10,000 or so years, but what in the world does \"domestication\" even mean? How did this happen, and why did people start doing this? I talk with Professor Greger Larson of Oxford University about the genetics of animal domestication and how cutting-edge science is helping us answer these age-old questions.",
+          "episode": 10,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        }
+      ]
+    },
+    {
+      "season": 5,
+      "title": "Classic Tides",
+      "image": "https://content.production.cdn.art19.com/images/a4/b7/0e/b1/a4b70eb1-2ba8-4320-ba12-20939a9c0d13/486bc367f5acec6dbb5fdfb84d510a1ed304ba20c6e9c97da0448a62e6d4a1c5b91fb30198437f6d4db969db5f171aa63648545002fbaa81d9fcc422a2e05b9e.jpeg",
+      "episodes": [
+        {
+          "title": "Classic Tides | Peasants and the Medieval Countryside",
+          "description": "When we think of the medieval world, our minds usually turn to knights, royalty, and clergy. But the backbone of the medieval economic and social order was the humble peasant. In this rebroadcast from 2018, we explore the world and lives of the vast bulk of the people who actually lived in the Middle Ages, and why they matter. ",
+          "episode": 1,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Classic Tides | Peasants' Rebellions and Resistance",
+          "description": "Peasants and common folk were oppressed by their social superiors, but they didn't accept that as a natural state of affairs: They resisted in small, everyday ways, and they rebelled, sometimes spectacularly.",
+          "episode": 2,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Classic Tides | Europe After the Black Death",
+          "description": "Plague, war, and a worsening climate drastically changed Europe in the years and decades after 1350. This new state of affairs laid the groundwork for the explosion around 1500 that gave rise to the modern world.",
+          "episode": 3,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Classic Tides | Boxing, Race, and the Gilded Age: An Interview with Professor Louis Moore",
+          "description": "Boxing has a long past, one deeply connected to race, labor, and broader developments in American history. Professor Louis Moore joins me to talk about those topics and about his outstanding book, I Fight For a Living: Boxing and the Battle for Black Manhood, 1880-1915.",
+          "episode": 4,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        }
+      ]
+    }
+  ],
+  "image": "https://content.production.cdn.art19.com/images/a4/b7/0e/b1/a4b70eb1-2ba8-4320-ba12-20939a9c0d13/486bc367f5acec6dbb5fdfb84d510a1ed304ba20c6e9c97da0448a62e6d4a1c5b91fb30198437f6d4db969db5f171aa63648545002fbaa81d9fcc422a2e05b9e.jpeg",
+  "genres": [
+    "All",
+    "Featured",
+    "History"
+  ],
+  "updated": "2022-11-03T07:01:00.000Z"
+}

@@ -1,0 +1,81 @@
+{
+  "id": "5964",
+  "title": "Man In The Window: The Golden State Killer",
+  "description": "In Man in the Window, Paige St. John, a Pulitzer Prize winning investigative reporter has uncovered never before revealed details about the man who would eventually become one of California's most deadly serial killers. From Wondery and the L.A. Times comes a new series that traces his path of devastation through his victims' eyes.",
+  "seasons": [
+    {
+      "season": 1,
+      "title": "Season 1",
+      "image": "https://content.production.cdn.art19.com/images/36/7d/69/27/367d6927-ff27-4a36-8140-c1a1af61886f/20646864b49d4c9b5e14a615ae7430ce3b71bbeca8039d12ecb0f95b6116d99197c864cd6071451713b7df9b66abae6cb788a63162846f88331aa6a5b194f844.jpeg",
+      "episodes": [
+        {
+          "title": "Phantom in the Fog",
+          "description": "Episode 1: A series of brutal dog killings in a small town in California is just the prelude to coming danger, and violence.",
+          "episode": 1,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Victim Number One",
+          "description": "Episode 2: Police start to suspect there is a new serial rapist at large. They trace the attacks back to a small, one-story yellow house in Rancho Cordova.",
+          "episode": 2,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Price of Silence",
+          "description": "Episode 3: A teenage girl sits down to play piano and is surprised by an intruder. As victims seek help, they find that the law and society are not always on their side.",
+          "episode": 3,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Someone Else’s Problem",
+          "description": "Episode 4: Police believe they’ve identified the suspect. Then he ends up dead on a beach.",
+          "episode": 4,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Bonnie and Joe",
+          "description": "Episode 5: Bonnie’s new boyfriend seems to take pleasure in scaring her. She decides not to marry him, and he turns on her. ",
+          "episode": 5,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "DNA Resurrection",
+          "description": "Episode 6: Even after technology can finally bring answers, precious evidence is headed to the trash bin. A surprising arrest brings back victims’ nightmares.",
+          "episode": 6,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Language of Rape",
+          "description": "Episode 7: Paige St. John sits down with fellow journalist Laura Beil to discuss why victims, police and the media struggle with how to talk about rape.",
+          "episode": 7,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Missing",
+          "description": "Episode 8: A group of victims finally break their silence. It begins with an early morning phone call.",
+          "episode": 8,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Many Faces of Joseph DeAngelo",
+          "description": "Police interrogators can’t pry answers from Joseph DeAngelo but hear him whispering when left alone. Is it all just an act? What is the true face of Joseph DeAngelo?",
+          "episode": 9,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Evil",
+          "description": "In court, Joseph DeAngelo looks like a broken shell of a man. The prosecution seeks to reveal a different man, one trying to manipulate the courts.. An explosive video shows what really happened in the interrogation room.",
+          "episode": 10,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        }
+      ]
+    }
+  ],
+  "image": "https://content.production.cdn.art19.com/images/36/7d/69/27/367d6927-ff27-4a36-8140-c1a1af61886f/f3ca0ed80f92c424c2c833c880fe41a5a7791898fc61f1fd84e0cfb2c347ccf70d1fd11f0daa65d93ca86295cac86297eb6d8794968759934d4a2c6b7fbb11c3.jpeg",
+  "genres": [
+    "All",
+    "History",
+    "True Crime and Investigative Journalism"
+  ],
+  "updated": "2020-12-22T08:00:00.000Z"
+}

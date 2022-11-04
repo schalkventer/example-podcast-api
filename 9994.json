@@ -1,0 +1,82 @@
+{
+  "id": "9994",
+  "title": "Tomorrow",
+  "description": "Annie Warbucks and Agatha Hannigan, two names forever connected by events that made one of them the richest girl in the world…and sent the other to prison.  Tomorrow is an original, scripted series set in a post-pandemic New York City, five years after “little orphan” Annie was adopted by billionaire Oliver Warbucks (Lance Reddick, The Wire, Fringe ). Now 15, Annie (Abbie Grace Levi), a singer-songwriter/influencer extraordinaire, is about to face the biggest test of her signature positivity when a mystery rocks the Warbucks empire. Annie must rely on her pals from the orphanage, Molly, Tessie and Pepper, and her artificial intelligence “butler” Drake (Alan Ruck, Succession) to save her family. Agatha Hannigan (Tony Award winner Laura Benanti) has spent five years in prison, revisiting her bad choices and stewing about the billionaire and his adopted daughter who put her behind bars. Finally released back into society, Hannigan will have to decide: Does she want to turn her life around, or does she want revenge? From Gen-Z Media, creators of the Peabody Award-winning The Unexplainable Disappearance of Mars Patel and the hit family podcast, Six Minutes, Tomorrow combines the heart, humor and hope of the original stage play with elements of serialized mystery and high stakes adventure. Featuring fresh takes on beloved songs and a star-studded cast, it’s a modern story for all the many generations who grew up on “Annie.” Created and produced by David Kreizman, Ben Strouse and Chris Tarry at Gen-Z Media. Story by David Kreizman and Ben Strouse. Written by David Kreizman, Ben Strouse, Donna Swajeski and Marla Kanelos. Producer: Claire McClanahan. Original music and arrangements by Chris Tarry, Jennifer Rowekamp, and David Molloy. Sound design, mixing, and editing by Chris Tarry with voice editing and additional sound design by Darian Newsome. Annie vocals by Haley Klinkhammer. Directed by David Kreizman and Claire McClanahan. Additional voice direction by Michelle Tattenbaum. Based on story and characters from the musical “Annie” by Charles Strouse, Martin Charnin and Thomas Meehan.  New episodes of Tomorrow come out every Monday for free wherever you get your podcasts. Listen 1-week early and to all episodes ad-free with Wondery+, Wondery+ Kids on Apple Podcasts, or Amazon Music with a Prime membership or Amazon Music Unlimited subscription. To learn more visit gzmshows.com.",
+  "seasons": [
+    {
+      "season": 1,
+      "title": "Season 1",
+      "image": "https://content.production.cdn.art19.com/images/3c/5b/49/ee/3c5b49ee-d882-4583-88b0-db0445d3d037/a1a1a437ac879babb91e758e353559c707d56852cbdf9b21da4021a9b9e312d9c52d6839c956f5f47c3dfcef31ee1406e3fb590b6a8b4ffaf444ae0ef200d395.jpeg",
+      "episodes": [
+        {
+          "title": "Always a Day Away",
+          "description": "Five years after Annie’s adoption, Agatha Hannigan is released from prison and Oliver Warbucks wants her to disappear. Meanwhile Annie spends the night before her big anniversary party by visiting some important people in her life.",
+          "episode": 1,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Easy Street",
+          "description": "Annie makes a surprising discovery in the cemetery. Warbucks attempts to make Hannigan go away, but she proves to be a worthy adversary. Annie invites her old pals Molly, Tessie and Pepper to her party, but someone else wants to scare up an invitation.",
+          "episode": 2,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Gotcha Day",
+          "description": "On the first anniversary of Annie’s adoption day, Annie visits the Warbucks warehouse, where her father is preparing for the launch of his new business venture. Ms. Hannigan makes it clear that she’s not going anywhere.",
+          "episode": 3,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Hard Knocks",
+          "description": "Annie’s party draws celebrities and power brokers, both friend and foe. With Warbucks late to arrive, Annie performs one of her old favorites and comes face to face with a familiar party crasher.",
+          "episode": 4,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Guest",
+          "description": "Ms. Hannigan’s arrival brings the party to a halt. She shocks Annie by revealing a secret about Oliver Warbucks.",
+          "episode": 5,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Ghost",
+          "description": "Annie questions her father about his treatment of Ms. Hannigan, and he reveals the reason he’s on a secret mission.",
+          "episode": 6,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Maybe",
+          "description": "Back together in the orphanage for the first time in five years, Annie, Tessie, Molly and Pepper confront Ms. Hannigan, who now knows their terrible secret. ",
+          "episode": 7,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Drop Day",
+          "description": "On the morning of the big launch, Annie rallies Orphan Nation in an attempt to find Warbucks.",
+          "episode": 8,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Someone in this World",
+          "description": "As Annie and her friends ready the launch, Ms Hannigan revisits her dreams of stardom.",
+          "episode": 9,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Stuck with a Day",
+          "description": "When the drone launch goes dangerously wrong, Annie finds herself even more connected to Ms. Hannigan.",
+          "episode": 10,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        }
+      ]
+    }
+  ],
+  "image": "https://content.production.cdn.art19.com/images/3c/5b/49/ee/3c5b49ee-d882-4583-88b0-db0445d3d037/88a25cf30aea1139130c4a922bf0c7eeb61e0d6300a15a2556bede9153dcf0ce4c792e04737a87b2c6568bd53e097038aaec23f39a28e93843b8837421a85673.jpeg",
+  "genres": [
+    "All",
+    "Featured",
+    "Fiction",
+    "Kids and Family"
+  ],
+  "updated": "2022-10-31T07:01:00.000Z"
+}

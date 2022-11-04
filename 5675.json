@@ -1,0 +1,818 @@
+{
+  "id": "5675",
+  "title": "This Is Actually Happening",
+  "description": "What if your mother left to follow a cult… or you woke up in a morgue… or if your boat got caught in a storm and began to sink -- what would you do?   This is Actually Happening brings you extraordinary true stories of life-changing events told by the people who lived them. From a man who finds out a celebrity crush isn’t who she seems to a woman stranded in a Mexican desert fighting to survive, these stories will have you on the edge of your seat waiting to hear what happens next. New episodes come out every Tuesday for free. Listen 1-week early and to exclusive past episodes - all ad-free - with Wondery+ or Amazon Music with a Prime membership or Amazon Music Unlimited subscription.",
+  "seasons": [
+    {
+      "season": 1,
+      "title": "Season 1",
+      "image": "https://content.production.cdn.art19.com/images/5a/4f/d4/19/5a4fd419-11af-4270-b31c-2c7ed2f563a5/4a812d7a328461ceb30c39425ccfe49942b6dc889de0fa8c9e83d9f70a5f63fab08a1a38cd6f61779f74f29522de39c2e50afcf4fdefe4a76a6c7ea72ce9e9af.jpeg",
+      "episodes": [
+        {
+          "title": "What if you were given 48 hours to live?",
+          "description": "\"I'm just so clear that nothing else is promised, other than right now.\"",
+          "episode": 1,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "What if you became a Blood Sorcerer?",
+          "description": "\"I woke up and I was just like, wait a second, I feel whole again.\"",
+          "episode": 2,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "What if your dad died on your 10th birthday?",
+          "description": "\"It's always going to put me in a strange place...A place I can't articulate.\"",
+          "episode": 3,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "What if you learned how to swim at 43?",
+          "description": "\"It was a huge revelation...It was what we call the 'Aha' moment.\"",
+          "episode": 4,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "What if you got a job transporting dead bodies?",
+          "description": "“How the fuck did I get here?”",
+          "episode": 5,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "What if your dad wasn't your real dad?",
+          "description": "\"I was always semi-conscious that, okay, I'm gonna play this off...but deep inside, I don't really belong here.\"",
+          "episode": 6,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "What if you didn't believe in belief itself?",
+          "description": "\"If you really want something to be true, that's when you have to question it.\"",
+          "episode": 7,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "What if you quit your job and lived on garbage?",
+          "description": "\"It's pretty liberating....just saying 'fuck it'\"",
+          "episode": 8,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "What if you had your first kiss at 27?",
+          "description": "\"If I had chosen to participate in my life a decade earlier, I would be a completely different person than I am now.\"",
+          "episode": 9,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "What if you were falsely accused of pedophilia?",
+          "description": "\"Yeah I struggle with that question...Why?\" Producer: Whit Missildine - thisisactuallyhappening.com Instagram: @actuallyhappening Music: \"Water\" – Johannes Welsch Intro Music: \"Illabye\" - Tipper Outro Music: \"The Moon is Down\" - El Diablo & Adam Schraft (Rojo y Negro) @eldiablosf @rojo-y-negro www.eldiablobass.com/",
+          "episode": 10,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        }
+      ]
+    },
+    {
+      "season": 2,
+      "title": "Season 2",
+      "image": "https://content.production.cdn.art19.com/images/5a/4f/d4/19/5a4fd419-11af-4270-b31c-2c7ed2f563a5/4a812d7a328461ceb30c39425ccfe49942b6dc889de0fa8c9e83d9f70a5f63fab08a1a38cd6f61779f74f29522de39c2e50afcf4fdefe4a76a6c7ea72ce9e9af.jpeg",
+      "episodes": [
+        {
+          "title": "What if you left Wall Street to find true purpose?",
+          "description": "“And that was essentially the crowbar that kind of flipped the whole world view on its head.” Producer: Whit Missildine - thisisactuallyhappening.com Instagram: @actuallyhappening Music: “Rain Makes Rain” - Tardiss Intro Music: \"Illabye\" - Tipper Outro Music: \"The Moon is Down\" - El Diablo & Adam Schraft (Rojo y Negro) @eldiablosf @rojo-y-negro www.eldiablobass.com/",
+          "episode": 1,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "What if you lived through the Sri Lankan civil war?",
+          "description": "“Statistically, you’re going to survive this….but it’s the terror of not knowing.” Producer: Whit Missildine - thisisactuallyhappening.com Instagram: @actuallyhappening Music: \"Cat Wearing Glasses\" – Lee Rosevere Intro Music: \"Illabye\" - Tipper Outro Music: \"The Moon is Down\" - El Diablo & Adam Schraft (Rojo y Negro) @eldiablosf @rojo-y-negro www.eldiablobass.com/",
+          "episode": 2,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "What if your newborn baby never stopped crying?",
+          "description": "\"It's hard to fall in love with somebody that you can't get to know.\" Producer: Whit Missildine - thisisactuallyhappening.com Instagram: @actuallyhappening Music: “Snow Capture” - Nasienie Intro Music: \"Illabye\" - Tipper Outro Music: \"The Moon is Down\" - El Diablo & Adam Schraft (Rojo y Negro) @eldiablosf @rojo-y-negro www.eldiablobass.com/",
+          "episode": 3,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "What if you were raided by pirates?",
+          "description": "\"I can imagine now, as a father....I can imagine what he feels like.\" Producer: Whit Missildine - thisisactuallyhappening.com Instagram: @actuallyhappening Music: “To Speak of Solitude” – Brambles Intro Music: \"Illabye\" - Tipper Outro Music: \"The Moon is Down\" - El Diablo & Adam Schraft (Rojo y Negro) @eldiablosf @rojo-y-negro www.eldiablobass.com/",
+          "episode": 4,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "What if you had sex with over 900 people?",
+          "description": "\"I've come to a place where I don't believe in a God that's less compassionate than I am.\" Producer: Whit Missildine - thisisactuallyhappening.com Instagram: @actuallyhappening Music: “Phylotaxis” - Squirm Orchestra Intro Music: \"Illabye\" - Tipper Outro Music: \"The Moon is Down\" - El Diablo & Adam Schraft (Rojo y Negro) @eldiablosf @rojo-y-negro www.eldiablobass.com/",
+          "episode": 5,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "What if you were lost in the jungle?",
+          "description": "\"That is the cutting edge. That is the true cutting edge - that moment.\" Producer: Whit Missildine - thisisactuallyhappening.com Instagram: @actuallyhappening Music Bed: “Bliss Out” - Nasienie Intro Music: \"Illabye\" - Tipper Outro Music: \"The Moon is Down\" - El Diablo & Adam Schraft (Rojo y Negro) @eldiablosf @rojo-y-negro www.eldiablobass.com/",
+          "episode": 6,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "What if you survived a deadly plague?",
+          "description": "\"Somehow, some way and for some reason, I have thus far survived it. I don’t what that means.\" Producer: Whit Missildine - thisisactuallyhappening.com Music: “However Dark It Be” - Nasienie Intro Music: \"Illabye\" - Tipper Outro Music: \"The Moon is Down\" - El Diablo & Adam Schraft (Rojo y Negro) @eldiablosf @rojo-y-negro www.eldiablobass.com/",
+          "episode": 7,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "What if you were a nurse for hardened criminals?",
+          "description": "“When you’re looking for a sign, you reach a point, and when you’re ready you’ll take anything as a sign. And I reached that point.” Producer: Whit Missildine - thisisactuallyhappening.com Music: Irsen’s Tale – Kai Engel Intro Music: \"Illabye\" - Tipper Outro Music: \"The Moon is Down\" - El Diablo & Adam Schraft (Rojo y Negro) @eldiablosf @rojo-y-negro www.eldiablobass.com/",
+          "episode": 8,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "What if you rose from the ashes of addiction?",
+          "description": "\"And the why question...I suppose there is an answer to the why, and it has no interest to me any more.\" Producer: Whit Missildine - thisisactuallyhappening.com Music: “Rain Makes Rain” - Tardiss Intro Music: \"Illabye\" - Tipper Outro Music: \"The Moon is Down\" - El Diablo & Adam Schraft (Rojo y Negro) @eldiablosf @rojo-y-negro www.eldiablobass.com/",
+          "episode": 9,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "What if your mom kicked you out on the streets?",
+          "description": "\"I still smile, I still laugh...because I feel like nothing's gonna knock me out.\" Producer: Whit Missildine - thisisactuallyhappening.com Music: “Phylotaxis” - Squirm Orchestra Intro Music: \"Illabye\" - Tipper Outro Music: \"The Moon is Down\" - El Diablo & Adam Schraft (Rojo y Negro) @eldiablosf @rojo-y-negro www.eldiablobass.com/",
+          "episode": 10,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        }
+      ]
+    },
+    {
+      "season": 3,
+      "title": "Season 3",
+      "image": "https://content.production.cdn.art19.com/images/5a/4f/d4/19/5a4fd419-11af-4270-b31c-2c7ed2f563a5/4a812d7a328461ceb30c39425ccfe49942b6dc889de0fa8c9e83d9f70a5f63fab08a1a38cd6f61779f74f29522de39c2e50afcf4fdefe4a76a6c7ea72ce9e9af.jpeg",
+      "episodes": [
+        {
+          "title": "What if you were not supposed to see this?",
+          "description": "“I’m not supposed to be seeing this. Like, there’s a crack somewhere. There’s something wrong.” Producer: Whit Missildine - thisisactuallyhappening.com Instagram: @actuallyhappening Music: “Water” - Johannes Welsch Intro Music: \"Illabye\" - Tipper Outro Music: \"The Moon is Down\" - El Diablo & Adam Schraft (Rojo y Negro) @eldiablosf @rojo-y-negro www.eldiablobass.com/",
+          "episode": 1,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "What if you were shot by your father?",
+          "description": "\"I remember blanking out, dazed....I felt like I was in a tunnel.\" Producer: Whit Missildine - thisisactuallyhappening.com Instagram: @actuallyhappening Music: \"Wake Up\" - Spuntic Intro Music: \"Illabye\" - Tipper Outro Music: \"The Moon is Down\" - El Diablo & Adam Schraft (Rojo y Negro) @eldiablosf @rojo-y-negro www.eldiablobass.com/",
+          "episode": 2,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "What if you went from riches to rags?",
+          "description": "\"I didn't even understand what had happened, how I lost everything.\" Producer: Whit Missildine - thisisactuallyhappening.com Instagram: @actuallyhappening Music: “Cylinder Four” - Chris Zabriskie Intro Music: \"Illabye\" - Tipper Outro Music: \"The Moon is Down\" - El Diablo & Adam Schraft (Rojo y Negro) @eldiablosf @rojo-y-negro www.eldiablobass.com/",
+          "episode": 3,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "What if your wife hung herself in the garage?",
+          "description": "\"It was just this sense of like an emotional atomic bomb go off in your head.” Producer: Whit Missildine - thisisactuallyhappening.com Instagram: @actuallyhappening Music: \"Water\" - Johannes Welsch Intro Music: \"Illabye\" - Tipper Outro Music: \"The Moon is Down\" - El Diablo & Adam Schraft (Rojo y Negro) @eldiablosf @rojo-y-negro www.eldiablobass.com/",
+          "episode": 4,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "What if your wife ran you over?",
+          "description": "\"You can never really tell what a woman's been through if you don't ask the right questions.\" Producer: Whit Missildine - thisisactuallyhappening.com Instagram: @actuallyhappening Music: \"Lumien\" - Jari Pitkanen Intro Music: \"Illabye\" - Tipper Outro Music: \"The Moon is Down\" - El Diablo & Adam Schraft (Rojo y Negro) @eldiablosf @rojo-y-negro www.eldiablobass.com/",
+          "episode": 5,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "What if your husband led a secret life?",
+          "description": "\"The man that I loved is no more. It's almost like, this person died, but is still living.\" Producer: Whit Missildine - thisisactuallyhappening.com Instagram: @actuallyhappening Music: \"Union Flow\" - Spuntic Intro Music: \"Illabye\" - Tipper Outro Music: \"The Moon is Down\" - El Diablo & Adam Schraft (Rojo y Negro) @eldiablosf @rojo-y-negro www.eldiablobass.com/",
+          "episode": 6,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "What if you delivered seven thousand babies?",
+          "description": "\"Its pretty hard to have a down day when you touch the beginnings of life.\" Producer: Whit Missildine - thisisactuallyhappening.com Instagram: @actuallyhappening Music: \"Re-entry\" - Lee Rosevere Outro Music: \"The Moon is Down\" - El Diablo & Adam Schraft (Rojo y Negro) @eldiablosf @rojo-y-negro www.eldiablobass.com/",
+          "episode": 7,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "What if you witnessed a thousand deaths?",
+          "description": "\"All of the ways we define ourselves are going to be stripped away by illness or the dying process...now who am I?\" Producer: Whit Missildine - thisisactuallyhappening.com Instagram: @actuallyhappening Music: Tibetan Ohm Chant Intro Music: \"Illabye\" - Tipper Outro Music: \"The Moon is Down\" - El Diablo & Adam Schraft (Rojo y Negro) @eldiablosf @rojo-y-negro www.eldiablobass.com/",
+          "episode": 8,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "What if you gave up everything for love?",
+          "description": "\"Everything is temporary if you give it enough time.\" Producer: Whit Missildine - thisisactuallyhappening.com Instagram: @actuallyhappening Music: \"Wake Up\" - Spuntic Intro Music: \"Illabye\" - Tipper Outro Music: \"The Moon is Down\" - El Diablo & Adam Schraft (Rojo y Negro) @eldiablosf @rojo-y-negro www.eldiablobass.com/",
+          "episode": 9,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "What if you were supposed to be on that plane?",
+          "description": "\"It was literally an out of body experience. Like, it wasn't me who was looking at the screen.\" Producer: Whit Missildine - thisisactuallyhappening.com Instagram: @actuallyhappening Music: \"Chop it Up\" - Squirm Orchestra Intro Music: \"Illabye\" - Tipper Outro Music: \"The Moon is Down\" - El Diablo & Adam Schraft (Rojo y Negro) @eldiablosf @rojo-y-negro www.eldiablobass.com/",
+          "episode": 10,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        }
+      ]
+    },
+    {
+      "season": 4,
+      "title": "Season 4",
+      "image": "https://content.production.cdn.art19.com/images/5a/4f/d4/19/5a4fd419-11af-4270-b31c-2c7ed2f563a5/4a812d7a328461ceb30c39425ccfe49942b6dc889de0fa8c9e83d9f70a5f63fab08a1a38cd6f61779f74f29522de39c2e50afcf4fdefe4a76a6c7ea72ce9e9af.jpeg",
+      "episodes": [
+        {
+          "title": "What if oral sex triggered a near death experience?: Part Two",
+          "description": "\"I still don't know what I want it to mean or if I want it to mean anything.\" Producer: Whit Missildine - thisisactuallyhappening.com Instagram: @actuallyhappening Music: \"The Dark Glow of the Mountains\" - Chris Zabriskie Intro Music: \"Illabye\" - Tipper Outro Music: \"The Moon is Down\" - El Diablo & Adam Schraft (Rojo y Negro) @eldiablosf @rojo-y-negro www.eldiablobass.com/",
+          "episode": 1,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "What if oral sex triggered a near death experience?: Part One",
+          "description": "\"Anytime I felt off or bad or anything, I would immediately freak out....it would just spiral out of control every single time.\" Producer: Whit Missildine - thisisactuallyhappening.com Instagram: @actuallyhappening Music: \"The Dark Glow of the Mountains\" - Chris Zabriskie Intro Music: \"Illabye\" - Tipper Outro Music: \"The Moon is Down\" - El Diablo & Adam Schraft (Rojo y Negro) @eldiablosf @rojo-y-negro www.eldiablobass.com/",
+          "episode": 2,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "What if you couldn't control your thoughts?",
+          "description": "\"Like a record player, stuck in a loop all day, every day.\" Producer: Whit Missildine - thisisactuallyhappening.com Instagram: @actuallyhappening Music: \"Wake Up\" - Spuntic Intro Music: \"Illabye\" - Tipper Outro Music: \"The Moon is Down\" - El Diablo & Adam Schraft (Rojo y Negro) @eldiablosf @rojo-y-negro www.eldiablobass.com/",
+          "episode": 3,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "What if you were pronounced dead at age 12?",
+          "description": "\"You're not supposed to recover from being dead...this is as ultimate as it gets, right?\" Producer: Whit Missildine - thisisactuallyhappening.com Instagram: @actuallyhappening Music: \"Union Flow\" - Spuntic Intro Music: \"Illabye\" - Tipper Outro Music: \"The Moon is Down\" - El Diablo & Adam Schraft (Rojo y Negro) @eldiablosf @rojo-y-negro www.eldiablobass.com/",
+          "episode": 4,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "What if your husband had a death wish?",
+          "description": "\"I feel like I'm a survivor on this Earth and everybody's got everything and I have to fight so hard to get it.\" Producer: Whit Missildine - thisisactuallyhappening.com Instagram: @actuallyhappening Music: \"Cylinder Four\" - Chris Zabriskie Intro Music: \"Illabye\" - Tipper Outro Music: \"The Moon is Down\" - El Diablo & Adam Schraft (Rojo y Negro) @eldiablosf @rojo-y-negro www.eldiablobass.com/",
+          "episode": 5,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "What if you touched the spirit world?",
+          "description": "\"There's so much more to the bigger picture...and we'll never understand it until we cross over.\" Producer: Whit Missildine - thisisactuallyhappening.com Instagram: @actuallyhappening Music: \"Ambient Theme #1\" - Steve O'Brien Intro Music: \"Illabye\" - Tipper Outro Music: \"The Moon is Down\" - El Diablo & Adam Schraft (Rojo y Negro) @eldiablosf @rojo-y-negro www.eldiablobass.com/",
+          "episode": 6,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "What if reality suddenly fell apart?",
+          "description": "\"It's like when your computer reboots...that's sort of what happened to my brain, and then everything on the hard drive gets wiped.\" Producer: Whit Missildine - thisisactuallyhappening.com Instagram: @actuallyhappening Music: \"Re-entry\" - Lee Rosevere Intro Music: \"Illabye\" - Tipper Outro Music: \"The Moon is Down\" - El Diablo & Adam Schraft (Rojo y Negro) @eldiablosf @rojo-y-negro www.eldiablobass.com/",
+          "episode": 7,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "What if you lost a high speed chase?",
+          "description": "\"This is not just a fantasy. This is not just a joke, like the rest of my life had become. This is real.\" Producer: Whit Missildine - thisisactuallyhappening.com Instagram: @actuallyhappening Music: \"Lumien\" - Jari Pitkanen Intro Music: \"Illabye\" - Tipper Outro Music: \"The Moon is Down\" - El Diablo & Adam Schraft (Rojo y Negro) @eldiablosf @rojo-y-negro www.eldiablobass.com/",
+          "episode": 8,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "What if September 11th changed everything?",
+          "description": "\"I have no connection with who I was in 2001...don't know him.\" Producer: Whit Missildine - thisisactuallyhappening.com Instagram: @actuallyhappening Music: \"Cylinder Four\" - Chris Zabriskie Intro Music: \"Illabye\" - Tipper Outro Music: \"The Moon is Down\" - El Diablo & Adam Schraft (Rojo y Negro) @eldiablosf @rojo-y-negro www.eldiablobass.com/",
+          "episode": 9,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "What if you found yourself in a dark, strange land?",
+          "description": "\"Mother nature tells us what to do, not the other way around.\" Producer: Whit Missildine - thisisactuallyhappening.com Instagram: @actuallyhappening Music: \"Wake Up\" - Spuntic Intro Music: \"Illabye\" - Tipper Outro Music: \"The Moon is Down\" - El Diablo & Adam Schraft (Rojo y Negro) @eldiablosf @rojo-y-negro www.eldiablobass.com/",
+          "episode": 10,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        }
+      ]
+    },
+    {
+      "season": 5,
+      "title": "Season 5",
+      "image": "https://content.production.cdn.art19.com/images/5a/4f/d4/19/5a4fd419-11af-4270-b31c-2c7ed2f563a5/4a812d7a328461ceb30c39425ccfe49942b6dc889de0fa8c9e83d9f70a5f63fab08a1a38cd6f61779f74f29522de39c2e50afcf4fdefe4a76a6c7ea72ce9e9af.jpeg",
+      "episodes": [
+        {
+          "title": "What if you were kidnapped by a police officer?",
+          "description": "\"I look at that girl now and I really don't even feel like she was me.\" Producer: Whit Missildine - thisisactuallyhappening.com Instagram: @actuallyhappening Music: \"Cylinder Five\" - Chris Zabriskie Intro Music: \"Illabye\" - Tipper Outro Music: \"The Moon is Down\" - El Diablo & Adam Schraft (Rojo y Negro) @eldiablosf @rojo-y-negro www.eldiablobass.com/",
+          "episode": 1,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "What if you faced a series of unfortunate events?",
+          "description": "\"I had such a 'Leave It To Beaver' childhood and then you're kind of flung into all this chaos and you realize 'wow, I didn't live in the real world.'\" Producer: Whit Missildine - thisisactuallyhappening.com Instagram: @actuallyhappening Music: \"Lumien\" - Jari Pitkanen Intro Music: \"Illabye\" - Tipper Outro Music: \"The Moon is Down\" - El Diablo & Adam Schraft (Rojo y Negro) @eldiablosf @rojo-y-negro www.eldiablobass.com/",
+          "episode": 2,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "What if your father was lost in a shipwreck?",
+          "description": "\"It was like a nightmare that could not be our own...It's crazy to think that this actually happened to the people that we know.\" Producer: Whit Missildine - thisisactuallyhappening.com Instagram: @actuallyhappening Music: \"Cylinder Four\" - Chris Zabriskie Intro Music: \"Illabye\" - Tipper Outro Music: \"The Moon is Down\" - El Diablo & Adam Schraft (Rojo y Negro) @eldiablosf @rojo-y-negro www.eldiablobass.com/",
+          "episode": 3,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "What if you survived a shipwreck?",
+          "description": "\"We were all having so much fun and then just 'bam' like that everybody's gone.\" Producer: Whit Missildine - thisisactuallyhappening.com Instagram: @actuallyhappening Music: \"Union Flow\" - Spuntic Intro Music: \"Illabye\" - Tipper Outro Music: \"The Moon is Down\" - El Diablo & Adam Schraft (Rojo y Negro) @eldiablosf @rojo-y-negro www.eldiablobass.com/",
+          "episode": 4,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "What if your mother tried to cut her heart out?",
+          "description": "“You always feel like if your parent ever leaves you on Earth, it’s never going to be by their own hand.” Producer: Whit Missildine - thisisactuallyhappening.com Instagram: @actuallyhappening Music: \"Re-entry\" - Lee Rosevere Intro Music: \"Illabye\" - Tipper Outro Music: \"The Moon is Down\" - El Diablo & Adam Schraft (Rojo y Negro) @eldiablosf @rojo-y-negro www.eldiablobass.com/",
+          "episode": 5,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "What if you had a mind-blowing affair?",
+          "description": "\"I felt like a celestial axe had come down and split my skull in half.\" Producer: Whit Missildine - thisisactuallyhappening.com Instagram: @actuallyhappening Music: \"Re-Entry\" - Lee Rosevere Intro Music 1: \"Brethren Arise\" - Chris Zabriskie Intro Music: \"Illabye\" - Tipper Outro Music: \"The Moon is Down\" - El Diablo & Adam Schraft (Rojo y Negro) @eldiablosf @rojo-y-negro www.eldiablobass.com/",
+          "episode": 6,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "What if the worst case scenario came true?",
+          "description": "\"It's pretty devastating to find out that what you thought you knew was completely wrong.\" Producer: Whit Missildine - thisisactuallyhappening.com Instagram: @actuallyhappening Music: \"Cylinder Five\" - Chris Zabriskie Intro Music: \"Illabye\" - Tipper Outro Music: \"The Moon is Down\" - El Diablo & Adam Schraft (Rojo y Negro) @eldiablosf @rojo-y-negro www.eldiablobass.com/",
+          "episode": 7,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "What if your sister had five personalities?",
+          "description": "\"I walked on eggshells every day....the only way I could survive was to be able to detect which one of these personalities I would be dealing with that day.\" Producer: Whit Missildine - thisisactuallyhappening.com Instagram: @actuallyhappening Music: \"The Dark Glow of the Mountains\" - Chris Zabriskie Intro Music: \"Illabye\" - Tipper Outro Music: \"The Moon is Down\" - El Diablo & Adam Schraft (Rojo y Negro) @eldiablosf @rojo-y-negro www.eldiablobass.com/",
+          "episode": 8,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "What if you woke up in the morgue?",
+          "description": "\"Only thing I knew was blackness, that's all I saw. Cuz everything went dark and I was in a whole new world.\" Producer: Whit Missildine - thisisactuallyhappening.com Instagram: @actuallyhappening Music: \"Wake Up\" - Spuntic Intro Music: \"Illabye\" - Tipper Outro Music: \"The Moon is Down\" - El Diablo & Adam Schraft (Rojo y Negro) @eldiablosf @rojo-y-negro www.eldiablobass.com/",
+          "episode": 9,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "What if your father went missing?",
+          "description": "\"I'm just thinking 'oh, okay...I'll just sit there and be confused.'\" Producer: Whit Missildine - thisisactuallyhappening.com Instagram: @actuallyhappening Music: \"Union Flow\" - Spuntic Intro Music: \"Illabye\" - Tipper Outro Music: \"The Moon is Down\" - El Diablo & Adam Schraft (Rojo y Negro) @eldiablosf @rojo-y-negro www.eldiablobass.com/",
+          "episode": 10,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        }
+      ]
+    },
+    {
+      "season": 6,
+      "title": "Season 6",
+      "image": "https://content.production.cdn.art19.com/images/5a/4f/d4/19/5a4fd419-11af-4270-b31c-2c7ed2f563a5/4a812d7a328461ceb30c39425ccfe49942b6dc889de0fa8c9e83d9f70a5f63fab08a1a38cd6f61779f74f29522de39c2e50afcf4fdefe4a76a6c7ea72ce9e9af.jpeg",
+      "episodes": [
+        {
+          "title": "What if you witnessed the limits of human suffering?",
+          "description": "“It’s in these places that you begin to see the limits of human capacity – how resilient we are...how we will find a way.” Producer: Whit Missildine - thisisactuallyhappening.com Original Score & Sound Design: Ryan Black - ryanblack.io Featuring: Anjan Sundaram Website: anjansundaram.com Twitter: @anjansun Author of: \"Stringer: A Reporter's Journey in the Congo\" and \"Bad News: Last Journalists in a Dictatorship\" Intro Music: \"Illabye\" - Tipper Outro Music: \"The Moon is Down\" - El Diablo & Adam Schraft (Rojo y Negro) @eldiablosf @rojo-y-negro www.eldiablobass.com/",
+          "episode": 1,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "What if they told you the monsters were real?",
+          "description": "“Everybody learns at like 12 or 13…what is real and not real, and I did not get a chance to learn that.” Producer: Whit Missildine - thisisactuallyhappening.com Instagram: @actuallyhappening Original Score & Sound Design: Ryan Black - ryanblack.io Intro Music: \"Illabye\" - Tipper Outro Music: \"The Moon is Down\" - El Diablo & Adam Schraft (Rojo y Negro) @eldiablosf @rojo-y-negro www.eldiablobass.com/",
+          "episode": 2,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "What if you received special messages?",
+          "description": "“You start making alternative meanings out of everything.” Producer: Whit Missildine - thisisactuallyhappening.com Instagram: @actuallyhappening Original Score & Sound Design: Ryan Black - ryanblack.io Intro Music: \"Illabye\" - Tipper Outro Music: \"The Moon is Down\" - El Diablo & Adam Schraft (Rojo y Negro) @eldiablosf @rojo-y-negro www.eldiablobass.com/",
+          "episode": 3,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "What if you had a breakthrough insight about the human condition?",
+          "description": "“I don’t know why that was a fear of just not having control over me…over what I was going to do.” Producer: Whit Missildine - thisisactuallyhappening.com Instagram: @actuallyhappening Music: “Union Flow” – Spuntic Intro Music: \"Illabye\" - Tipper Outro Music: \"The Moon is Down\" - El Diablo & Adam Schraft (Rojo y Negro) @eldiablosf @rojo-y-negro www.eldiablobass.com/",
+          "episode": 4,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "What if you spent 15 hours on the edge of sanity?",
+          "description": "\"The rules of reality were changing, and I was trying to get acquainted with these new rules.\" Producer: Whit Missildine - http://thisisactuallyhappening.com Instagram: @actuallyhappening Original Score & Sound Design: Ryan Black - http://ryanblack.io Additional Sound Recording: Mason Kessie Intro Music: \"Illabye\" - Tipper Outro Music: \"The Moon is Down\" - El Diablo & Adam Schraft (Rojo y Negro) @eldiablosf @rojo-y-negro www.eldiablobass.com/",
+          "episode": 5,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "What if you survived war and poverty in Colombia?",
+          "description": "\"I pictured this little girl inside of me that was not protected.\" Producer: Whit Missildine - thisisactuallyhappening.com Instagram: @actuallyhappening Original Score & Sound Design: Ryan Black - ryanblack.io Intro Music: \"Illabye\" - Tipper Outro Music: \"The Moon is Down\" - El Diablo & Adam Schraft (Rojo y Negro) @eldiablosf @rojo-y-negro www.eldiablobass.com/",
+          "episode": 6,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "What if you were hunted by the Japanese mafia?",
+          "description": "\"This might be the beginning of my last few minutes on the planet.\" Producer: Whit Missildine - thisisactuallyhappening.com Instagram: @actuallyhappening Original Score & Sound Design: Ryan Black - ryanblack.io Intro Music: \"Illabye\" - Tipper Outro Music: \"The Moon is Down\" - El Diablo & Adam Schraft (Rojo y Negro) @eldiablosf @rojo-y-negro www.eldiablobass.com/",
+          "episode": 7,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "What if you had always wanted a different mother?",
+          "description": "\"What I felt like I needed at any given time in my life, she just couldn't give me.\" Producer: Whit Missildine - thisisactuallyhappening.com Instagram: @actuallyhappening Music: \"Wake Up\" - Spuntic Intro Music: \"Illabye\" - Tipper Outro Music: \"The Moon is Down\" - El Diablo & Adam Schraft (Rojo y Negro) @eldiablosf @rojo-y-negro www.eldiablobass.com/",
+          "episode": 8,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "What if you had bipolar disorder?",
+          "description": "\"I had 20 years of living my life as the person I knew I was, and then I had this episode that was totally different from that person.\" Producer: Whit Missildine - thisisactuallyhappening.com Instagram: @actuallyhappening Music: \"The Valley Station\" - Accou Links to Accou: accou.bandcamp.com/album/two-stations Intro Music: \"Illabye\" - Tipper Outro Music: \"The Moon is Down\" - El Diablo & Adam Schraft (Rojo y Negro) @eldiablosf @rojo-y-negro www.eldiablobass.com/",
+          "episode": 9,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "What if you staged a dramatic rescue?",
+          "description": "\"What is the impetus that makes you feel you have to do that thing? I don't know what that little magic piece is, but it was there.\" Producer: Whit Missildine - thisisactuallyhappening.com Instagram: @actuallyhappening Music: \"Slumberia\" - unbeknown Intro Music: \"Illabye\" - Tipper Outro Music: \"The Moon is Down\" - El Diablo & Adam Schraft (Rojo y Negro) @eldiablosf @rojo-y-negro www.eldiablobass.com/",
+          "episode": 10,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        }
+      ]
+    },
+    {
+      "season": 7,
+      "title": "Season 7",
+      "image": "https://content.production.cdn.art19.com/images/5a/4f/d4/19/5a4fd419-11af-4270-b31c-2c7ed2f563a5/4a812d7a328461ceb30c39425ccfe49942b6dc889de0fa8c9e83d9f70a5f63fab08a1a38cd6f61779f74f29522de39c2e50afcf4fdefe4a76a6c7ea72ce9e9af.jpeg",
+      "episodes": [
+        {
+          "title": "What if a murderer appeared at your bedroom door?",
+          "description": "\"What happened to me is one of those things where people say, like, 'that could never happen to you.' So now once that happened, it's like well anything can happen to me at any time.\" Producer: Whit Missildine thisisactuallyhappening.com Instagram: @actuallyhappening Intro Music: \"Illabye\" - Tipper Music: \"Union Flow\" - Spuntic. Outro Music: \"The Moon is Down\" - El Diablo & Adam Schraft (Rojo y Negro) @eldiablosf @rojo-y-negro www.eldiablobass.com/",
+          "episode": 1,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "What if you had to relearn who you are?",
+          "description": "\"It put everything that I thought about myself into question...I didn't know what I believed. I didn't know what was real, what was fake.\" Producer: Whit Missildine thisisactuallyhappening.com Instagram: @actuallyhappening Music: \"Cylinder Four\" \"Cylinder Five\" - Chris Zabriskie This Is Actually Happening Team: Whit Missildine, Lisa Zaid and Ryan Black Outro Music: \"The Moon is Down\" - El Diablo & Adam Schraft (Rojo y Negro) @eldiablosf @rojo-y-negro www.eldiablobass.com/",
+          "episode": 2,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "What if everything turned into mayhem?",
+          "description": "\"It was absolutely like a nightmare. At the same time you're realizing you're never going to wake up from this nightmare because this is real life.\" Producer: Whit Missildine thisisactuallyhappening.com Instagram: @actuallyhappening Music: \"Union Flow\" - Spuntic This Is Actually Happening Team: Whit Missildine, Lisa Zaid and Ryan Black Outro Music: \"The Moon is Down\" - El Diablo & Adam Schraft (Rojo y Negro) @eldiablosf @rojo-y-negro www.eldiablobass.com/",
+          "episode": 3,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "What if you were sideswiped into a whole new world?",
+          "description": "\"I didn't know what the real world was. I wasn't quite oriented...I can't describe it.\" Producer: Whit Missildine thisisactuallyhappening.com Instagram: @actuallyhappening Music: \"Re-Entry\" - Lee Rosevere Intro Music: \"Illabye\" - Tipper Outro Music: \"The Moon is Down\" - El Diablo & Adam Schraft (Rojo y Negro) @eldiablosf @rojo-y-negro www.eldiablobass.com/",
+          "episode": 4,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "What if you didn't know what they would do to you?",
+          "description": "\"When the people that are doing this to you look as scared as you are it kind of adds to the fear and to the chaos and to the 'you don't know how this is going to end' feeling.\" Producer: Whit Missildine thisisactuallyhappening.com Instagram: @actuallyhappening Music: \"Cylinder Four\" - Chris Zabriskie Intro Music: \"Illabye\" - Tipper Outro Music: \"The Moon is Down\" - El Diablo & Adam Schraft (Rojo y Negro) @eldiablosf @rojo-y-negro www.eldiablobass.com/",
+          "episode": 5,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "What if the pain wouldn't go away?",
+          "description": "“If I had thought that life was good and good things happened and things were happy, I would have been crushed into the ground. It would have killed me.” Producers: Whit Missildine - thisisactuallyhappening.com Instagram: @actuallyhappening Music: “To Speak of Solitude” - Brambles Intro Music: \"Illabye\" - Tipper Outro Music: \"The Moon is Down\" - El Diablo & Adam Schraft (Rojo y Negro) @eldiablosf @rojo-y-negro www.eldiablobass.com/",
+          "episode": 6,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "What if you had to fight to be yourself?",
+          "description": "\"We don't have growth unless there's pain, and I needed that time to hit rockbottom, so that I could look for a solution.\" Producer: Whit Missildine - thisisactuallyhappening.com Instagram: @actuallyhappening You can follow today's guest, Patricio Manuel, on Instagram @team_pat_manuel Music: \"Union Flow\" - Spuntic Intro Music: \"Illabye\" - Tipper Outro Music: \"The Moon is Down\" - El Diablo & Adam Schraft (Rojo y Negro) @eldiablosf @rojo-y-negro www.eldiablobass.com/",
+          "episode": 7,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "What if your deepest fear was your greatest pleasure?",
+          "description": "\"Those weird moments of tension...that moment of uncertainty but impending doom...I don't think anything really ever matched that.\" Producers: Whit Missildine - thisisactuallyhappening.com Instagram: @actuallyhappening Music: \"Re-Entry\" - Lee Rosevere Featured Guest: Dick Wound You can find Dick's Podcast \"Off the Cuffs: A Kink and BDSM podcast\" on your podcast app. You can follow the show on Twitter and Instagram @OCPKINK. You can also follow Dick on Twitter @DickWound Intro Music: \"Illabye\" - Tipper Outro Music: \"The Moon is Down\" - El Diablo & Adam Schraft (Rojo y Negro) @eldiablosf @rojo-y-negro  www.eldiablobass.com/",
+          "episode": 8,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "What if you woke up to a loud bang?",
+          "description": "“There is no answer, I’ll never get my apology…I’ll never get my closure.” Producers: Whit Missildine and Lisa Zaid - thisisactuallyhappening.org Instagram: @actuallyhappening Music: “Cylinder Four” – Chris Zabriskie This Is Actually Happening Team: Whit Missildine, Lisa Zaid and Ryan Black To help Lisa Zaid rebuild her home after the Thomas Fire in California, please donate at: www.gofundme.com/help-the-zaid-family-rebuild Sponsor: BarkBox. Listeners to This Is Actually Happening get a free month of BarkBox deliveries when you go to BarkBox.com/actually. Sponsor: HelloFresh.com. Listeners to This Is Actually Happening get $30 off at HelloFresh.com when you enter the promo code: actually30. Outro Music: \"The Moon is Down\" - El Diablo & Adam Schraft (Rojo y Negro) @eldiablosf @rojo-y-negrowww.eldiablobass.com/",
+          "episode": 9,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "What if you had a ten year nightmare?",
+          "description": "\"The hardest part is that I still don't have any answers...what came into my house that night?\" Producers: Whit Missildine - thisisactuallyhappening.com Instagram: @actuallyhappening Original Score & Sound Design: Ryan Black - ryanblack.io Intro Music: \"Illabye\" - TIpper Outro Music: \"The Moon is Down\" - El Diablo & Adam Schraft (Rojo y Negro) @eldiablosf@rojo-y-negro www.eldiablobass.com/",
+          "episode": 10,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        }
+      ]
+    },
+    {
+      "season": 8,
+      "title": "Season 8",
+      "image": "https://content.production.cdn.art19.com/images/5a/4f/d4/19/5a4fd419-11af-4270-b31c-2c7ed2f563a5/4a812d7a328461ceb30c39425ccfe49942b6dc889de0fa8c9e83d9f70a5f63fab08a1a38cd6f61779f74f29522de39c2e50afcf4fdefe4a76a6c7ea72ce9e9af.jpeg",
+      "episodes": [
+        {
+          "title": "What if your singular dream fell to pieces?",
+          "description": "“How could I allow myself to mourn what I had lost? Because if I mourned it, then it was like a death, and I couldn’t accept that the me that I knew had died.”",
+          "episode": 1,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "What if your life went up in flames?",
+          "description": "“All that traumatized people are really looking for is not a fix-it but more like a validation or acknowledgement that it matters.”",
+          "episode": 2,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "What if you were kept from the one you loved most?",
+          "description": "“It’s interesting always having this void, knowing that you have something so wonderful that could love you so much and you could love so much that exists out there.”",
+          "episode": 3,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "What if a psychotic break split your life wide open?",
+          "description": "“I have a fear every single day am I going crazy and I don’t even know it? I didn’t know the things that I was doing and the things that I was saying were so extreme.”",
+          "episode": 4,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "What if you had thoughts of harming those you love most?",
+          "description": "“People say you should always trust your gut feelings. But I couldn’t trust my gut feeling and I still can’t to this day, because to me a gut feeling is in turn thinking about hurting somebody else.”",
+          "episode": 5,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "What if your mother left to follow a cult?",
+          "description": "From a divided home with parents of two opposing worldviews, a girl whose mother becomes enamored with a trance channeler must now make sense of her life in the void of abandonment. ",
+          "episode": 6,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "What if your son stabbed your daughter?",
+          "description": "Escaping a dysfunctional family background and finally raising a wonderful family of her own, a woman’s son commits a shocking crime that throws everything into chaos. ",
+          "episode": 7,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "What if your drive for perfection became your fatal flaw?",
+          "description": "Heading to college as a star athlete from a protective family, a man’s perfectionism and drive for self-control leads to a downward spiral. ",
+          "episode": 8,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "What if your family was consumed by an unthinkable act?",
+          "description": "Growing up Jehovah’s Witness and then setting out to form an identity of her own, a woman reconciles the silences of her loving and devoted family with an unthinkable act that throws everything into question. ",
+          "episode": 9,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "What if you left everything you had ever known?",
+          "description": "“It came along with this complete obliteration of everything I had ever believed and been taught and every moral that I was that I had within me.”",
+          "episode": 10,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        }
+      ]
+    },
+    {
+      "season": 9,
+      "title": "Season 9",
+      "image": "https://content.production.cdn.art19.com/images/5a/4f/d4/19/5a4fd419-11af-4270-b31c-2c7ed2f563a5/4a812d7a328461ceb30c39425ccfe49942b6dc889de0fa8c9e83d9f70a5f63fab08a1a38cd6f61779f74f29522de39c2e50afcf4fdefe4a76a6c7ea72ce9e9af.jpeg",
+      "episodes": [
+        {
+          "title": "What if you couldn't tell anyone?",
+          "description": "“The idea that they had plucked me from this terrible life…and it was all going to be sunflowers and rainbows and shit…I just view that as a fantasy.”",
+          "episode": 1,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "What if you swallowed 48 bags of cocaine?",
+          "description": "“I had to go through having taken everything away from me to come to the conclusion that … you’ll come back a person that’s wiser and a more full, satisfied human.”",
+          "episode": 2,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "What if you had to pull the plug?",
+          "description": "“When somebody hurts you and then they’re like, ‘now you have to take care of him, you’re responsible for him…’ I didn’t know how to feel.”",
+          "episode": 3,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "What if your mom was murdered by a serial killer?",
+          "description": "“I had total grief and sadness and fear and also just disbelief that it happened. But it’s different when you lose somebody who hurt you.”",
+          "episode": 4,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "What if you wanted to disappear?",
+          "description": "“I had this secret inside me that I felt was my one and only friend and companion that took me away from all the pain and anxiety that I had moving through my life.”",
+          "episode": 5,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "What if you were a human shield?",
+          "description": "“This fake face I was putting on for everybody was my only sense of normality when my whole life is already changed. I didn’t want to admit that stuff was wrong, and I did it in such a convincing way that the majority of people believed me.”",
+          "episode": 6,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "What if he made you think you were crazy?",
+          "description": "“I was sure that this was his mental illness and not something wrong with me until I started hearing it in my head. And that was when I started to think, 'maybe I’m actually going crazy'.”",
+          "episode": 7,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "What if you were trapped in a cycle of abuse?",
+          "description": "“My earliest memories as a child were fear and anxiety…I was never able to control the situation and that unknown just haunted me.”",
+          "episode": 8,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "What if you committed child sexual abuse?",
+          "description": " “I misused my position of power to get my needs met…How is it that if we’re called by God to this ministry we could possibly do such a destructive thing?”",
+          "episode": 9,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "What if you killed someone?",
+          "description": "“We have so much less control than we think we do….Death is really close at hand and we do not do ourselves often any favors by forgetting that.”",
+          "episode": 10,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        }
+      ]
+    },
+    {
+      "season": 10,
+      "title": "Season 10",
+      "image": "https://content.production.cdn.art19.com/images/5a/4f/d4/19/5a4fd419-11af-4270-b31c-2c7ed2f563a5/4a812d7a328461ceb30c39425ccfe49942b6dc889de0fa8c9e83d9f70a5f63fab08a1a38cd6f61779f74f29522de39c2e50afcf4fdefe4a76a6c7ea72ce9e9af.jpeg",
+      "episodes": [
+        {
+          "title": "What if you survived a genocide? [Rebroadcast - #113]",
+          "description": "\"No one can even understand. You can't measure the magnitude of that pain. You can't measure the pain that we went through.\"",
+          "episode": 1,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "What if you had a ten-year nightmare? [Rebroadcast - #103]",
+          "description": "\"The hardest part is that I still don't have any answers...what came into my house that night?\"",
+          "episode": 2,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "What if you transitioned into an alternate reality? [Rebroadcast - #124]",
+          "description": "“It’s almost as if like I could feel my whole self just changing at this point and just changing in the way that I trust people…and questioning myself and everything.”",
+          "episode": 3,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "What if the happiest place on earth was your worst nightmare? [Rebroadcast - #79]",
+          "description": "“It’s almost like you can’t stand the meaninglessness of the situation, and so you justify it by saying ‘well this must be all my fault.'”",
+          "episode": 4,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "What if her ex-boyfriend tried to kill you? [Rebroadcast - #114]",
+          "description": "“All of a sudden within a hundred meters of your house that’s where the worst thing happens and suddenly the world becomes different…you can’t go back to who you were.”",
+          "episode": 5,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "What if you went missing?",
+          "description": "“It was just full chills over my body, tears in my eyes, it was that moment of I don’t know, I don’t understand, I don’t know.”",
+          "episode": 6,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "What if you never stopped searching?",
+          "description": "“The not knowing is awful, and it’s awful from day one and it’s awful thirty years later, but every day that goes by you get more and more in reality.”",
+          "episode": 7,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "What if you ran but couldn't hide?",
+          "description": "“It planted a seed in my mind that has never ever gone away even now that people might not be who they say they are.”",
+          "episode": 8,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "What if your deepest secret was shared with the world?",
+          "description": "“I felt like I was sort of drifting along as something besides human, like I had stepped onto another planet inside my head.”",
+          "episode": 9,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "What if one wrong turn meant life or death?",
+          "description": "“You are in absolute darkness, and until you are in that kind of situation it’s hard to understand what darkness is.”",
+          "episode": 10,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        }
+      ]
+    },
+    {
+      "season": 11,
+      "title": "Season 11",
+      "image": "https://content.production.cdn.art19.com/images/5a/4f/d4/19/5a4fd419-11af-4270-b31c-2c7ed2f563a5/4a812d7a328461ceb30c39425ccfe49942b6dc889de0fa8c9e83d9f70a5f63fab08a1a38cd6f61779f74f29522de39c2e50afcf4fdefe4a76a6c7ea72ce9e9af.jpeg",
+      "episodes": [
+        {
+          "title": "What if you were the one to break the silence? - [Rebroadcast #137]",
+          "description": "“I don’t know what I was thinking but I just kept feeling like the waves of shame because of the shame I made them feel.”",
+          "episode": 1,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "What if you suddenly felt like a werewolf? - [Rebroadcast - #119]",
+          "description": "“It’s like trying to go into like a dark cave with a rope attached to you so that you can find your way back and then losing that the end of the rope.”",
+          "episode": 2,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "What if you thought your mother was a robot? - [Rebroadcast #146]",
+          "description": "“I completely lost touch with reality. You can’t rely on those around you, and you can’t rely on what’s within you. That’s the most terrifying thing in the world.”",
+          "episode": 3,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "What if a minor procedure left you permanently altered? - [Rebroadcast #135]",
+          "description": "“My personhood had been shattered into a thousand pieces that I and my family were left to pick up one at a time.”",
+          "episode": 4,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "What if your deepest fear was your greatest pleasure? [Rebroadcast - #105]",
+          "description": "\"Those weird moments of tension...that moment of uncertainty but impending doom...I don't think anything really ever matched that.\"",
+          "episode": 5,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "What if your family was consumed by an unthinkable act? [Rebroadcast - #126]",
+          "description": "“If there was a note…or just anything that would give us a single clue about it…but ultimately I don’t know like I’m never going to know why.”",
+          "episode": 6,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "What if nine bullets shattered your dreams?",
+          "description": "“These are open ended wounds that you have to patch up, but how do you patch them up? How do you make it okay.”",
+          "episode": 7,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "What if a single decision led to a spiral of loss?",
+          "description": "“Living in a constant state of anxiety does something to you…I’m not able to live, I’m not able to love, I’m not able to thrive.”",
+          "episode": 8,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "What if you were tortured in an Iranian prison?",
+          "description": "“You were in this abyss of darkness and the hardest part was not knowing…not knowing at all if you’re going to live or die or when or how.”",
+          "episode": 9,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "What if your mom hoarded 90 cats?",
+          "description": "“We had such a sense of safety and comfort and then…it was like everything changes and you can’t go back.”",
+          "episode": 10,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        }
+      ]
+    },
+    {
+      "season": 12,
+      "title": "Season 12",
+      "image": "https://content.production.cdn.art19.com/images/5a/4f/d4/19/5a4fd419-11af-4270-b31c-2c7ed2f563a5/4a812d7a328461ceb30c39425ccfe49942b6dc889de0fa8c9e83d9f70a5f63fab08a1a38cd6f61779f74f29522de39c2e50afcf4fdefe4a76a6c7ea72ce9e9af.jpeg",
+      "episodes": [
+        {
+          "title": "What if you couldn't even remember the crash?",
+          "description": "As a teenager struggling with severe depression and anxiety, a woman finds dance as her only outlet, but on a night that is lost to memory, a horrific accident transforms her body, her brain and her identity.",
+          "episode": 1,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "What if you watched your mother disappear?",
+          "description": "A man tries to put the pieces of his life back together after growing up with a mother who suffered from severe OCD and anorexia.",
+          "episode": 2,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "What if a false allegation stole what you valued most?",
+          "description": "A woman diagnosed with bipolar disorder experiences a roller coaster of destroyed relationships and mental storm, but after stabilizing through therapy and medication her mentally compromised mother makes an accusation that cannot be revoked.",
+          "episode": 3,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "What if a devastating truth only deepened the mystery?",
+          "description": "Growing up Black and queer in the South, a man finds an identity for himself through the arts and establishes a wonderful marriage with children, until one day, when his husband is late coming home, there’s a ring at the door and his entire life unravels.",
+          "episode": 4,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "What if you knew your baby was going to die?",
+          "description": "Coming from a charmed, conservative, Catholic upbringing, a woman must confront her deepest beliefs as she struggles with the reality and implications of the most devastating news a mother can receive.",
+          "episode": 5,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "What if an invisible disease blew up your life?",
+          "description": "After surviving a chaotic and abusive upbringing, a woman develops an undiagnosable autoimmune disorder that threatens to take her vision and her livelihood, but when a friend brings a blow-up doll to play a practical joke one night, everything changes. ",
+          "episode": 6,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "What if you didn't see the signs?",
+          "description": "Bill Mitchell built a successful career, marriage and family, but just as his bright and loving daughter graduates from college with big dreams, an unthinkable event irreversibly changes everything. ",
+          "episode": 7,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "What if you could never be what they wanted?",
+          "description": "Always feeling she had failed the ideals of her strict Muslim, South Asian family and community, a woman struggles to navigate trauma, shame and self-expression, when unexpected news forces her into a powerful reckoning.",
+          "episode": 8,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "What if you were taken to the dark side?",
+          "description": "A woman struggling to find herself finally discovers a place where she belongs and forms a deep friendship, but when she experiments with a powerful psychedelic the experience reveals more than she bargained for.",
+          "episode": 9,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "What if you could never make him proud?",
+          "description": "A man struggles to free himself from his father’s iron grip on the family, but when an unsettling truth about his past is revealed, his entire life comes into focus.",
+          "episode": 10,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        }
+      ]
+    }
+  ],
+  "image": "https://content.production.cdn.art19.com/images/5a/4f/d4/19/5a4fd419-11af-4270-b31c-2c7ed2f563a5/bc913bc926be23d04c9a4d29a829269a753be3d2612dad91f7e92ba4618fefc5c8802af29a1d32b3261eb03f83613e2535e3c574469b0cb510c32cd8d94cfaa1.png",
+  "genres": [
+    "All",
+    "Featured",
+    "True Crime and Investigative Journalism"
+  ],
+  "updated": "2022-11-01T10:00:00.000Z"
+}

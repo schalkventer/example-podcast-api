@@ -1,0 +1,70 @@
+{
+  "id": "9693",
+  "title": "Treasure Island 2020",
+  "description": "James Hawkins helps his mom run a motel in modern day Montauk, Long Island. But when a mysterious man washes up on the beach with a treasure map tattooed on his chest, James discovers that Billy Bones is, in fact, a time traveling pirate from the 18th century. James and his new friends, Morgan and Max, follow the map right into a magical portal that leads them back nearly three hundred years and back into a swashbuckling adventure. For more great Gen-Z podcasts visit http://gzmshows.com Become a Gen-Z Superfan by visiting our Patreon page for early access to shows, scripts, and other exclusive content. http://patreon.com/gzmshows",
+  "seasons": [
+    {
+      "season": 1,
+      "title": "Season 1",
+      "image": "https://content.production.cdn.art19.com/images/2f/59/1c/9d/2f591c9d-76f3-44de-9e18-e08357760a1b/536dd4e4023a3aa3adced6ffd09948c8b0335da9c4ee5dac0dcc1948d0b6c0f31813326249a4ca9e1a75c1069db509899aa337307d6cdbf41d0ee2eb5067ccc5.jpeg",
+      "episodes": [
+        {
+          "title": "Billy Bones",
+          "episode": 1,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Vortex",
+          "episode": 2,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "A One-Legged Seafaring Man",
+          "episode": 3,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Worm in the Apple",
+          "episode": 4,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Betrayed",
+          "episode": 5,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Mirror, Mirror",
+          "episode": 6,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Pieces of Eight",
+          "episode": 7,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Captain Flint",
+          "episode": 8,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Pirates Take Manhattan",
+          "episode": 9,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Greatest Treasure of All Time",
+          "episode": 10,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        }
+      ]
+    }
+  ],
+  "image": "https://content.production.cdn.art19.com/images/2f/59/1c/9d/2f591c9d-76f3-44de-9e18-e08357760a1b/7981ea59f91389ae43cd403bca43acfebf923edd4b8be32f1b668a6bc587297a9524c48d5f9a924490dd6558c90bf07ee9f790e6811ad77dd112482e0d19d347.jpeg",
+  "genres": [
+    "All",
+    "Kids and Family"
+  ],
+  "updated": "2020-06-15T09:00:00.000Z"
+}

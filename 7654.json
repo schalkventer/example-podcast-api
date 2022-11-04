@@ -1,0 +1,757 @@
+{
+  "id": "7654",
+  "title": "Truth &amp; Justice with Bob Ruff",
+  "description": "Truth & Justice is a true crowdsourced investigation in real time. Host, Bob Ruff, asks listeners to help with investigations as he takes on a new potential wrongful conviction case every season. The subject of Season 12 is a grizzly 2006 triple homicide, that occurred in Pinyon Pines, California.  Three innocent people lost their lives, and many believe that Robert Pape and Cristin Smith were wrongfully convicted of the murders. Join the investigation, and together we'll find the truth!",
+  "seasons": [
+    {
+      "season": 1,
+      "title": "Adnan Syed",
+      "image": "https://res.cloudinary.com/dumslp4el/image/fetch/w_676,h_676/https://content.production.cdn.art19.com/images/78/ef/8f/95/78ef8f95-e04e-4891-a491-707dec64984b/1e155c88db47114f2337c4ef396fc6817669320d94947fec116a58be42e3e3eb65c75ff285983b61ab61ceecd08699e81e42c52b2a7ea1e43c292a4b8bd5f694.jpeg",
+      "episodes": [
+        {
+          "title": "Journey Through the PCR Hearing",
+          "episode": 1,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Jim Clemente & Laura Richards",
+          "episode": 2,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Suspect - Mr. S.",
+          "episode": 3,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Suspect - Ronald Lee Moore",
+          "episode": 4,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "All About You",
+          "episode": 5,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Case Against Don",
+          "episode": 6,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Jay's Stories",
+          "episode": 7,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Conflicted",
+          "episode": 8,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Alibis",
+          "episode": 9,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Interview with Jim Clemente",
+          "episode": 10,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        }
+      ]
+    },
+    {
+      "season": 2,
+      "title": "Ed Ates (Smith County)",
+      "image": "https://res.cloudinary.com/dumslp4el/image/fetch/w_676,h_676/https://content.production.cdn.art19.com/images/64/9f/18/5e/649f185e-0b8d-4ffb-8337-9d8bced9e060/393a6ca6301765bc27442a3ca353beb474c908f870605cf40e978d6c463faf055de6c8fdaaa5266858b3c5e10f2b9d0a900b821c052b50c7e3267868b8e530fc.jpeg",
+      "episodes": [
+        {
+          "title": "Justice for Elnora and Ed",
+          "description": "Bob is joined by Innocence Project of Texas Attorney, Allison Clayton, to update the Truth & Justice Army on the most recent developments in our Season 2 Case. Allison has just been cleared to release the results of testing that has been conducted in Ed's case, and is here to share the results.",
+          "episode": 1,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "#EdAtesIsFree",
+          "episode": 2,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Follow-Up S2: E56",
+          "episode": 3,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "3-29-18",
+          "episode": 4,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Follow-Up S2: E55",
+          "episode": 5,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "I Come Home",
+          "episode": 6,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Follow-Up S2: E54",
+          "episode": 7,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Elnora",
+          "episode": 8,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Follow-Up S2: E53",
+          "episode": 9,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Follow-Up S2: E52",
+          "episode": 10,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        }
+      ]
+    },
+    {
+      "season": 3,
+      "title": "Jesse Eldridge",
+      "image": "https://res.cloudinary.com/dumslp4el/image/fetch/w_676,h_676/https://content.production.cdn.art19.com/images/cc/e0/67/1e/cce0671e-05fd-42ef-ba34-9a576aaacf71/29a7367dc5f60913ee5fcada43d41c0189a67d77ef4f78fb480f4a526b5740463a8dfdc4fc8be2a6c3703373dead6ab50789920b265361bccba87eca571b5d47.jpeg",
+      "episodes": [
+        {
+          "title": "Redemption",
+          "description": "Bob keeps digging into Jessie's case, and finally breaks it wide open. ",
+          "episode": 1,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Follow-Up S3: E29",
+          "episode": 2,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "A Break In The Case",
+          "episode": 3,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Follow-Up S3: E28",
+          "episode": 4,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Nobody Knows",
+          "episode": 5,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Follow-Up S3: E27",
+          "episode": 6,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "A Strong Case",
+          "episode": 7,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Follow-Up S3: E26",
+          "episode": 8,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Stay of Execution",
+          "episode": 9,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Follow-Up S3: E25",
+          "episode": 10,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        }
+      ]
+    },
+    {
+      "season": 4,
+      "title": "George Powell",
+      "image": "https://res.cloudinary.com/dumslp4el/image/fetch/w_676,h_676/https://content.production.cdn.art19.com/images/27/63/a2/99/2763a299-47d6-4dbe-a518-c6502c2ddf8e/d78d57e3e54ea72fcf69a4170c27b8669b435860eed03a58ff20db22ab11c95204ce1158dea10c7c9731d61218102b4e65bbea17409bc79413790b083870ea29.jpeg",
+      "episodes": [
+        {
+          "title": "George's Day in Court",
+          "episode": 1,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Follow-Up S4: E6",
+          "episode": 2,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Michael Ware",
+          "episode": 3,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Follow-Up S4: E5",
+          "episode": 4,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Grant Fredericks",
+          "episode": 5,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Follow-Up S4: E4",
+          "episode": 6,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Help From Above",
+          "episode": 7,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Follow-Up S4: E3",
+          "episode": 8,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Recantation",
+          "episode": 9,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Follow-Up S4: E2",
+          "episode": 10,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        }
+      ]
+    },
+    {
+      "season": 5,
+      "title": "The Forgotten West Memphis 3",
+      "image": "https://res.cloudinary.com/dumslp4el/image/fetch/w_676,h_676/https://content.production.cdn.art19.com/images/41/b9/1f/a5/41b91fa5-2db4-4767-8971-8667faa12fe6/2f6a8615e38f3bf6be8d94d6f1de6a904973ace929748f680e55514890eb42cb6e57f6c59a57715890b3f2ffe6ef207cb9edd4bad681dced51a85af76d38f613.jpeg",
+      "episodes": [
+        {
+          "title": "WM3 Ruling Explained",
+          "description": "Bob breaks down the events of last week.  The way Supporters were treated at the hearing, the ruling and the next steps in our fight for the truth.",
+          "episode": 1,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Now you see it; Now you don’t",
+          "description": "Bob is joined by Damien Echols, Lorri Davis and Lonny Sourey.  The pressure put onto the District Attorney’s office to test the WM3 evidence has finally come to a head.  Keith Chrestman is now backed into a corner, and is claiming that the evidence has been destroyed.  This episode presents the full picture of what’s going on, and let’s us know what to expect next.",
+          "episode": 2,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Timeline w/ Wendell Maas",
+          "description": "Bob invites listener Wendell Maas onto the show to help break down and explain the timeline of David Jacoby and Terry Hobbs movements on the night Stevie, Michael and Christopher went missing. ",
+          "episode": 3,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "David Jacoby Speaks - Pt. 2",
+          "description": "Part two of Bob's 2018 interview with David Jacoby. ",
+          "episode": 4,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "David Jacoby Speaks - Pt. 1",
+          "description": "In 2018, Bob traveled to Arkansas to sit down with one of the most mysterious characters in the notorious West Memphis Three case. In this emotional interview, David Jacoby talks about the night that Stevie Branch, Christopher Byers and Michael Moore went missing. We hear about his interactions with Terry Hobbs, and the search for the boys. ",
+          "episode": 5,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Forgotten WM3 Pt. 4 - Persons of Interest",
+          "description": "Bob breaks down the final part of his TV docuseries \"The Forgotten West Memphis Three\". Persons of interest David Jacoby and Terry Hobbs are discussed. Bob ends the episode with a call to action, in an effort to convince DA Scott Ellington to release evidence for new testing. ",
+          "episode": 6,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Forgotten WM3 Pt. 3 - w/ Jim Clemente",
+          "description": "Bob is joined by retired FBI Profiler Jim Clemente to break down Part 3 of The Forgotten West Memphis Three.",
+          "episode": 7,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Forgotten WM3 Pt. 2 - Memories",
+          "description": "Bob breaks down and shares behind the scenes info on Part 2 of our docuseries 'The Forgotten West Memphis Three'. ",
+          "episode": 8,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Forgotten WM3 Pt. 1 - The Victims",
+          "description": "Bob shares the stories about how the TV series came to be. We hear some amusing stories about his first trip to Hollywood, the creation of Real Crime Profile, and the entire creative process. ",
+          "episode": 9,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Interview w/ Jason Baldwin - Pt. 2",
+          "description": "In this second half of Bob's 2018 interview with Jason Baldwin, Jason discusses his relationship with Jesse Misskelley, and his determination to solve the case that stole his life away.",
+          "episode": 10,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        }
+      ]
+    },
+    {
+      "season": 6,
+      "title": "Sandy Melgar",
+      "image": "https://content.production.cdn.art19.com/images/3f/03/a1/29/3f03a129-40a1-4ddb-90e1-858c21094d0f/40b6c25e97fb0981c0032789798803128146cd4f7aa7e7ce993adc7925f4b19ec7b7ae696ac611c84a0c1ff93990e41080e1ce0cd2b575dae90901524ba212be.jpeg",
+      "episodes": [
+        {
+          "title": "The End of the Beginning",
+          "description": "In this Season 6 Finale episode, Bob takes us back through the discoveries of the last year.  We get updates on the $20,000 reward, Kathleen Zellner, and more.  The episode is concluded with an emotional address from Jim and Sandy's daughter, Lizz Rose.",
+          "episode": 1,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Remaining Suspects",
+          "description": "Bob investigates the persons of interest in the Melgar case that have yet to be addressed.  We begin to narrow down the suspect field.  Bob also announces that next week (Episode 45) will be the season finale of Season 6.",
+          "episode": 2,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Oscar",
+          "description": "Bob covers his findings in case files from the Harris County DA office on Oscar Garcia and Siniad Gonzalez.",
+          "episode": 3,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Caught on Camera",
+          "description": "In this episode, Bob breaks down what the security footage from the Melgar's neighbors actually shows on the night Jim Melgar was murdered. ",
+          "episode": 4,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The New Neighbor Boy",
+          "description": "Bob looks into the distant neighbor of the Melgars, Chad, who up to this point has been referred to by Bob as Randy. Bob covers his shady criminal past, as well as the sloppy police investigation into Chad as a suspect in the Melgar murder.",
+          "episode": 5,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Renters",
+          "description": "With the help of some Truth & Justice Army members, Bob makes a connection between Siniad Gonzalez-Londoño and the renters that were about to be evicted from Jim and Sandy's rental home.  In this episode, we get the full picture on the depth of Detective Shawn Carrizal's investigation into Jim's murder.",
+          "episode": 6,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Organized Criminals",
+          "description": "Bob digs deeper into Siniad Gonzalez as a possible suspect and reveals some concerning information about her family. ",
+          "episode": 7,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Mac Secrest",
+          "description": "This week, Bob interviews Sandy Melgar's defense and appeal attorney, Mac Secrest.  Mac talks about pre-trial investigation, the trial, and the appeals process.",
+          "episode": 8,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Listener Call-Ins",
+          "description": "After a busy week on the road, Bob fields questions and comments from listeners in this listener driven call-in episode.",
+          "episode": 9,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Follow-Up S6: E36",
+          "description": "In this follow-up, Bob answers questions from listeners regarding the Kingwood home invasion, the perpetrators from that crime's current whereabouts and more.",
+          "episode": 10,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        }
+      ]
+    },
+    {
+      "season": 7,
+      "title": "Bill Little",
+      "image": "https://res.cloudinary.com/dumslp4el/image/fetch/w_676,h_676/https://content.production.cdn.art19.com/images/ec/32/5a/fc/ec325afc-c19b-4b1e-b6ff-2c74085756a0/196526d7b0c9436625a2e464d9455dababe529ae79a6ad50a7c3c6f357323b9664aa9f0d64e4bcd3bf12964260b4c7b3862ba199d716cc016e3edd49131109e2.jpeg",
+      "episodes": [
+        {
+          "title": "Not Goodbye",
+          "description": "Bob takes us back through the journey that has been Season 7. We hear from special guests Jamie Snow, Danny Hartley and Nicole Snow. Our investigation into Bill Little's murder has had an unexpected effect on a lot of lives. Although we are done covering the case front and center on the podcast, our work behind the scenes will continue. This is not goodbye. ",
+          "episode": 1,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Final Debrief with Tara Thompson",
+          "description": "Bob is joined by Jamie Snow's attorney at The Exoneration Project. The two discuss revelations throughout the season, and expectations for Jamie's case. ",
+          "episode": 2,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Clemente on the Jeffs",
+          "description": "As season 7 draws closer to a conclusion, Jim Clemente returns one last time to see how Miller and Durbin fit into our profile of Bill Little's killer. ",
+          "episode": 3,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Jim Clemente Returns",
+          "description": "Jim Clemente returns to the show to re-evaluate the Bill Little crime scene, and update our profile of Bill's killer. ",
+          "episode": 4,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "A Complete 180",
+          "description": "Listener research has led to a new discovery that completely changes the way we look at the crime scene.",
+          "episode": 5,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "A Call for Help",
+          "description": "A new FOIA request reveals details about the three armed robberies committed by Jeff Durbin and Jeff Miller in the summer of 1991. We also hear from a new witness with some startling new information about Bill moments before he was murdered. ",
+          "episode": 6,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Durbin-Holt Connection",
+          "description": "Bob is assisted by listeners as we zero in on Jeff Miller and Jeff Durbin's possible connections to Bill Little's murder. In true crowdsourcing fashion, the Truth & Justice Army has discovered some startling new evidence. We also for the first time hear some emotion from Jamie Snow. After spending 20 years in prison for a crime he didn't commit, Jamie is frustrated and angry about what the police missed in the original investigation. ",
+          "episode": 7,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "A Little Tip Goes a Long Way",
+          "description": "An anonymous tip causes Bob to reconsider previously investigated evidence, leading us to a potential case solving theory. ",
+          "episode": 8,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Monte Carlo",
+          "description": "After 28 years of mystery, Bob receives a tip that represents the first solid lead in the Bill Little case in decades. If nothing else...a 28 year old crime has been solved. ",
+          "episode": 9,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "An Interview with Jamie Snow",
+          "description": "Bob chats with Jamie Snow about everything from Thanksgiving Dinner to how we can move his case forward, in this special Thanksgiving episode. ",
+          "episode": 10,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        }
+      ]
+    },
+    {
+      "season": 8,
+      "title": "Deborah Pieringer",
+      "image": "https://res.cloudinary.com/dumslp4el/image/fetch/w_676,h_676/https://content.production.cdn.art19.com/images/37/65/5b/38/37655b38-433d-4462-83d5-927f15554c55/00a0a7cbc75b69e955a387c9007622d1bee2d58b03f0ac8825ebaf0c5a1bf24c4eb4b59f7e04f9ba9e9fdde9f7fbfbfccdd4f4786a647a354a37c3792f98e356.jpeg",
+      "episodes": [
+        {
+          "title": "Deb's Testimony",
+          "description": "Bob breaks down Deb's trial testimony. ",
+          "episode": 1,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Loose Ends",
+          "description": "Bob covers three topics that have been on deck for future episodes in the Pieringer case. We cover information learned regarding the autopsies, a report written by Victim's Assistance Coordinator Sue Jacobson, and a deposition written by Deb's sister Brenda.",
+          "episode": 2,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Loose Ends (Pieringer Case)",
+          "description": "Bob covers three topics that have been on deck for future episodes in the Pieringer case. We cover information learned regarding the autopsies, a report written by Victim's Assistance Coordinator Sue Jacobson, and a deposition written by Deb's sister Brenda.",
+          "episode": 3,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Dear Lord - Pt. 2",
+          "description": "Bob shares Agnes’ prayer journal from September 12 through the morning before her murder. This episode ends with a tragic announcement.",
+          "episode": 4,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Dear Lord - Pt. 1",
+          "description": "A look inside the mind and heart of Agnes Courtney, in the months leading up to her tragic murder. ",
+          "episode": 5,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Dearest Brenda",
+          "description": "Bob discovers a letter in the police file that was marked as a \"File of Interest\".  We hear the contents of the letter, and breakdown what it tells us about the family dynamics of the Courtneys.  The letter is also compared to the note that was stabbed into Smitty's pant leg.",
+          "episode": 6,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Dr. Cyril Wecht",
+          "description": "Bob is joined by renowned Medical Examiner, Dr. Cyril Wecht to discuss the Courtneys' autopsies. We also get some updates from Bob's trip to Texas. ",
+          "episode": 7,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Dr. Abalos",
+          "description": "Bob reaches out to Dr. Margarita Abalos to discuss what she saw on the day the Courtneys were murdered. We also look a little closer at Emilio Villagómez.",
+          "episode": 8,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Timing is Everything",
+          "description": "Bob breaks down all of the detectives' handwritten notes. We hear from a listener who formerly worked security at Target, and the computer forensic reports are analyzed. ",
+          "episode": 9,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Dr. Ambers Returns",
+          "description": "After reviewing the DNA reports, Dr. Angie Ambers reaches back out to Bob to break down what she's found.",
+          "episode": 10,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        }
+      ]
+    },
+    {
+      "season": 9,
+      "title": null,
+      "image": "https://res.cloudinary.com/dumslp4el/image/fetch/w_676,h_676/https://content.production.cdn.art19.com/images/de/07/a1/5c/de07a15c-9314-4505-93ae-a1829e708d12/bbfc5d6584eca71e98dd2eca8e50ac91c396599495218f035e3ca69cc9ef133c7172ede07d4b0cab3ebd348e573e5c14cc850d39918464c07786b27e0f8f73b6.jpeg",
+      "episodes": [
+        {
+          "title": "The Delphi Murders w/ Barb & Drew",
+          "description": "Bob is joined by HLN Investigative Journalists Barbra MacDonald and Andrew Iden. Barb and Drew host the \"Down the Hill\" podcast, where they take a deep dive into the February 13, 2017 murders of Abby Williams and Libby German. Abby and Libby were last seen in a wooded area in Delphi, headed towards the Monan High Bridge. Their bodies were discovered the next day. Libby managed to capture video and audio of her attacker. In the beginning it seemed as though justice would be swift in this horrific case, but four years later the case remains unsolved. ",
+          "episode": 1,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Mystery in Big Sky w/ Katie & Kimberly",
+          "description": "Bob is joined by the hosts of the Date with Dateline Podcast, Kimberly and Katie. The three discuss the case of the murder of Brian Rein. Brian was found murdered in his Montana home in 1996, and to this day no one has ever been convicted for the crime. ",
+          "episode": 2,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Do No Harm w/ Mike Hixenbaugh",
+          "description": "Investigative Reporter Mike Hixenbaugh joins Bob to discuss his hit Wondery Original podcast series \"Do No Harm.\" The podcast follows the journey of two sets of parents who suffered through unthinkable hardships, as they fought to keep CPS from taking their children. ",
+          "episode": 3,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Counter Clock w/ Delia D'Ambra",
+          "description": "Bob is joined by investigative journalist, Delia D'Ambra. Delia is the host of the \"Counter Clock\" podcast, and is here to share her investigations into two murders that occurred in her hometown. ",
+          "episode": 4,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Disappearance of Kristin Smart w/ Chris Lambert",
+          "description": "Bob is joined by the host of the \"Your Own Backyard\" podcast, Chris Lambert. Chris is on a mission to find Kristin Smart, and he's here to share his journey. ",
+          "episode": 5,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Golden State Killer w/ Paul Holes",
+          "description": "Bob is joined by the man who never gave up on bringing the man of many names to justice. Joseph DeAngelo was known as the Visalia Ransacker, the East Area Rapist, the Original Night Stalker, and as the Golden State Killer. For decades Paul Holes continued the hunt until DeAngelo was finally brought to justice. Paul co-hosts the \"Murder Squad\" podcast with Billy Jensen, and he's here today to tell the story of how he caught GSK. ",
+          "episode": 6,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Someone Knows Something w/ David Ridgen",
+          "description": "Bob is joined by the host of the Someone Knows Something podcast, David Ridgen. David talks about his journey from filmmaking to podcasting, and spends time talking about all 6 cases that were covered on SKS. ",
+          "episode": 7,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Mysterious Death of Lauren Agee w/ Sheila Wysocki",
+          "description": "Bob is joined by Private Investigator and Podcaster, Sheila Wysocki. Sheila is here to discuss the mysterious circumstances surrounding the death of Lauren Agee. Lauren was camping with friends, when she went missing. The next day her body was found floating in a cove. Police ruled the death an accident, but her family expects foul play. Sheila is on the case. ",
+          "episode": 8,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Murder at The Orange Tree w/ Haley & Tinu",
+          "description": "Bob is joined by the hosts of the Orange Tree podcast, Haley Butler and Tinu Thomas. Bob, Haley and Tinu discuss the strange case of the murder of Jennifer Cave. ",
+          "episode": 9,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "JFK Assassination w/ Ash & Alaina",
+          "description": "Bob is joined by the hosts of the Crime Countdown podcast. Together, Bob, Ash and Alaina break down some of the more bizarre theories about who killed Kennedy. ",
+          "episode": 10,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        }
+      ]
+    },
+    {
+      "season": 10,
+      "title": "Jennifer Jeffley",
+      "image": "https://res.cloudinary.com/dumslp4el/image/fetch/w_676,h_676/https://content.production.cdn.art19.com/images/e9/06/3c/9a/e9063c9a-ced9-4a4f-8912-414767015460/88015782a51175b98b4cd33a09449e541555b2df3ad61553769fef4d91fc89fb8abcd0dceccbd2b3a932e43593d61a5bed88c131f7db23622bbcd3e32742a27b.jpeg",
+      "episodes": [
+        {
+          "title": "In Theory",
+          "description": "In this Season 10 Finale episode, Bob shares his final thoughts on Jennifer Jeffley’s culpability in Catalina’s murder and delivers his current working theory.",
+          "episode": 1,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "In Closing",
+          "description": "Bob breaks down the State's closing arguments, and shares new leads in the case.",
+          "episode": 2,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "After the Arrest",
+          "description": "Bob circles back to the wallet, and then breaks down the full investigative efforts of Detectives Swainson and Allen, after they arrested Jennifer Jeffley.",
+          "episode": 3,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Laura Nirider on False Confessions",
+          "description": "Bob spends the first segment of this episode delving into the discovery of the wallet, in Eva’s apartment.  After that Bob shares an interview first published on True Crime Binge with juvenile false confession expert, Laura Nirider.",
+          "episode": 4,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Voice",
+          "description": "Bob circles back to do a deep dive analysis of the evolution of witness statements that led to the fake voice narrative.",
+          "episode": 5,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Mendiolas - Pt. 2",
+          "description": "After taking a break, Bob and the Mendiolas sit back down and discuss more elements of the investigation into Catalina’s murder.",
+          "episode": 6,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Mendiolas - Pt. 1",
+          "description": "Catalina’s only living relative invites Bob into his living room to talk about the case. Juan and his wife share some valuable insights into Catalina’s months living at the Green Arbor Apartments.",
+          "episode": 7,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Swainson & Peters",
+          "description": "Bob breaks down the trial testimony of Detective Roy Swainson, and we hear directly from Craig Peters.",
+          "episode": 8,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Another Perspective - Pt. 2",
+          "description": "Part 2 of Bob’s discussion with listener Chris Doland. In this episode Bob points out what he sees as flaws in Chris’ theory of the case, and lays out his own working theory. The two then work through the evidence and land on a reasonable working timeline.",
+          "episode": 9,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Another Perspective - Pt. 1",
+          "description": "Bob is joined by longtime listener Chris Doland. This episode speaks to the core values of the Truth & Justice crowdsourced investigation model. Bob & Chris often discuss their very different perspectives about the case on the Facebook Fan Page. One of the best ways to see the case from all angles is to have a discussion with someone who doesn’t agree with you. Chris offered to take the discussion onto the podcast, and Bob happily accepted the offer. The discussion that listeners will hear over the next two episodes are both meaningful and eye opening.",
+          "episode": 10,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        }
+      ]
+    },
+    {
+      "season": 11,
+      "title": "Pablo Velez, Jr.",
+      "image": "https://res.cloudinary.com/dumslp4el/image/fetch/w_676,h_676/https://content.production.cdn.art19.com/images/29/76/83/31/29768331-f98f-4ff5-9936-8182fa707cf6/7a214db2093a166e599106a1f760e1b3ab9c7acc2f4fec541db4792d34f0f3ac8ea4127b73088a51d95d29a59429adcf2e6866bbe5d19842cf59b2a240f752cc.jpeg",
+      "episodes": [
+        {
+          "title": "The Legal Battle",
+          "description": "Bob speaks with Pablo’s attorney, Herman Yue. Herman breaks down Pablo’s case, explains the path ahead, and asks for help from the Truth & Justice Army.",
+          "episode": 1,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "An Ambush",
+          "description": "Bob reveals new evidence that paints a very clear picture of what actually happened outside of the Perfect Rack on 7/15/2004. We learn about evidence that connects the three main suspects to the crime, and what Detectives King, Swainson, and ADA Bogar KNEW about the dangerous men that they left on the streets of Houston.",
+          "episode": 2,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Superman",
+          "description": "Bob breaks down the forensics from the crime scene, Emerson’s autopsy report, and we hear from a key witness that never testified at trial.",
+          "episode": 3,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Claudia Speaks",
+          "description": "Bob is joined by eye witness, Claudia.  Claudia shares her first hand account of the night that Emerson was killed.  She came face to face with his killer, and her story about her interactions with Harris County DA Eileen Bogar will absolutely shock you.",
+          "episode": 4,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Crooked Cops",
+          "description": "Bob breaks down all the reasons that the State’s case against Pablo Velez was a complete fabrication.  The Harris County DA’s office and the Houston Police Department had to lie and hide evidence in order to convict an innocent man.",
+          "episode": 5,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Case Against Pablo",
+          "description": "Bob breaks down the State's case against Pablo Velez, at his original trial.",
+          "episode": 6,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Perfect Rack",
+          "description": "Pablo Velez, Jr. was convicted for the 2004 murder of 17 year old Emerson Bojorquez.  He was killed in a shootout at a Houston night club.  This is the story of how Emerson died . . . and where Pablo Velez was when it happened.",
+          "episode": 7,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        }
+      ]
+    },
+    {
+      "season": 12,
+      "title": "Pinyon Pines",
+      "image": "https://res.cloudinary.com/dumslp4el/image/fetch/w_676,h_676/https://content.production.cdn.art19.com/images/41/eb/84/8c/41eb848c-b866-4803-b976-885e4ef723fe/0e9a6dd3c566a0b52413029d524966d1a0a2fd2562b0649a5d1ac9a9e679d72afcb6b196e6c19cf393a8d74b4c11b9d97119587be31a4764538b6bb1dfb0e957.jpeg",
+      "episodes": [
+        {
+          "title": "Ron Friedli",
+          "description": "Today we listen to an explanation regarding the financial settlements between Vicky and her ex-husband, Ron Friedli. Bob gives us his candid opinion on Ron's involvement in this case.",
+          "episode": 1,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Tiffany, Part 2",
+          "description": "After all the info we gleaned from Tiffany last week, we are going to dive a little deeper into that relationship today. We will listen to some interviews between the sheriff's department and Tiffany in this episode. Looking forward to getting your thoughts in next week's Friday Follow-Up!",
+          "episode": 2,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Tiffany",
+          "description": "Today, we learn a lot more about the family dynamics after Bob thoroughly combs through an interview with Becky's sister, Tiffany. ",
+          "episode": 3,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Mystery Hiker",
+          "description": "In today's episode, we explore the possible identity of that \"mystery hiker\". ",
+          "episode": 4,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Relationships",
+          "description": "After doing some deeper digging, Bob gives us a more concise analysis of the days we have covered so far, and then finishes off the details of the weekend. He also fill in some gaps and missing pieces, thanks to some great listener input. We also get introduced to a new \"character\" in this ongoing narrative.",
+          "episode": 5,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Becky's Week",
+          "description": "In this week's episode, Bob starts by playing us a short police phone call with Javier, and then goes over the details of Becky's week. ",
+          "episode": 6,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Family Ties",
+          "description": "Today, Bob gives us a hybrid episode where he analyzes a few police interviews that were conducted with family members of Becky's friend group.",
+          "episode": 7,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Road to Austin Alba",
+          "description": "This week, Bob gives us the best of both worlds, with a combination of his classic narration style, and a very interesting interview with Austin Alba. This episode will be bringing our deep dive of the friend group to a close. ",
+          "episode": 8,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Beau Nash",
+          "description": "In this second interview with Beau Nash, he rehashes the details of what he did on the night of the murders. You'll also hear things about Robert and Cristin that we haven't heard before. ",
+          "episode": 9,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Jessica Henry",
+          "description": "Today we hear Jessica Henry's police interview, in which she describes some of her odd interactions with - and observations about - Austin Alba. She also gives us more insight into Becky and Javier's relationship. ",
+          "episode": 10,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        }
+      ]
+    }
+  ],
+  "image": "https://content.production.cdn.art19.com/images/3f/03/a1/29/3f03a129-40a1-4ddb-90e1-858c21094d0f/40b6c25e97fb0981c0032789798803128146cd4f7aa7e7ce993adc7925f4b19ec7b7ae696ac611c84a0c1ff93990e41080e1ce0cd2b575dae90901524ba212be.jpeg",
+  "updated": "2022-11-03T13:07:51.000Z"
+}

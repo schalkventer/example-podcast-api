@@ -1,0 +1,119 @@
+{
+  "id": "6430",
+  "title": "The City",
+  "description": "USA TODAY’s critically acclaimed investigative podcast about power in American cities. Season 1, Chicago: A black neighborhood fights back when a mysterious man with mob ties builds an illegal dump across the street from an elementary school. Along the way they confront corrupt politicians, apathetic bureaucrats—and a secret undercover FBI investigation. Season 2, Reno: A surprising proxy battle for the future of Reno pits a brash strip club kingpin against power brokers in city hall. The winner-takes-all fight could remake the city—and ruin lives in the process.",
+  "seasons": [
+    {
+      "season": 1,
+      "title": "Season 1",
+      "image": "https://res.cloudinary.com/dumslp4el/image/fetch/w_676,h_676/https://content.production.cdn.art19.com/images/cf/9b/40/fe/cf9b40fe-cf15-46ad-8255-88ac8d49be2d/6d3dbe86916577aa5835f94cd33a83df1c8faaeedcfd949eefbf3a2e8454e3bd0f22c72b1a77c6bbd8978bbd373a6df8a1b43cf5cbe9845d27a12ba1d1293880.jpeg",
+      "episodes": [
+        {
+          "title": "Six Stories",
+          "description": "Chicago, 1990. A guy with a loud sweater, manicured nails and connections to some very powerful people idles in a limousine near a vacant lot. A fleet of dump trucks unloads literal tons of busted concrete—and keep coming back. Neighborhood residents take action. The mess becomes much bigger than a six-story pile of rubble.",
+          "episode": 1,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Life in the Shadow of the Mountain",
+          "description": "Lawyers debate whether 31,000 truckloads of debris is or isn’t “waste.” Justice is delayed. A mountain rises and casts its long shadow.",
+          "episode": 2,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "\"Mount Henry\"",
+          "description": "The neighborhood turns to a beloved ward boss—but his own agenda comes first. A man in the know offers some valuable advice on power.",
+          "episode": 3,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "A Tale of Two Cities",
+          "description": "Four years in, \"Mount Henry\" has become a magnet for hazardous waste—both literal and figurative. A new illegal dump appears in a white neighborhood. A trusted advocate may not be who he seems.",
+          "episode": 4,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The \"Forrest Gump\" of Chicago Crime",
+          "description": "A bank failure unearths a connection to the mysterious man in the limo—and suddenly, he’s everywhere. Bribery, fraud and violence are just ways of doing business. The FBI is on the case—but which one? And whose?",
+          "episode": 5,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Operation Silver Shovel",
+          "description": "A criminal flips and wears a wire. Aldermen accept small sums of large bills. The FBI’s investigation may be tainted. \"Mount Henry\" grows, but shrinks from memory.",
+          "episode": 6,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Takedown",
+          "description": "A reporter scoops the FBI. Politicians get taken down in \"Mount Henry’s\" shadow. The six-story debris pile remains.",
+          "episode": 7,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Houston",
+          "description": "An illegal dump in Chicago has seeds in a legal one in Houston. The numbers reveal an unsettling pattern. A movement takes root. The president gives an order.",
+          "episode": 8,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Cleanup",
+          "description": "The illegal dump is finally eradicated—but at whose expense?",
+          "episode": 9,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Present, The Future",
+          "description": "The uncertain fate of the lots in North Lawndale, and what that says about a city like Chicago. ",
+          "episode": 10,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        }
+      ]
+    },
+    {
+      "season": 2,
+      "title": "Season 2",
+      "image": "https://res.cloudinary.com/dumslp4el/image/fetch/w_676,h_676/https://content.production.cdn.art19.com/images/e0/7e/1f/12/e07e1f12-3d9f-47d0-933c-15e6f942e0d8/ceef7ea0eee9baf76db4cd8ad715fcdad2074579b5728e277be46f68a0a9a126ee3f11fcf99b1b92f04784fac94dada1c23e8ab27f331dbfc4f408f5b2a66e80.jpeg",
+      "episodes": [
+        {
+          "title": "Battlelines",
+          "description": "In a changing Reno, city boosters concoct a plan to force strip clubs out of downtown. But Reno’s strip club kingpin won’t go quietly. As the city tightens its grip, it’s dancers who feel the squeeze.",
+          "episode": 1,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "If They Want War, We'll Give 'Em War",
+          "description": "A secret report on strip clubs is revealed, but it’s no smoking gun. As Midtown changes, residents of a weekly hotel make their fury known to a council that says they’re just pawns in a bigger game.",
+          "episode": 2,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Pendulum",
+          "description": "Big-game hunters in town for an annual safari convention go to the Wild Orchid looking to let loose. But city police have other plans, marking Reno’s latest swing from permissiveness to restrictiveness.",
+          "episode": 3,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "West World",
+          "description": "We go 20 miles east of Reno, to a mountainous landscape full of wild horses, brothels, and Tesla’s futuristic Gigafactory. City boosters say it’s the engine driving the New Reno. But the truth of what that means is darker and more complicated than it first appears. ",
+          "episode": 4,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Behind the Curtains",
+          "description": "A mysterious device shows up at the Wild Orchid, and Kamy is paranoid the city is out to get him. Everyone wants to know what’s happening in the strip club’s VIP rooms—including the courts. ",
+          "episode": 5,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "A New Reno",
+          "description": "As old Reno disappears around them, Kamy, Stephanie, and Velma all try to find their bearings. ",
+          "episode": 6,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        }
+      ]
+    }
+  ],
+  "image": "https://content.production.cdn.art19.com/images/c5/f8/e7/fa/c5f8e7fa-4b3d-44b5-83f8-30b04dd28293/74283c27dfd3bd1ce61e9aa0fa2e9c8d6f4847152fa4b7e9a38e8fa87b42aaf33ca247af6994bff4304a85ea7c82e7513ded581456b4474b5790320b916f798f.jpeg",
+  "updated": "2020-07-29T07:30:00.000Z"
+}

@@ -1,0 +1,399 @@
+{
+  "id": "5702",
+  "title": "Imagined Life",
+  "description": "What is it like to be famous before you’re famous? What is it like to walk in the shoes of another person? Each episode of Imagined Life takes you on an immersive journey into the life of a world-famous person. It’ll be someone you may think you know, even admire -- or maybe the opposite. You’ll get clues to your identity along the way. But only in the final moments will you find out who “you” really are. So sit back, let go, and -- imagine your life, with our hosts, Oscar nominated Virginia Madsen and celebrated voice actor Robbie Daymond. All episodes are available now. You can binge the series ad-free on Wondery+ or on Amazon Music with a Prime membership or Amazon Music Unlimited subscription.",
+  "seasons": [
+    {
+      "season": 1,
+      "title": "Season 1",
+      "image": "https://res.cloudinary.com/dumslp4el/image/fetch/w_676,h_676/https://content.production.cdn.art19.com/images/f8/a8/9f/27/f8a89f27-cf1f-4523-8ecc-8094f42d21df/8a74f534ffd9df00b54ce90644620fac05285db2bdded223a2ada7aca7dc6e7570a0feb5aa9ab57a4fb98ad0e8e845bca0887a55bee3949ace7636a1099c64d8.jpeg",
+      "episodes": [
+        {
+          "title": "The Outsider",
+          "description": "You’ve been bullied and ignored for much of your childhood. You lose yourself in trances that can last for an hour. Your only escape is the books you love, the complex thoughts that bounce around inside your mind...and to get out of your father’s house. Hosted by Robbie Daymond.",
+          "episode": 1,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Daydreamer",
+          "description": "You’ve always lived for what others want you to do: your college major, your first job. You have a dream, but before you achieve it, you’ll have to hit rock bottom first. Hosted by Virginia Madsen.",
+          "episode": 2,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Performer",
+          "description": "It’s the eve of your wedding, and you fear you’ve made a huge mistake. Music is your passion, but you’re not sure your fiancée believes in your talent. There’s greatness in you, but it’s not even clear you’ll make it through the night. Hosted by Robbie Daymond.",
+          "episode": 3,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Bride",
+          "description": "From the outside, it looks like you have it all. But on the inside, you’re alone and trapped. Hosted by Virginia Madsen.",
+          "episode": 4,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Warrior",
+          "description": "You have a decision to make. On one side, everything you’ve ever worked for; on the other, everything you believe in. You can’t have both. Hosted by Robbie Daymond.",
+          "episode": 5,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Trailblazer",
+          "description": "You’re a successful woman in a man’s business, and yet you’re not sure you can do it alone. You’ve so worked hard to get here, and your marriage is on the rocks and you’re afraid of losing everything. Hosted by Virginia Madsen.",
+          "episode": 6,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Advocate",
+          "description": "You’ve experienced loss and pain, but now you’ve reached a pinnacle in your career. You should be happy but you’re not. You decide to risk it all to be truthful to yourself. Hosted by Robbie Daymond.",
+          "episode": 7,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Chameleon",
+          "description": "Hosted by Virginia Madsen",
+          "episode": 8,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Officer",
+          "description": "You’ve always dreamed of serving your country. Now you have a chance. But if you make the wrong decision it all ends here.",
+          "episode": 9,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Commoner",
+          "description": "You grow up in a small town yearning to make a difference, but you will have to travel 5,000 miles across the globe to find your true calling. You are prepared to put your life on the line to fight for what you believe. When your body breaks down, you find another another way to create change. Hosted by Robbie Daymond.",
+          "episode": 10,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        }
+      ]
+    },
+    {
+      "season": 2,
+      "title": "Season 2",
+      "image": "https://res.cloudinary.com/dumslp4el/image/fetch/w_676,h_676/https://content.production.cdn.art19.com/images/4e/ba/d2/f6/4ebad2f6-78ba-4d6e-a3e7-6bb04d10a91a/041948955b95a2eebb543ba9587ebc659f0de9a61df4ab8fdef9cf449fb180304d2e712fe69fcf4c84e1d41bf3c0301300373b0f3558718727cdf94fbe58042e.jpeg",
+      "episodes": [
+        {
+          "title": "The Lover",
+          "description": "You’ve spent your whole life building: a large family, a beautiful home, a successful career. But there's still something missing. And once you find it, you'll risk everything to keep it.",
+          "episode": 1,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Ballerina",
+          "description": "You’re timid and awkward, a fish out of water. Dance brings you poise and self-assurance, but you can’t live in the ballet studio. You have to go out into the world. ",
+          "episode": 2,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Captive",
+          "description": "Your whole life, people have conspired to hold you back. They want you shackled, grounded. But you won’t let them. Not anymore. Now, you’re determined to escape.",
+          "episode": 3,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Passenger",
+          "description": "On the road of life, some people are drivers, and others are not. You’ve been told you were born for the backseat, told to buckle and enjoy the ride, but now you’re all grown up. It’s time to take the wheel. ",
+          "episode": 4,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Troublemaker",
+          "description": "You’re driven by an inherent sense of right and wrong. A force so strong you can’t help but challenge every inconsistency, every injustice around you. You see yourself on the front lines of the fight against injustice; others just see you as obnoxious. ",
+          "episode": 5,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Reject",
+          "description": "You want to make something of yourself. But no matter how hard you try, the gatekeepers keep shutting you out. And what’s worse — you’re afraid they’re right. Maybe you really do belong with the losers. Hosted by Robbie Daymond",
+          "episode": 6,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Model",
+          "description": "A long time ago, you learned it was dangerous to be who you are, so mastered the art of being someone else. But now it seems there may be more danger in living a lie, than speaking your truth. ",
+          "episode": 7,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Eccentric",
+          "description": "You’re caught between two worlds -- your small hometown where you’ve never fit in, and the big city you escaped to. But home is what you make of it. ",
+          "episode": 8,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Loudmouth",
+          "description": "You don’t like being you. Other people don’t like you either — the kids at school, even your own family. But words give you power. They make you feel invincible. ",
+          "episode": 9,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Patron",
+          "description": "All around you, you see struggle and strife; rampant corruption and inequality. You know the system is stacked against you. So you work outside of it.",
+          "episode": 10,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        }
+      ]
+    },
+    {
+      "season": 3,
+      "title": "Season 3",
+      "image": "https://res.cloudinary.com/dumslp4el/image/fetch/w_676,h_676/https://content.production.cdn.art19.com/images/16/4b/62/e3/164b62e3-4a49-460b-8927-e01424d8667c/411331d649c5b097feda22d1a6b1964f72dc1676f55574807ef73ad7ae50c1aab6158f2417cb09c7cd83f73367394c1d437f292d6a38c5a966c32e27f426aa93.jpeg",
+      "episodes": [
+        {
+          "title": "The Workhorse",
+          "description": "Nothing makes you happier than having a job. It’s been that way since you were a kid, with holes in your shoes and socks. But to fulfill your dream, you’ll have to fight the demons of your past—and the present—to prove everyone wrong. Including yourself.",
+          "episode": 1,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Survivor",
+          "description": "All you want is love. Sometimes, you choose men with your heart. Sometimes, with your head. But nothing sticks. Maybe you just don’t understand relationships… ",
+          "episode": 2,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Idealist",
+          "description": "You’ve discovered something huge. And now, you have to make a choice. You want to do what’s right, but doing so means you could lose the person you love most.",
+          "episode": 3,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Exile",
+          "description": "You've lost the only thing that truly matters to you. It's bigger than friendship. Bigger than love. And now, you have to find a way to get it back.",
+          "episode": 4,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Wanderer",
+          "description": "You spent your childhood bouncing between homes, with only the beats in your head to keep you company. Now, you have to choose between living the life you want and staying true to the life you’ve had. If only you could find a way to do both. ",
+          "episode": 5,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Fugitive",
+          "description": "You need to make a big change. And so you go underground—new city, new friends, new life. The question is, will you ever come back? ",
+          "episode": 6,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Encore: The Everyman",
+          "description": "You grew up alone and afraid. To protect yourself, you put up walls. You’re safe behind them… but here’s the thing about walls, they keep out the good stuff too. And you want to feel good.",
+          "episode": 7,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Caretaker",
+          "description": "You've been given a huge responsibility. A test you never expected. But to succeed, you'll have to win over all your doubters—and fend off your most vicious opponents.",
+          "episode": 8,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Dreamer",
+          "description": "You’re an artist. A visionary. But making your dreams a reality—well, that’s not so easy. Because first, you'll need to win over some powerful people. ",
+          "episode": 9,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Orphan",
+          "description": "You are going to fight tooth and nail until you're famous. But as you struggle for recognition, you’ll have to face something that's tormented you throughout your whole life.",
+          "episode": 10,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        }
+      ]
+    },
+    {
+      "season": 4,
+      "title": "Season 4",
+      "image": "https://res.cloudinary.com/dumslp4el/image/fetch/w_676,h_676/https://content.production.cdn.art19.com/images/54/37/cc/f5/5437ccf5-2c8b-4220-b5e2-a729e22998ca/784a81cf067872367fa9dc029ed47302f7a46a71f7ab507fdf904f42250cb5abfa1fcf7dfec416d1feddcecb3753ee8ec4d2e3471ef025d6fed16a11ea9d0f54.jpeg",
+      "episodes": [
+        {
+          "title": "The Phoenix",
+          "description": "You’ve made it to the top of the top in entertainment, and you’re only a teenager. But you’ve got some serious obstacles. Like your mom. And the machine known as Hollywood. You’ll fight to survive, but are you strong enough?",
+          "episode": 1,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Dishwasher",
+          "description": "Soon after your birth, a fortune teller promised you’d be someone special. But years later you’re far from home, sleeping on a park bench and taking menial jobs to scrape by. You know you’re meant for better things. You just have to make the world see it. ",
+          "episode": 2,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Imagined Life Family | The Adventurer",
+          "description": "In this week’s special episode for the whole family, you long to go to Africa and have adventures like Tarzan. But everyone tells you girls aren’t supposed to do things like that. You’ll just have to prove them wrong.",
+          "episode": 3,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Pilgrim",
+          "description": "For you making art is holy, like a prayer. But one question keeps you up at night: What if artists are … like saints? What if you can’t choose to be one – you can only be chosen?",
+          "episode": 4,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Underdog",
+          "description": "You've always been awkward, a square. But that's not going to stop you from rising to the top of the top in America. Even if you have to wage a fierce battle when you get there. ",
+          "episode": 5,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Shark",
+          "description": "You’re ten years old, and your father’s just passed away. You decide, the only way to avoid your pain is to keep moving forward, no matter what. And your strategy works – until you start to feel less and less … human.",
+          "episode": 6,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Imagined Life Family | The Dancer",
+          "description": "In this week’s special episode for the whole family, you may be young, and small for your age. And you feel like no one takes you seriously—especially not your big sister. But that’s not going to stop you from becoming one of the greatest performers in the world. ",
+          "episode": 7,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Soldier",
+          "description": "You’ve always been the kind of man who won’t tolerate disrespect, who’s proud to go it alone. But when an important protocol is breached, you find yourself in a desperate situation.",
+          "episode": 8,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Reporter",
+          "description": "You’re determined to write about serious stories that matter—you just don’t see why that should mean ignoring half the population. But after someone you love dearly betrays you, you use your pen to write yourself a happy ending.",
+          "episode": 9,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Scientist",
+          "description": "To become the great scientist you want to be, you need to stay cool, collected, focused. But every time you sit down to study the mating rituals of eels, your mind drifts off to your own chances with the fairer sex.",
+          "episode": 10,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        }
+      ]
+    },
+    {
+      "season": 5,
+      "title": "Season 5",
+      "image": "https://res.cloudinary.com/dumslp4el/image/fetch/w_676,h_676/https://content.production.cdn.art19.com/images/25/a0/94/6c/25a0946c-f647-4764-8a28-756dc89b1e03/1080d1266159a6cea5af5dc646fb92d610efa0eb49e28f11564de8e469c04c7aced07bd2c5a3e4b6f623e5c2e4a9ec613d378a51174c3fd25d7dff606fd9c55b.jpeg",
+      "episodes": [
+        {
+          "title": "The Madman",
+          "description": "Your family has a history of mental illness. You’ve seen what it’s done to your brother, and you don’t want to wind up like him. But how long can you hide from your true self?",
+          "episode": 1,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Prisoner",
+          "description": "You're living the life you promised yourself you'd build. But now the dream feels more like a trap. To escape, you need to risk everything you’ve worked for, and one again bet on yourself.",
+          "episode": 2,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Imagined Life Family | The Songwriter",
+          "description": "You're a high school misfit with the wrong hair and wrong clothes. You feel like you'll never find anything you're good at, or anyone you can relate to. Then, you discover hip-hop.",
+          "episode": 3,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Prodigy",
+          "description": "All your life, you’ve held your tongue and done as you were told. Even as an adult, you dutifully fill the role that made you a child star. But you’re tired of playing by everyone else's rules.",
+          "episode": 4,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Charmer",
+          "description": "Success came easily to you. You feel like the luckiest guy alive. But even the luckiest guy's luck runs out eventually.",
+          "episode": 5,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Hustler",
+          "description": "You’ve spent your whole life trying to be something you’re not. Now it’s time to stop pretending and speak your truth. ",
+          "episode": 6,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Imagined Life Family | The Speaker",
+          "description": "You have plenty of things to say. You just have trouble saying them. But one day, your words are going to make people stand up and cheer.",
+          "episode": 7,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Sensualist",
+          "description": "You want to show women how to live life to the fullest. But first, you have to learn how to lead by example.",
+          "episode": 8,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Coward",
+          "description": "You want to fight. You want to be a hero, like the ones you read about in books. But all you can think about is how scared you are.",
+          "episode": 9,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Imagined Life Family | The Astronaut",
+          "description": "You're used to relying on yourself to succeed in a man's world. But to make it in outer space, you're going to have to learn to be part of a team. ",
+          "episode": 10,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        }
+      ]
+    },
+    {
+      "season": 6,
+      "title": "Season 6",
+      "image": "https://res.cloudinary.com/dumslp4el/image/fetch/w_676,h_676/https://content.production.cdn.art19.com/images/39/a1/c7/7f/39a1c77f-f682-4f5f-a26f-6f0d0e86ff90/1f3693ad9b6203e2321d8a05902928ac38b1b1769892a8d1d2c246dce612f9bddee4d0e48c16067ca3c77b7a5e9937bf2971296a985b864278f679ea935eee91.jpeg",
+      "episodes": [
+        {
+          "title": "Imagined Life Family | The Racer",
+          "description": "Life moves slow in your sleepy little hometown. You long to escape to someplace else, where life is fast, exciting, maybe even a little dangerous. ",
+          "episode": 1,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Imagined Life Family | The Kid",
+          "description": "You’ve always been wiser than your years, but not everyone is ready to let you grow up. You’d rather be watching scary movies than playing dress-up. ",
+          "episode": 2,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Imagined Life Family | The Hero",
+          "description": "You love asking questions wherever you go, especially “why.” Why is the world the way that it is? Why doesn’t everyone get along? Why can’t we all just be better people? ",
+          "episode": 3,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Imagined Life Family | The Thrill Seeker",
+          "description": "You like to test your limits and live life on the edge. That doesn’t always sit well with your mom, who just wants you to be safe and to keep your feet firmly planted on the ground.",
+          "episode": 4,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Imagined Life Family | The Genius",
+          "description": "You dream of traveling through space and exploring the vast reaches of the solar system. Because in space, you don’t have to explain yourself. You get to explore the questions you want to ask.",
+          "episode": 5,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Imagined Life Family | The Gymnast",
+          "description": "You’re always on the move. Not just moving from town to town — with your siblings and your foster parents — but moving your feet, your arms, and your hands. You love to feel your body in motion. But the way that you move isn’t always understood by grown-ups who think they know better.",
+          "episode": 6,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Imagined Life Family | The Planner",
+          "description": "You can’t help but dream about the big houses in the fancy neighborhood in your town. One day, that could be you. It’ll take hard work, focus, and a clear plan for how to accomplish your goals.",
+          "episode": 7,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        }
+      ]
+    }
+  ],
+  "image": "https://content.production.cdn.art19.com/images/ee/af/79/a8/eeaf79a8-199e-438b-8a9c-56aeb3f6bd83/a17582304e222235b07b729c63d14fd2049cf1663699c50fd995314dc84fe51273a4638321c4d0e742d7fda87c587566c5dd54229849056e56e51c6a03e93831.png",
+  "genres": [
+    "All",
+    "Entertainment",
+    "Featured",
+    "History"
+  ],
+  "updated": "2021-10-15T07:00:00.000Z"
+}

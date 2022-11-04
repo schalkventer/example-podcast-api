@@ -1,0 +1,186 @@
+{
+  "id": "6465",
+  "title": "The Sneak",
+  "description": "All episodes are available for free, with ad-free episodes available for Wondery+ subscribers. Season 3: The Disappearance of Mario Rossi - Set against the backdrop of NASCAR’s drug smuggling scandal in the early 1980’s, this season of The Sneak tells the story of the disappearance of one of the sport’s most brilliant engineers, a mystery that haunts racing to this day. The hosts will set out to finally answer the question: What really happened to Mario Rossi?  Season 2: Murders at Whiskey Creek - We follow world champion surfer Jack Roland Murphy as he pulls off the biggest jewel heist in American history. Things turn deadly as he is implicated in two murders afterwards. Interviews with him and his accomplices expose even more murders, and an even darker story. Season 1: DB Tuber - News of the crime spread across the internet like wildfire. The story of a football hero turned bank robber shocked the sleepy town where the heist occurred, and became a worldwide sensation. People were aghast as the disgraced athlete told his incredible story. There was only one problem. It wasn’t the whole story. Not by a long shot.  From USA Today & Wondery comes The Sneak. A show that digs into spectacular true crime stories from the world of sports. New episodes every Tuesday. ",
+  "seasons": [
+    {
+      "season": 1,
+      "title": "The DB Tuber Heist",
+      "image": "https://content.production.cdn.art19.com/images/0b/0f/02/5d/0b0f025d-bd2a-4686-bc86-a7bbddba74f3/541f7e007a7b1e2801348dd876fbca1e83a598bca1bcc9ccf73602d5b707e6a3884fd528530d182c06d1c2c6cecd08b643d43abb4f1997977b07bdc42bc50b8d.jpeg",
+      "episodes": [
+        {
+          "title": "The Witness",
+          "description": "It’s September 30, 2008, hours before the U.S. government votes to bail out some of the largest banks in our country. In a small suburb 30 minutes outside of Seattle, local realtor Mitch Ruth witnesses what appears to be a city employee violently attack a Brink’s truck employee and sprint off with over $400,000. Ruth pursues the robber into a park … until he vanishes into thin air.",
+          "episode": 1,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Tip",
+          "description": "Detective Tim Buzzell catches a major break in the case thanks to a local homeless man, who witnessed a dry run of the outlandish crime. The police key in on a main suspect.",
+          "episode": 2,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Plan",
+          "description": "We meet the eccentric criminal mastermind, known in the media as “D.B. Tuber.” A stunning realization pivots our entire investigation.",
+          "episode": 3,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Heist",
+          "description": "Anthony walks us through the crime’s harrowing play-by-play, revealing extraordinary details about previously unreported accomplices. ",
+          "episode": 4,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Arrest",
+          "description": "Detective Buzzell loses his primary suspect when Anthony bolts to Las Vegas for a lavish getaway. Thanks to a lucky break, the police finally nab their man.",
+          "episode": 5,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The SHU",
+          "description": "Anthony is sentenced to six years in prison, where he experiences a waking nightmare in solitary confinement.",
+          "episode": 6,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Accomplices",
+          "description": "We dig into the big question: Who helped Anthony Curcio? And how have they avoided prosecution?",
+          "episode": 7,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Source",
+          "description": "One of Anthony’s accomplices comes forward and speaks publicly for the first time.",
+          "episode": 8,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Aftermath",
+          "description": "Anthony makes a small fortune in a surprising way. The town of Monroe reckons with what happened back in 2008. We examine how everyone involved has changed since the robbery. ",
+          "episode": 9,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        }
+      ]
+    },
+    {
+      "season": 2,
+      "title": "Murders at Whiskey Creek",
+      "image": "https://content.production.cdn.art19.com/images/0b/0f/02/5d/0b0f025d-bd2a-4686-bc86-a7bbddba74f3/541f7e007a7b1e2801348dd876fbca1e83a598bca1bcc9ccf73602d5b707e6a3884fd528530d182c06d1c2c6cecd08b643d43abb4f1997977b07bdc42bc50b8d.jpeg",
+      "episodes": [
+        {
+          "title": "Crossing the Line",
+          "description": "Jack Murphy, a childhood violin prodigy who played in symphony orchestras and earned a full scholarship for tennis to the University of Pittsburgh, drops out and heads to Florida. There, he quickly rises to the upper echelons of the booming sport of surfing, and earns his nickname – Murf the Surf. After a failed marriage, however, his mood turned south, and he made a decision to enter into a life of crime.",
+          "episode": 1,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Heist",
+          "description": "Murphy and an accomplice, Alan Kuhn, head to New York City, where they decide to pull off what was at that time the largest jewel heist in American history — robbing the JP Morgan gem collection from the Museum of Natural History.",
+          "episode": 2,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Hunt",
+          "description": "After the heist, a wild manhunt ensues, led by a renegade public prosecutor from New York City. After their capture, Murphy and Kuhn quickly become two of the most famous criminals in America.",
+          "episode": 3,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "A Visit to Crystal River",
+          "description": "We visit Jack Murphy now, and get to know the man who is somehow out of prison, and preaching the gospel of his lord and savior, Jesus Christ. But a few actions suggest Murphy may not be quite the saved man he proclaims to be.",
+          "episode": 4,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Murders at Whiskey Creek",
+          "description": "Murf the Surf offers his explanation for what happened at Whiskey Creek, where two young women were found bludgeoned, shot, and stabbed. And the last man they were seen with was Jack Murphy.",
+          "episode": 5,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Trial",
+          "description": "More headlines as Murf the Surf is tried for murder, and tries to escape punishment by reason of insanity. We also get to know Salvatore “Sonny” Grech, the state’s star witness who made a run for it when it came time to testify.",
+          "episode": 6,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "A Man of God",
+          "description": "Despite a double life sentence plus twenty years, Jack Murphy convinces the state parole board that he has changed his life and found God. Now out, we speak to several of his friends to ask the question: Is it real, or just his latest con?",
+          "episode": 7,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Rusty and Cataño",
+          "description": "Jack Murphy offers his explanation for how his story about Whiskey Creek changed ... but things aren’t adding up.",
+          "episode": 8,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Reckoning",
+          "description": "We finally track down the family members of one of the Whiskey Creek murder victims, who agree to speak on the record for the first time in 52 years. And, we confront Jack Murphy in one final, explosive interview.",
+          "episode": 9,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        }
+      ]
+    },
+    {
+      "season": 3,
+      "title": "The Disappearance of Mario Rossi",
+      "image": "https://content.production.cdn.art19.com/images/0b/0f/02/5d/0b0f025d-bd2a-4686-bc86-a7bbddba74f3/541f7e007a7b1e2801348dd876fbca1e83a598bca1bcc9ccf73602d5b707e6a3884fd528530d182c06d1c2c6cecd08b643d43abb4f1997977b07bdc42bc50b8d.jpeg",
+      "episodes": [
+        {
+          "title": "The Disappearance",
+          "description": "Just after New Year’s Day 1983, Bill Rossi was called to his family’s house in New Jersey. There, his loved ones gave him heartbreaking news: His father, Mario Rossi, had died in a plane crash. Yet from the start, the story wasn’t making sense.",
+          "episode": 1,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Spartanburg",
+          "description": "The crew heads to Spartanburg, SC to meet the Rossi family. Yet the Rossi family is having second thoughts … and then a surprising conversation shows why their fears may be justified.",
+          "episode": 2,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Betty",
+          "description": "The Rossi family received most of their information about Mario’s disappearance from a mysterious woman on the phone, Betty. Which begs the question: Who on earth is Betty?",
+          "episode": 3,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "A Couple of Very Hard Men",
+          "description": "The Rossi family suspects that Mario’s disappearance may have something to do with Black Thursday, a drug smuggling scandal that rocked NASCAR just months before he was last seen",
+          "episode": 4,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Informant",
+          "description": "An ex-FBI agent connects the crew with a confidential informant, who gives a wild tour of the seedy racing underworld of the 1980s, and gives a new understanding of how dangerous Mario’s associates were.",
+          "episode": 5,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "George and Carlos",
+          "description": "A surprising old friend comes back and provides a moment of clarity about Mario Rossi. Plus, it’s time to talk to the DEA.",
+          "episode": 6,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Hot Shoe",
+          "description": "Gary “Hot Shoe” Balough tells his side of the story, clarifies what he knows about the final day of Mario Rossi … and then gets mad. Really, really mad. ",
+          "episode": 7,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Final Resting",
+          "description": "In the season finale, we find that Gary’s stories aren’t all adding up, and have one final, explosive phone call with the man who once called Mario Rossi a friend. ",
+          "episode": 8,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        }
+      ]
+    }
+  ],
+  "image": "https://content.production.cdn.art19.com/images/0b/0f/02/5d/0b0f025d-bd2a-4686-bc86-a7bbddba74f3/d1bba784d3bd42b85b0784574b2b44f2ce1786e8193d5a69842c9c5720f21450ea2478546a8786ee7071017089fcf073ef5d988e0e5003d32beb0a7bec64235e.png",
+  "updated": "2021-05-20T07:00:00.000Z"
+}

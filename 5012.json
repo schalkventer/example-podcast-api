@@ -1,0 +1,185 @@
+{
+  "id": "5012",
+  "title": "Dr. Death",
+  "description": "We’re at our most vulnerable when we go to our doctors. We trust the person at the other end of that scalpel. We trust the hospital. We trust the system. Season 1: Christopher Duntsch was a neurosurgeon who radiated confidence. He claimed he was the best in Dallas. If you had back pain, and had tried everything else, Dr. Duntsch could give you the spine surgery that would take your pain away. But soon his patients started to experience complications, and the system failed to protect them. Which begs the question: who - or what - is that system meant to protect? Reported and hosted by Laura Beil. Season 2: If someone you love is diagnosed with cancer you want them to get the best treatment from the best doctors. In 2013, patients in Michigan thought Farid Fata was that doctor. Between his prestigious education, years of experience and pleasant bedside manner, Fata was everything you could want in a doctor. But he was not who he appeared to be. From Wondery, this is the story of hundreds of patients in Michigan, a doctor, and a poisonous secret. Laura Beil, returns with a second season of the award-winning series “Dr Death.” Season 3: Paolo is a smart and handsome surgeon, renowned for his ability to perform surgeries that transform his patients’ lives. When television producer Benita covers him for a story, he’ll transform her life too, but not in the ways she expects. As Benita crosses professional lines to be with him, she learns how far Paolo will go to protect his secrets. And halfway around the world, four doctors at a prestigious medical institute make shocking discoveries of their own that call everything into question. From Wondery comes Season Three of the hit podcast, Dr. Death. MIRACLE MAN tells the story of a globe-trotting surgeon who seduces the medical world, and sweeps one woman off her feet. Hosted by Laura Beil.",
+  "seasons": [
+    {
+      "season": 1,
+      "title": "Dr. Duntsch",
+      "image": "https://content.production.cdn.art19.com/images/d4/06/1f/5b/d4061f5b-c6d1-4304-b9d7-5e793455243a/afed7296232612663348a9b4f8d7aabc4b114cec1e7d5215d94547694d2852ebff95b95a4a5bdd4962f5429981faa9a699d99724389e4184fd096ec268ddc409.jpeg",
+      "episodes": [
+        {
+          "title": "Three Days In Dallas",
+          "description": "All physicians are taught, “First do no harm.” But what happens when a doctor does harm his patients?",
+          "episode": 1,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Chris and Jerry",
+          "description": "Chris Duntsch was a promising medical student, with a bright future ahead of him. The friends who knew him were shocked at the doctor he would later become. Not Chris, they said. That’s not the man I know. The Chris Duntsch they knew was driven, hard-working, smart, with a twinkle in his eye. And no one believed they knew Chris Duntsch better than his best friend, Jerry Summers.",
+          "episode": 2,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Occam’s Razor",
+          "description": "Kimberly Morgan was attracted to Christopher Duntsch from the moment she met him. He was charming and seemed destined for great things. But she also saw another side to him. Duntsch’s behavior led many people who came into contact with him to wonder: Was he an impaired physician? A terrible surgeon? Or a cold-blooded killer?",
+          "episode": 3,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Spineless",
+          "description": "If a doctor is fired from a hospital, the hospital should report it immediately. That’s how problem doctors are prevented from getting hired elsewhere. But the places where Dr. Duntsch operated failed to report him to the proper authorities. If they had, maybe Duntsch’s path of destruction would have been stopped much sooner.",
+          "episode": 4,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Free Fall",
+          "description": "Dr. Henderson and Dr. Kirby were screaming for anyone to listen who might help them get Dr. Duntsch to stop operating. Kirby wrote to the Texas Medical Board. He and Henderson went to the police. But no one was listening.",
+          "episode": 5,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Closure",
+          "description": "Michelle Shughart has her work cut out for her, since no doctor has ever been prosecuted for crimes committed while practicing medicine. His patient’s lives would never be the same, but what would what would be the fate of Dr. Duntsch? The people in Dallas struggle to understand what drove him to do such horrible things. And what happens if the system faces another “Dr. Death.” ",
+          "episode": 6,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Update",
+          "description": "Reporter Laura Beil has a few updates on the story of Christopher Duntsch since the series was first released. She attends an appeals hearing for Duntsch's case, discusses Baylor-Plano Hospital’s response -- and the mysterious case of the disappearing billboard.",
+          "episode": 7,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Interview",
+          "description": "This series has generated a lot of questions and comments from listeners for host and reporter Laura Beil. In this special interview episode, Laura talks with David Brown (from the podcast “Business Wars”) about a number of topics that have intrigued listeners, like how Duntsch could have performed less than a hundred surgeries during his medical training. She addresses speculation that Duntsch may have suffered traumatic brain injury from playing football in high school. And she teases the real story behind the “patient” featured in that Best Docs infomercial.",
+          "episode": 8,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "\"One Great Man\"",
+          "description": "You may remember the woman in the infomercial about Dr. Duntsch who admiringly calls him “one great man” and claims “he’ll fix you.” Laura Beil wasn’t able to get in touch with her when she first reported the series. She guessed that the woman must have been a paid actress, or perhaps even the rare patient who had a good result with Dr. Duntsch. But then the woman in the video reached out after hearing her voice in ”Dr. Death.” And the real story turned out to be much stranger. In this special episode, we also hear from a juror who helped deliver the verdict in the trial of Christopher Duntsch. ",
+          "episode": 9,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Breaking News",
+          "description": "The judges reviewing Christopher Duntsch’s appeal have reached a decision. On the day of the decision, Laura Beil goes to the Dallas District Attorney’s office to speak with prosecutors Michelle Shugart and Jaclyn Lambert about the judges' decision.",
+          "episode": 10,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        }
+      ]
+    },
+    {
+      "season": 2,
+      "title": "Dr. Fata",
+      "image": "https://res.cloudinary.com/dumslp4el/image/fetch/w_676,h_676/https://content.production.cdn.art19.com/images/75/56/6d/0b/75566d0b-caa1-47b3-88cd-1c4f82be8019/faca8c30b0cdcb4bade836ce5b00e7202bce2c62cca23406ccdbe6802f5119544dae829e1088a3b6fa0d978c5e7d5bf22d29a4c523481e7d7b71170768395dee.jpeg",
+      "episodes": [
+        {
+          "title": "Top Doc",
+          "description": "Patty Hester starts her care with Dr. Fata, but quickly realizes something is wrong. She’s not the only one.",
+          "episode": 1,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "King Midas",
+          "description": "George Karadsheh, the office manager at Michigan Hematology Oncology, learns several members of staff are quitting. He digs around to find out why they’re leaving and is alarmed by what he hears.",
+          "episode": 2,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Living with this Hell",
+          "description": "George continues investigating Dr. Fata’s practice. But it will be a race against time to stop Dr. Fata from harming another patient.",
+          "episode": 3,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Seeing Yellow",
+          "description": "In court, Farid Fata has to face his victims. One by one, they get up and recount the damage he caused. And in the end, they have to decide - was justice done?",
+          "episode": 4,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "A Duntsch Update: Love and Loyalty",
+          "description": "In this special follow-up episode to the first season of Dr Death, Laura Beil revisits the story of Christopher Duntsch’s best friend. When Jerry Summers needed surgery, he turned to his best friend. But the two buddies ended up living two very different realities. And after becoming paralyzed as a result of his botched surgery, Jerry is finally ready to open about what he went through, who he blames, and what he wants to say to Chris now. If you haven’t already, listen to the first season now, particularly the episode called “Chris and Jerry.” Tap here to see a picture of Jerry with his dog, Stella. ",
+          "episode": 5,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "How to Spot a Dr. Death",
+          "description": "Imagine you're working at a hospital and you notice something isn't right: what do you do? Season One and Two of Dr Death featured medical professionals who crossed the line. Laura Beil speaks with Dr. Danielle Ofri, author of “When We Do Harm: A Doctor Confronts Medical Error.”",
+          "episode": 6,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Reporting Dr. Death",
+          "description": "In this season of Dr Death, we heard from people who went to Farida Fata for cancer treatment - but instead found pain and death. Laura speaks with Mike Hixenbaugh, a national investigative reporter for NBC News and host of the Wondery series Do No Harm about reporting Dr Death and what happens when institutions we trust turn against us.",
+          "episode": 7,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        }
+      ]
+    },
+    {
+      "season": 3,
+      "title": "Miracle Man",
+      "image": "https://res.cloudinary.com/dumslp4el/image/fetch/w_676,h_676/https://content.production.cdn.art19.com/images/52/2b/58/01/522b5801-dfb2-4012-98f6-fa3c52bc0d06/1e76313f8626fb255beade2001c528684a5a064417224df206e68352db623af68a8d226cec03038209ba96232d6151c7b11d08513a0c12805c5f74a5b491c324.jpeg",
+      "episodes": [
+        {
+          "title": "Head Over Heels",
+          "description": "Benita Alexander thinks she’s found the perfect surgeon to feature in her documentary: he’s charming, talented, and the creator of a groundbreaking surgery that involves implanting biosynthetic organs into his patients. Then Benita falls in love with him. Will she get her fairy tale ending?",
+          "episode": 1,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Secret Society of International Surgeons",
+          "description": "After a medical scare, a single red rose from Paolo leads to plans for a grand Italian wedding with an impressive guest list. Things get serious fast with Paolo, and his work makes headlines.",
+          "episode": 2,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Lab Rats",
+          "description": "At a world-famous institute in Sweden, four doctors work together to make sense of Paolo Macchiarini’s work, and discover that his scientific research may be more like science fiction.",
+          "episode": 3,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Barcelona, My Love",
+          "description": "With doctors investigating Paolo in Sweden, Benita begins an investigation of her own. She knows where she needs to go for answers: to the one place Paolo never took her.",
+          "episode": 4,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Black Sabbath",
+          "description": "The doctors who sounded the alarm became the target of an investigation themselves. And a  fearless filmmaker finds that the answers lie with the patients.",
+          "episode": 5,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Fog of Lies",
+          "description": "When two bombshell exposes drop at the same time, Paolo is under more pressure than ever. But what price will he pay?",
+          "episode": 6,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "An Interview with Benita",
+          "description": "Laura Beil sits down to talk with Benita Alexander about breakthroughs, fraud and Paolo Macchiarini. And she asks Benita what lessons she hopes others can learn from her experience.",
+          "episode": 7,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "What to Listen to Next: Killer Psyche",
+          "description": "Some crimes are so shocking, so disturbing, you can’t help but ask, “Why?” What motivated such depravity? Retired FBI criminal profiler Candice DeLong spent decades answering that very question. On each episode of KILLER PSYCHE, Candice delves into the mind of a deranged killer to reveal fascinating details about what drove them to commit such unspeakable acts of horror. Was it power, ego, revenge? She shares with listeners psychological methods and profiling techniques to better understand the darkest corners of these twisted minds.",
+          "episode": 8,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        }
+      ]
+    }
+  ],
+  "image": "https://content.production.cdn.art19.com/images/d4/06/1f/5b/d4061f5b-c6d1-4304-b9d7-5e793455243a/4668ed2834f6117f83f68b2659a413f9ebad11c32f4ba8e8c6b68c9c1f36917a7a348171298899e1bbe7c8732a4397a5ef31699bca6be8347e12c361aa04827e.jpeg",
+  "genres": [
+    "All",
+    "Featured",
+    "True Crime and Investigative Journalism"
+  ],
+  "updated": "2022-06-17T04:44:00.000Z"
+}

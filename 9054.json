@@ -1,0 +1,112 @@
+{
+  "id": "9054",
+  "title": "The Devil Within",
+  "description": "Season 2: In 1974 after experiencing financial hardship, Michael Taylor joined a local church in the rolling hills of Northern England.  After falling in love with a young, beautiful preacher, Michael’s personality began to change. The mild-mannered family man became abusive and unhinged. His new church believed he was possessed by no fewer than 48 demons and would require an exorcism to save his soul and protect his family from evil. But the supposed remedy would come at a very steep price...  The podcast THE DEVIL WITHIN returns with a second season that will send chills down your spine. THE DEMONS OF YORKSHIRE tells the terrifying true story behind Michael Taylor’s brutal exorcisms, and seeks to answer the question, who is to blame for the vicious murder of his wife? Season 1: The brutal slaying of BETTY ANN SULLIVAN shocked the small town of Jefferson Township, New Jersey. The violence of that evening shocked the nation for the perpetrator... was her own son, a boy of fourteen who would take his own life only hours later. What the investigation revealed left a community in tatters, unwilling to believe the evil that had befallen them.",
+  "seasons": [
+    {
+      "season": 1,
+      "title": "The Jersey Devil",
+      "image": "https://res.cloudinary.com/dumslp4el/image/fetch/w_676,h_676/https://content.production.cdn.art19.com/images/cf/2a/99/7b/cf2a997b-d456-41e9-9aca-258e2404d33f/2ac16a155eb80ef6c2e76471faa09d464ddc97438713630a3f46be1e45bb226db564a630e7253c3188cdbf97ae695052f9fa3d0a035bf64c18f341de632332c5.jpeg",
+      "episodes": [
+        {
+          "title": "In the Bleak Mid Winter",
+          "description": "The series opens with a minute-by-minute account of what happened on a snowy night in January of 1988. We’ll hear from the first civilians on the scene; what they experienced and how it affected them. We’ll also learn a little about Jefferson Township, the small New Jersey community that was shattered by a night of horrific violence... only made worse as the investigation unfolded.",
+          "episode": 1,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Paradise Lost",
+          "description": "We will hear from the current Mayor of Jefferson Township who was a rookie cop on the night in question. He will give some important perspective on how the community was affected by the violence and, more importantly, he will reveal what the police were told... and what the community wasn’t told.",
+          "episode": 2,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "A Spellbound Palace",
+          "description": "To understand the murders we need to understand where Tommy was spending his time, and that requires a deep dive into the mythology surrounding CLINTON ROAD, dubbed The Most Haunted Road in America by ghost hunters and paranormal enthusiasts the world over. This episode will also introduce a mysterious millionaire named RICHARD CROSS who, although dead for decades at the time of the incident, his influence on devil worshippers was hugely felt.",
+          "episode": 3,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Spring and Fall to a Young Child",
+          "description": "In an attempt to find the truth, a truth that doesn’t involve the supernatural, we investigate other possible reasons Tommy may have snapped. In this episode we learn that Tommy was dedicated and successful athlete in a sport almost as mysterious as the occult: wrestling. Was the pressure of school, athletics and his religious demands enough to drive him over the edge?",
+          "episode": 4,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Stopping by Woods on a Snowy Evening",
+          "description": "We begin to recreate the timeline that lead up to Tommy’s horrific acts and search for the catalyst that set him on his path to oblivion. He meets a new friend and is influenced by a new teacher. Suddenly a new and devious world is opened up and Tommy is powerless to resist.",
+          "episode": 5,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Road Not Taken",
+          "description": "Tommy and his new friend decide to see for themselves what lurks in the darkness on the edge of town... they’ve heard rumors about a coven of Satanists that worship in the deep woods of Clinton Road. And once that rumor is proven true, Tommy becomes obsessed. He wants more and his curiosity leads him to the shadowy figure of Richard Cross, the original Occultist in the area from the turn of 20th Century, and Tommy’s obsession grows.",
+          "episode": 6,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Acquainted with the Night",
+          "description": "Tommy discovers a book once owned by the occultist Richard Cross and decides to re-enact an ancient ritual from the book on the grounds of the long abandoned Cross estate. Innocent to what he had wrought... the evil had been summoned just the same.",
+          "episode": 7,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Nothing Gold Can Stay",
+          "description": "Now we revisit the night in question, minute-by-minute, just like in episode one... only now we see things in a completely new light, and from a new perspective. Not from the point of view of law enforcement or his mother or his friend... but from Tommy’s point of view. We’ll understand what really happened, why it happened, and, most importantly, how it happened.",
+          "episode": 8,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        }
+      ]
+    },
+    {
+      "season": 2,
+      "title": "The Demons of Yorkshire",
+      "image": "https://res.cloudinary.com/dumslp4el/image/fetch/w_676,h_676/https://content.production.cdn.art19.com/images/e2/ad/83/87/e2ad8387-ac1f-4a7e-97a4-d7419a04d52a/fb20386e934c4dd4700a567451c3597fcaf86cda54139f9fea3d143a57f92f71f1f09a9c2422d9f2ce10141c5cb9f28eaa5a0857b80490ac1615e65a1727b965.jpeg",
+      "episodes": [
+        {
+          "title": "A Murder Most Foul!",
+          "description": "October of 1974… in the small village of Ossett in Yorkshire County, England the local police responded to the most vicious and brutal slaying they had ever encountered. Christine Taylor, a happily married mother of five and was found murdered. Torn apart actually, in her own home. Inexplicably, the police already had the prime suspect in custody: the husband, Michael Taylor. He was found naked and covered in blood in the town square. And, what’s more, he admitted to the killing…",
+          "episode": 1,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Winter of our Discontent",
+          "description": "What drove the Taylors into the arms of the church? We examine the socio-economic conditions in Northern England during the early 1970’s and how the Taylors were directly affected. The Charismatic Christian movement, of which the Taylors counted themselves as members, is explored. Plus, could the release of the blockbuster film THE EXORCIST be connected to the Taylor case? ",
+          "episode": 2,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Course of True Love Never Did Run Smooth",
+          "description": "Michael, now a fully baptized Christian hits a roadblock on his spiritual path: he falls in love with Marie Robinson, a passionate young preacher who leads his fellowship group. The Taylors are now speaking in tongues, something they would’ve laughed at just weeks prior. Also, they witness a botched exorcism in their own living room at the hands of Marie Robinson.",
+          "episode": 3,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "What Fools These Mortals Be!",
+          "description": "The history of exorcism, as outlined in the Rituale Romanum is explored. We hear from an actual exorcist who shares his experiences. Also, after his humiliation at the hands of Marie, Michael begins his descent into madness… and a diagnosis of demonic possession is right around the corner.",
+          "episode": 4,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Misery Acquaints a Man with Strange Bedfellows",
+          "description": "After the church elders are convinced of Michael Taylor’s possession they just need to convince one more person… Michael Taylor himself. They gather at St. Thomas and proceed with an eight hour exorcism, much of it against the will of the supposedly possessed man. Ultimately, they leave their work unfinished…",
+          "episode": 5,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Our Little Lives are Rounded With a Sleep",
+          "description": "We’re back in Ossett on the morning of October 6th, now with the full knowledge of why and how Michael and Christine Taylor’s marriage came to such a violent and deadly crescendo. We follow the Taylor case through the inquest and sentencing to discover who the courts believe to be the true perpetrator of this terrible crime.",
+          "episode": 6,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        }
+      ]
+    }
+  ],
+  "image": "https://content.production.cdn.art19.com/images/63/77/c7/83/6377c783-fad3-4ada-aaec-309025514885/679654631357f63f4fdb8a9a02f511dd2cb7eeedccb261e6f31fc1da3e262866672447b0a51aa23ee7b9ef672947d96fb60ce87ec0e89b060c4516211a908822.jpeg",
+  "genres": [
+    "All",
+    "Featured",
+    "True Crime and Investigative Journalism"
+  ],
+  "updated": "2022-11-01T07:00:00.000Z"
+}

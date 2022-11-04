@@ -1,0 +1,223 @@
+{
+  "id": "9041",
+  "title": "Whose Amazing Life?",
+  "description": "You venture deep into the jungle to solve its greatest mysteries. You gaze at Earth from the surface of the moon. You write music that has the whole world humming along. WHOSE AMAZING LIFE? is the new series from the creators of Little Stories Everywhere and Adventures of Cairo. Walk in the shoes of the world’s most inspiring people, from Amelia Earhart to Lin-Manuel Miranda to Ariana Grande. Experience the challenges and triumphs they faced on their journeys — before everyone on the planet knew their names. Listen closely for clues, because we won’t reveal who the person is until the very end of each episode! Each week brings a new adventure where listeners of all ages can immerse themselves in the life of someone amazing. New episodes come out every Friday for free, with 1-week early access for Wondery+ Kids subscribers.",
+  "seasons": [
+    {
+      "season": 1,
+      "title": "Season 1",
+      "image": "https://content.production.cdn.art19.com/images/d3/74/3c/3f/d3743c3f-df43-43a6-8c6b-6e36c486b9af/3df851f9903d4112dfab28871c9c5cc6a1f90f7a4f36f2d14c5c3c173521ca30433661809dee3df677d160d5cb3dce7f1ea6391856253dcc36e9877fc546f657.jpeg",
+      "episodes": [
+        {
+          "title": "The Adventurer",
+          "description": "You long to go to Africa and have adventures like Tarzan. But everyone tells you girls aren’t supposed to do things like that. You’ll just have to prove them wrong. ",
+          "episode": 1,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Dancer",
+          "description": "You may be young, and small for your age. And you feel like no one takes you seriously—especially not your big sister. But that’s not going to stop you from becoming one of the greatest performers in the world. ",
+          "episode": 2,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Champion",
+          "description": "You’re passionate about the law, but in the 1960s and 1970s, the men around you don’t think women belong in a courtroom. But you’ll overcome sexism to show them that women belong wherever decisions are being made, and make a compelling case why gender inequality is wrong. ",
+          "episode": 3,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Songwriter",
+          "description": "You're a high school misfit with the wrong hair and wrong clothes. You feel like you'll never find anything you're good at, or anyone you can relate to. Then, you discover hip hop, and find a home in the theater. You’re determined to be a star on Broadway.",
+          "episode": 4,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Speaker",
+          "description": "You have plenty of things to say. You just have trouble saying them. The letter “R” is your mortal enemy! But one day, your words are going to make people stand up and cheer.",
+          "episode": 5,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Astronaut",
+          "description": "You're used to relying on yourself to succeed in a man’s world — and you’ve proved yourself everywhere from the tennis court to Stanford University. But in the 1970s, there’s still one place no woman has gone before: outer space. ",
+          "episode": 6,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Activist",
+          "description": "You see the world differently from anyone else you know. Other kids confuse you — their games, their noise, even their facial expressions.",
+          "episode": 7,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        }
+      ]
+    },
+    {
+      "season": 2,
+      "title": "Season 2",
+      "image": "https://content.production.cdn.art19.com/images/d3/74/3c/3f/d3743c3f-df43-43a6-8c6b-6e36c486b9af/3df851f9903d4112dfab28871c9c5cc6a1f90f7a4f36f2d14c5c3c173521ca30433661809dee3df677d160d5cb3dce7f1ea6391856253dcc36e9877fc546f657.jpeg",
+      "episodes": [
+        {
+          "title": "The Racer",
+          "description": "Life moves slow in your sleepy little hometown. You long to escape to someplace else, where life is fast, exciting, maybe even a little dangerous. ",
+          "episode": 1,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Kid",
+          "description": "You’ve always been wiser than your years, but not everyone is ready to let you grow up. You’d rather be watching scary movies than playing dress-up. ",
+          "episode": 2,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Hero",
+          "description": "You love asking questions wherever you go, especially “why.” Why is the world the way that it is? Why doesn’t everyone get along? Why can’t we all just be better people? ",
+          "episode": 3,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Thrill Seeker",
+          "description": "You like to test your limits and live life on the edge. That doesn’t always sit well with your mom, who just wants you to be safe and to keep your feet firmly planted on the ground.",
+          "episode": 4,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Genius",
+          "description": "You dream of traveling through space and exploring the vast reaches of the solar system. Because in space, you don’t have to explain yourself. You get to explore the questions you want to ask. ",
+          "episode": 5,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Gymnast",
+          "description": "You’re always on the move. Not just moving from town to town — with your siblings and your foster parents — but moving your feet, your arms, and your hands. You love to feel your body in motion. But the way that you move isn’t always understood by grown-ups who think they know better.",
+          "episode": 6,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Planner",
+          "description": "You can’t help but dream about the big houses in the fancy neighborhood in your town. One day, that could be you. It’ll take hard work, focus, and a clear plan for how to accomplish your goals.",
+          "episode": 7,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        }
+      ]
+    },
+    {
+      "season": 3,
+      "title": "Season 3",
+      "image": "https://content.production.cdn.art19.com/images/d3/74/3c/3f/d3743c3f-df43-43a6-8c6b-6e36c486b9af/3df851f9903d4112dfab28871c9c5cc6a1f90f7a4f36f2d14c5c3c173521ca30433661809dee3df677d160d5cb3dce7f1ea6391856253dcc36e9877fc546f657.jpeg",
+      "episodes": [
+        {
+          "title": "The Scribbler",
+          "description": "Ninth grade isn’t going as smoothly as you’d hoped. Your friendships are in turmoil and your crush barely knows you exist! But when you pour your feelings into a notebook, there's something about your words that makes magic.",
+          "episode": 1,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Explorer",
+          "description": "Life on land won't cut it: You're determined to discover the underwater mysteries of the ocean. And when the technology you need doesn't already exist, you'll just have to invent it yourself.",
+          "episode": 2,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Twin",
+          "description": "There's nothing better than being out on the soccer field with your twin sister. But when you receive the biggest opportunity of your life, stepping into the spotlight will have to be a solo adventure.",
+          "episode": 3,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Reader",
+          "description": "You and your dad have never seen eye-to-eye. He's set in his ways, and he just doesn't \"get\" you. But with support from your mom and stepmom, you'll combine your super-smart brain with your compassionate heart to transform the world as we know it.",
+          "episode": 4,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Teammate",
+          "description": "As a kid growing up without much money, you’ve always had to fend for yourself. But when your basketball skills make you a budding superstar, you have to decide whether the game is all about you — or all about family.",
+          "episode": 5,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Learner",
+          "description": "You’re an A-plus student, but leaders in your country want to make it illegal for girls to go to school. In order to make things right, you’ll have to go undercover with a secret online identity. ",
+          "episode": 6,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Connector",
+          "description": "You have endless thoughts and opinions, but it feels like nobody understands them. You communicate differently from most other people. But you're determined to connect with the world, and nobody's going to stop you.",
+          "episode": 7,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        }
+      ]
+    },
+    {
+      "season": 4,
+      "title": "Season 4",
+      "image": "https://content.production.cdn.art19.com/images/d3/74/3c/3f/d3743c3f-df43-43a6-8c6b-6e36c486b9af/3df851f9903d4112dfab28871c9c5cc6a1f90f7a4f36f2d14c5c3c173521ca30433661809dee3df677d160d5cb3dce7f1ea6391856253dcc36e9877fc546f657.jpeg",
+      "episodes": [
+        {
+          "title": "The Dreamer",
+          "description": "You love drawing cartoons, and you're pretty sure the whole world would love them too — if Hollywood would just take you seriously. It's going to take more than just talent to make your dreams come true. ",
+          "episode": 1,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Band Nerd",
+          "description": "No doubt about it, you’re a band geek… and proud of it! Playing in the school marching band may not be popular, but little do your classmates know that you and your flute are destined for superstardom.",
+          "episode": 2,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Marcher",
+          "description": "Life isn’t always fair, and you know that. But you’re tired of seeing people with less money get treated with less respect. You’re determined to fight back — and make things better for everyone.",
+          "episode": 3,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Rebel",
+          "description": "Narrated by Netflix star Paola Nuñez! You and your mom couldn't be more different. She has strong opinions about how girls should spend their time... and you defy all of those expectations. With support from your dad, your friends, and an unexpected role model, you prove that no matter the obstacle, you're going to live YOUR way.",
+          "episode": 4,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Pilot",
+          "description": "When you stare up at the sky, you see more than clouds and stars. You see new boundaries waiting to be broken. With focus, training, and a spirit of innovation, you take flight in ways nobody ever has before.",
+          "episode": 5,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Debater",
+          "description": "You've poured your heart and soul into drama club, but have never been tapped for a starring role. That's why, when you join the debate team, you make a promise to yourself: You're going to take center stage — and prove beyond a doubt that you deserve to be there.",
+          "episode": 6,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Hothead",
+          "description": "You tower over everyone else in school — even the teachers — and your attitude is just as big. Controlling your temper is an everyday battle. The football field is a good place to let out your aggression, but deep down, you know there's somewhere else you really belong.",
+          "episode": 7,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Storyteller",
+          "description": "Living on a farm is tough for you and your sisters. Luckily, you have a powerful imagination, and your stories bring joy to everyone around you. Maybe your gift for storytelling can be your ticket to the freedom you’ve always dreamed of.",
+          "episode": 8,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Small-Town Girl",
+          "description": "You're an incredible dancer, but your tiny hometown isn't exactly bursting with opportunities to see your name in lights. Is it possible to become a star... while still staying true to your roots? ",
+          "episode": 9,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Winner",
+          "description": "Narrated by Amber Ruffin (Late Night with Seth Meyers, The Amber Ruffin Show)! Your dream is to become the greatest tennis player in the world. But when you make that dream a reality, you realize that there’s still something missing in life — and you’re gonna figure out what it is.",
+          "episode": 10,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        }
+      ]
+    }
+  ],
+  "image": "https://content.production.cdn.art19.com/images/d3/74/3c/3f/d3743c3f-df43-43a6-8c6b-6e36c486b9af/39ef2629bfa59d1345100c7bb7d43246c4c87f88daf74039c2e0ade35ed14acf3a861362b857a08940408f9d12179f2e4cd7bf31ddc3912442499fe35a0115de.png",
+  "updated": "2022-10-28T07:01:00.000Z"
+}

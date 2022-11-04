@@ -1,0 +1,224 @@
+{
+  "id": "5276",
+  "title": "Accused",
+  "description": "Binge all of Season 4 early and ad-free by subscribing to Wondery+. Season 4 : When Rhoda Nathan's lifeless body was discovered in her hotel room, it was assumed she'd had a heart attack. The autopsy proved otherwise: Nathan, 67, had been viciously beaten to death, punched so hard by her assailant that two of her teeth had been knocked out. Days later, a hotel employee went to the hospital to be treated for an infection in his hand, which was teeming with a bacteria most often found in human mouths. That, plus a pendant an officer said was discovered in the trunk of his car, sealed the fate of Elwood Jones, who awaits execution on Ohio's death row. For nearly 30 years, Jones has maintained his innocence -- and accused police of straight-up framing him. The journalists of Accused are reexamining the case to learn if Jones truly belongs on death row, or if a botched investigation let someone else get away with murder. Season 3: In 1984, a father of three disappeared while working at a mysterious Cincinnati plant. It turned out he’d met a gruesome fate: Pieces of bone, his eyeglasses and walkie-talkie were uncovered inside a vat that reached 1350 degrees Fahrenheit. Two months later, the Fernald Feed Materials Production Center was revealed to have been processing uranium – and polluting the region. The dead man’s children believe their father was murdered because he intended to expose how the plant had been releasing millions of pounds of uranium dust into the atmosphere. We’re hoping to figure out: Did 39-year-old David Bocks kill himself, as Fernald officials alleged, or was he more likely killed? Season 2: A soft-hearted prison minister was found killed in her Kentucky apartment, and Newport police zeroed in on an ex-convict she’d counseled. Thirty years later, the conviction is overturned and the case is once again unsolved. The Cincinnati Enquirer investigates: Was William Virgil wrongly convicted for murder? Season 1: When Elizabeth Andes was found murdered in her Ohio apartment in 1978, police and prosecutors decided within hours it was an open-and-shut case. Two juries disagreed. The Cincinnati Enquirer investigates: Was the right guy charged, or did a killer walk free?",
+  "seasons": [
+    {
+      "season": 1,
+      "title": "The Unsolved Murder of Elizabeth Andes",
+      "image": "https://content.production.cdn.art19.com/images/b3/37/52/bb/b33752bb-585a-47dc-a431-3aef17aacd66/ec9f26ab359c3f966c1aa610dd03ead97711314ea94553d1c2af9a881d2ac1040d6f999e4cb3a1fdf4c876d1ed11c7682078507389d1f68865546d4b524f72d8.jpeg",
+      "episodes": [
+        {
+          "title": "Chapter 1: The crime (S1)",
+          "episode": 1,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Chapter 2: The couple",
+          "episode": 2,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Chapter 3: The investigation (S1)",
+          "episode": 3,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Chapter 4: If not Bob, who? - Part 1",
+          "episode": 4,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Chapter 5: If not Bob, who? - Part 2",
+          "episode": 5,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Chapter 6: The strangers",
+          "episode": 6,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Chapter 7: The evidence",
+          "episode": 7,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Chapter 8: The aftermath",
+          "episode": 8,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Chapter 9: The update",
+          "episode": 9,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        }
+      ]
+    },
+    {
+      "season": 2,
+      "title": "The Unsolved Murder of Retha Welch",
+      "image": "https://content.production.cdn.art19.com/images/b3/37/52/bb/b33752bb-585a-47dc-a431-3aef17aacd66/ec9f26ab359c3f966c1aa610dd03ead97711314ea94553d1c2af9a881d2ac1040d6f999e4cb3a1fdf4c876d1ed11c7682078507389d1f68865546d4b524f72d8.jpeg",
+      "episodes": [
+        {
+          "title": "Chapter 1: The first Sin City",
+          "description": "When 54-year-old Retha Welch is found murdered in Newport, Kentucky, police zero in on an acquaintance with a criminal past.",
+          "episode": 1,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Chapter 2: The hooded figure",
+          "description": "Retha Welch’s boyfriend says he was mad enough to kill her the last time they were together — but he points police to a hooded figure in her hallway as the likely culprit.",
+          "episode": 2,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Chapter 3: The case unfolds",
+          "description": "With physical evidence and eyewitnesses on their side, police begin compiling a case against William Virgil — but does it hold up under scrutiny?",
+          "episode": 3,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Chapter 4: The missing witness",
+          "description": "It appears more than one of the witnesses in Retha Welch’s murder case didn’t come clean on the stand. Someone knew more than his testimony implied.",
+          "episode": 4,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Chapter 5: The lie",
+          "description": "After years of insisting a key witness perjured himself, William Virgil finds proof — but does the truth matter?",
+          "episode": 5,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Chapter 6: If not Virgil, Who?",
+          "description": "Newport police overlooked several interesting people worthy of scrutiny in this murder case, including one man they’d encountered themselves.",
+          "episode": 6,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Chapter 7: The battle continues",
+          "description": "William Virgil finds dedicated allies in the Kentucky Innocence Project, fierce opposition in the Commonwealth’s Attorney, and hope in new DNA testing.",
+          "episode": 7,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Chapter 8: After Innocence",
+          "description": "Since his release from prison, William Virgil’s life has been on hold. So has Retha Welch’s murder investigation.",
+          "episode": 8,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        }
+      ]
+    },
+    {
+      "season": 3,
+      "title": "The Mysterious Death of David Bocks",
+      "image": "https://content.production.cdn.art19.com/images/b3/37/52/bb/b33752bb-585a-47dc-a431-3aef17aacd66/ec9f26ab359c3f966c1aa610dd03ead97711314ea94553d1c2af9a881d2ac1040d6f999e4cb3a1fdf4c876d1ed11c7682078507389d1f68865546d4b524f72d8.jpeg",
+      "episodes": [
+        {
+          "title": "Chapter 1: Disappearing dad",
+          "description": "A 39-year-old father of three goes to work and disappears. That’s strange enough. Adding in where he works makes this case more than strange. It’s the stuff conspiracies are made of. ",
+          "episode": 1,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Chapter 2: Testing the suicide theory",
+          "description": "Police dismissed the 1984 disappearance of David Bocks as a suicide, but the physics of the death make that theory seem unlikely. (Link updated Jan. 21, 2020, with water-content percentage of apples and humans corrected.)",
+          "episode": 2,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Chapter 3: The Cold War creeps",
+          "description": "As the world was embroiled in a race to stockpile nuclear weapons, little towns throughout the U.S. became hubs for cancer-linked plants.",
+          "episode": 3,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Chapter 4: The truth about Fernald",
+          "description": "While managers and government officials outwardly assured Fernald workers that everything was safe at the plant, internal documents show many knew that wasn’t the case.",
+          "episode": 4,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Chapter 5: The king of conspiracies",
+          "description": "In the 1990s, an indie reporter tried to expose Fernald and link managers to David Bocks’ death. His theories sounded outrageous, but some of them proved true.",
+          "episode": 5,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Chapter 6: Last day laid bare",
+          "description": "David Bocks’ final shift is pieced together through police statements and time cards.",
+          "episode": 6,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Chapter 7: A variance in views",
+          "description": "Two coworkers tell police that David Bocks seemed depressed on his last day of work. Or is it just one? ",
+          "episode": 7,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Chapter 8: The nuclear wrap-up",
+          "description": "Long after David Bocks’ children and grandchildren are dead, the legacy of his employer will remain, encased in concrete and buried deep beneath the earth. ",
+          "episode": 8,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        }
+      ]
+    },
+    {
+      "season": 4,
+      "title": "The Impending Execution of Elwood Jones",
+      "image": "https://res.cloudinary.com/dumslp4el/image/fetch/w_676,h_676/https://content.production.cdn.art19.com/images/1f/7f/4b/19/1f7f4b19-e2a3-473f-adc9-8eeff4735636/546d4382682db54aa88b7ee67a87133a996a7acfeb13699fd91273b8304bba9bf2197c33c17f5b081f6b3263933508fa8ae2a4d67a4d987b7fb43fd1ac94786c.jpeg",
+      "episodes": [
+        {
+          "title": "Chapter 1: The Crime",
+          "description": "When Elaine Shub opened the door to the hotel room she was sharing with her best friend of 48 years, she saw such a gruesome sight that she collapsed in the suburban hotel hallway. Rhoda Nathan, a kind-hearted New Jersey grandmother who had just stepped out of the shower, lay on the floor, unrecognizable from the vicious beating she’d endured. Who could have done this? What could have been the motive? Who had access? Who had motive? And why did Rhoda have to die?",
+          "episode": 1,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Chapter 2: The A-Hole",
+          "description": "The prosecutor handling the case against Elwood Jones had some choice words to describe the suspect on national television. In this episode, we explore: Who is Elwood Jones? Was he really an a-hole? Is being one now, steadfast as he is in refusing to cop to the 27-year-old crime? And does being an a-hole also mean he was a killer? ",
+          "episode": 2,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Chapter 3: The Investigation",
+          "description": "Investigating any crime scene requires finesse, but in the case of Rhoda Nathan’s 1994 beating death, at least some of the detectives arriving at the Embassy Suites hotel, many who had never investigated a murder before, thought they were dealing with a heart-attack victim. As such, they say they didn’t immediately secure the scene, allowing outsiders to tromp through a room that was already teeming with all kinds of hotel-user DNA.",
+          "episode": 3,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Chapter 4: If Not Elwood, Who?",
+          "description": "While investigators testified at trial that Elwood Jones was always their best and only real suspect in the 1994 slaying of Rhoda Nathan, the police files say otherwise. Three people – two with violent criminal pasts on their records – seem equally as suspicious, so much so they were given lie-detector tests in the days after the murder. Do their alibis hold? And if Elwood as such a good suspect with such good evidence to indicate his guilt, what took the police and prosecutors a year to indict him?",
+          "episode": 4,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Chapter 5: The (Supposed) Confession",
+          "description": "More than a decade after Elwood Jones was convicted of killing Rhoda Nathan, he learned that a woman had stepped forward saying she knew who the real killer was. Tracking down this mysterious figure became something of an obsession for Elwood’s current defense team. And for us.",
+          "episode": 5,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Chapter 6: Deserving of Death?",
+          "description": "Hamilton County, Ohio, is known nationwide as having one of the highest capital punishment rates per capita – and a recent 25-year study shows that race plays a huge role in determining who’s sent to die. Elwood Jones is Black. His victim was white. If the pandemic had not intervened and last-minute attempts for a new trial put on hold, Jones would already have been dead. If he is innocent, that’s a tragedy. If he is not, did the punishment fit the crime? He is again scheduled to be executed in 2023. ",
+          "episode": 6,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Chapter 7: What Now?",
+          "description": "As adamant as police and prosecutors are that they properly handled the case against murder suspect Elwood Jones, a judge is expected to weigh whether Jones can get a new trial in the 1994 slaying of Rhoda Nathan. Elwood’s lawyers accuse prosecutors of withholding key information that could have changed jurors’ minds 25 years ago. ",
+          "episode": 7,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        }
+      ]
+    }
+  ],
+  "image": "https://content.production.cdn.art19.com/images/b3/37/52/bb/b33752bb-585a-47dc-a431-3aef17aacd66/b68b3e4a2e030d4f7ac3a518f4872e2f2985d04a130064bfb41034afe3c15824adafcbd488ce90463876b5b20bc589ead5c8c87b1c614a409d3affe444b2a0e0.jpeg",
+  "genres": [
+    "All",
+    "True Crime and Investigative Journalism"
+  ],
+  "updated": "2022-05-31T07:01:00.000Z"
+}

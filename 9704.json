@@ -1,0 +1,70 @@
+{
+  "id": "9704",
+  "title": "Remy’s Life...Interrupted",
+  "description": "Hi, I’m Remy, an 11-year-old Six Minutes superfan from New Jersey. The producers of Six Minutes gave me my own podcast! Every day I’m going to talk about my life, mysteries and what it’s like being quarantined with my mom, dad and my older brother, Alex. This is my life...interrupted. (Producer’s Note: There just might be a mystery hiding around the corner.) If you’d like a birthday shout-out from Remy or just want to say hi, please send requests to remyslifepodcast@gmail.com . You can even send an audio recording. Please try and send birthday requests two weeks ahead of time. Want a Remy’s Life T-shirt? Check out the store here: https://www.teepublic.com/user/genzpodcasts Become a Gen-Z Superfan by visiting our Patreon page for early access to shows, scripts, and other exclusive content. http://patreon.com/gzmshows Six Minutes is produced by Gen-Z Media. For more great Gen-Z podcasts visit http://gzmshows.com or follow us on Twitter and Facebook and Instagram .",
+  "seasons": [
+    {
+      "season": 1,
+      "title": "Season 1",
+      "image": "https://content.production.cdn.art19.com/images/89/ae/2b/81/89ae2b81-b468-47b6-a0e5-1e73f53a084c/db10138025fdc92c9b7b61595c6b02c2881d955f09c286d3e0a91d96c4c6663a3a6652257c1e791b18ebeeb11ffb6b7dc145a741ad9c5e568d8cb24d1525c8dd.jpeg",
+      "episodes": [
+        {
+          "title": "Remy's Life Interrupted: EP1",
+          "episode": 1,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Remy's Life Interrupted: EP2",
+          "episode": 2,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Remy's Life Interrupted: EP3",
+          "episode": 3,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Remy's Life Interrupted: EP4",
+          "episode": 4,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Remy's Life Interrupted: EP5",
+          "episode": 5,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Remy's Life Interrupted: EP6",
+          "episode": 6,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Remy's Life Interrupted: EP7",
+          "episode": 7,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Remy's Life Interrupted: EP8",
+          "episode": 8,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Remy's Life Interrupted: EP9",
+          "episode": 9,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Remy's Life Interrupted: EP10",
+          "episode": 10,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        }
+      ]
+    }
+  ],
+  "image": "https://content.production.cdn.art19.com/images/89/ae/2b/81/89ae2b81-b468-47b6-a0e5-1e73f53a084c/201b0c7d8d907396f53963ab1128a9509aceab1b141cbed3d8027ef714799a4b5190adbf4fe2b85ebd088be2e5baa70bbda30cf7d6a93636056f69de03f3c5d0.jpeg",
+  "genres": [
+    "All",
+    "Kids and Family"
+  ],
+  "updated": "2021-06-25T09:00:00.000Z"
+}

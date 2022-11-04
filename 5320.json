@@ -1,0 +1,106 @@
+{
+  "id": "5320",
+  "title": "Felonious Florida",
+  "description": "Beyond the beaches, the theme parks, the palm trees and the warm breezes lies the dark side of the Sunshine State. Wondery and the South Florida Sun Sentinel present a true-crime podcast that bring you stories of some of Florida’s most notorious and stunning crimes. Hosted by EmmaKate Austin, Season 2 will take you through some of the darkest corners we’ve explored yet. New episodes are coming Oct. 2 and will be released every Tuesday. Visit FeloniousFlorida.com.",
+  "seasons": [
+    {
+      "season": 1,
+      "title": "Season 1",
+      "image": "https://res.cloudinary.com/dumslp4el/image/fetch/w_676,h_676/https://content.production.cdn.art19.com/images/7a/08/06/e4/7a0806e4-24cc-4781-adc3-74c81badaa0d/bd4f5c5f70c7d67353740a2f88f14f343a500dca8ff195bb0a43c4a801b951854754397fd73bef96b8be50f12cc4192adcbe3ae56be1cfe13278f4743d85e5ed.jpeg",
+      "episodes": [
+        {
+          "title": "THE EXECUTIONS",
+          "description": "Casimir Sucharsky Jr. — or Butch Casey, as he's known — is the flashy, well-known owner of the popular South Florida nightclub Casey’s Nickelodeon. After a night out at his bar in June 1994, he invites two young, attractive women back to his house for an after-hours party. As they share a bottle of wine, two intruders with a machine gun burst into the house and slay all three. Police discover the crime has been caught on a remarkable, 22-minute surveillance video. What they see on the tape is brutal and terrifying — and sets investigators on a frantic chase for suspects. Subscribe today so you don’t miss an episode. Visit FeloniousFlorida.com.",
+          "episode": 1,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "O.J. AND THE MOB",
+          "description": "Theories around the killing of Butch Casey and his female guests begin to spin around. The public is consumed by talk of a connection to the murders days earlier of Nicole Brown Simpson and Ronald Goldman — and the arrest of Butch’s long-time friend, O.J. Simpson. But police are looking elsewhere and probe possible connections to the mob. Then, a violent home invasion not far away in Miami-Dade County breaks the case open. Subscribe today so you don’t miss an episode. Visit FeloniousFlorida.com.",
+          "episode": 2,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "THE FACES OF THE KILLERS",
+          "description": "Was Pablo Ibar the man who showed his face to a security camera during the murders of Butch, Sharon and Marie? Police think so and begin to gather a case against him. Meanwhile, their search for the second killer surfaces two names — Alex Hernandez and Seth Penalver. But as prosecutors bring their suspects to trial, the apparent mountain of evidence they gathered begins to break down. The case is in jeopardy. Subscribe today so you don’t miss an episode. Visit FeloniousFlorida.com.",
+          "episode": 3,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "PABLO",
+          "description": "Seth Penalver is a free man, acquitted by a jury in the brutal 1994 Casey's Nickelodeon Murders after spending six years on Death Row. Pablo Ibar spent 16 years on Death Row before his conviction was thrown out. Soon, he'll get another chance to convince a jury of his innocence. Supporters in his father's native Spain have rallied to fund his defense, raising nearly $800,000. Can they overcome a solid eyewitness who says he saw Pablo driving away from the murder scene? And now there's new evidence: Pablo's DNA was found on a shirt left behind at Butch Casey's house, prosecutors say.",
+          "episode": 4,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "THE KIDNAP KIT",
+          "description": "A mother and her 7-year-old daughter are kidnapped from a mall in Boca Raton, Florida, after an afternoon of Christmas shopping in December 2007. They’re found executed in the back seat of their SUV, still parked in the mall lot. As police piece together details of the shocking crime, they realize the unthinkable: This child killer has struck before — at the same mall, that same year. Only that time, the mom and son survived to tell about it. Subscribe today so you don’t miss an episode. Visit FeloniousFlorida.com.",
+          "episode": 5,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "RANDI",
+          "description": "The mom who survived the terrifying kidnapping at the Boca Raton mall is frustrated when police doubt her wild story. They think she may have made it up to make her boyfriend angry. Then, just two months later, Nancy Bochicchio and her 7-year-old daughter are kidnapped and shot to death at the same mall. And it gets worse: The crimes lead police back to another kidnapping and murder that happened earlier that same year — at the same mall. Now a terrified public wants to know: Is there a serial killer on the loose in South Florida? Subscribe today so you don’t miss an episode. Visit FeloniousFlorida.com.",
+          "episode": 6,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        }
+      ]
+    },
+    {
+      "season": 2,
+      "title": "Season 2",
+      "image": "https://res.cloudinary.com/dumslp4el/image/fetch/w_676,h_676/https://content.production.cdn.art19.com/images/db/f3/84/c4/dbf384c4-8a0f-4030-b1a4-b465d9738f30/c8164db01fb52861ee87bf79abd8e9409a3d2f1ba461d57f88525d03717fafd6e87fa7194d1b5a383d864d66c5173e9bcd50413cf7453321446400e70fd7b2bf.jpeg",
+      "episodes": [
+        {
+          "title": "The Encino Murders, Part 1",
+          "description": "On a warm summer night in August 2009, an intruder shot Camile Hamilton in the face inside a suburban Florida home. A staggering 14 hours after the attacker fled, Camile wakes up — barely alive and with a bullet still inside her neck. Three others, including Camile’s teenage daughter, are dead. The crime scene is brutal and complicated, and neighbors didn't see anything. The search is on for a killer.",
+          "episode": 1,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Encino Murders, Part 2",
+          "description": "Camile Hamilton is starting to remember what happened to her that brutal night in August 2009. A tiny piece of evidence and a series of breaks leads the Encino Street triple murder investigation to a homeless man with a criminal history named Kevin Pratt. But our investigative reporter finds inconsistencies in Camile's recollections that lead to questions about how reliable they are. And there's one more major disappointment for investigators.",
+          "episode": 2,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Encino Murders, Part 3",
+          "description": "In the conclusion of The Encino Murders, Camile Hamilton confronts Kevin Pratt after an in-person lineup — and the encounter is explosive. Kevin insists he didn’t kill anybody, but when the DNA evidence gets stronger he faces the death penalty. As the years go on, problems with the investigation are uncovered — and suddenly, the case against Kevin isn’t as strong as once thought.",
+          "episode": 3,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Disappearance of Lisa Spence, Part 1",
+          "description": "The text came in to Paul Edwards’ cell phone from his girlfriend, Lisa Spence. “Just wait till I got better,” it said. But it wasn’t so much what the text said, but that it had been sent at all. A month earlier, in October 2009, Lisa had vanished after a night shift at a beauty supply store and hadn’t been seen again. When other friends and family start getting texts from Lisa, police begin to wonder if Lisa was actually the person sending the texts, or whether this case was more than a simply missing person.",
+          "episode": 4,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Disappearance of Lisa Spence, Part 2",
+          "description": "Police looking into the disappearance of Lisa are convinced there's foul play involved. With nothing else to go on, they devise an unusual plan to crack the case. Within days, their text from the grave pays off — it leads them to a gruesome discovery in an empty field near Miami and to the man they say brutally murdered Lisa Spence.",
+          "episode": 5,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Killer Clown of Wellington, Part 1",
+          "description": "When Marlene Warren answered a morning knock on her front door on Memorial Day weekend in 1990, a clown delivering flowers and balloons was smiling back at her. But her delight instantly turned to horror when the clown pulled a gun and put a bullet in her face. Police jumped on the trail of the killer clown almost immediately, and our reporters found that the investigation led them into the darkest corners of the Sunshine State — from loansharking and drug smuggling to prostitution and seedy affairs. But as a mountain of circumstantial evidence piled up and two possible suspects emerged, the case went ice cold.",
+          "episode": 6,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Killer Clown of Wellington, Part 2",
+          "description": "The early days of the search for the killer clown focus on Marlene Warren's husband, Michael, and the repo woman who worked on his used car lot, Sheila Keen. There appeared to be motive: An insurance payout, investment properties, a lavish home and an affair. But there's little or no hard evidence. As Michael goes to prison for illegal activities on his lot, the investigation into his wife's murder goes ice cold. Until 27 years later, when the secret lives of a married Virginia couple are exposed, and the alleged killer clown is finally unmasked.",
+          "episode": 7,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        }
+      ]
+    }
+  ],
+  "image": "https://content.production.cdn.art19.com/images/15/88/a1/71/1588a171-e383-4500-bc00-a540c3efa1bd/a4dc4fa5df62ce0485a96b9b9fcfa81f3a02fc372928d2f085abdb7df23a665c05da6b4d640284543a0ddf5c2ef58f17edf1dc76ced5bd11770ab393b0c65a53.jpeg",
+  "genres": [
+    "All",
+    "History",
+    "True Crime and Investigative Journalism"
+  ],
+  "updated": "2019-01-23T05:00:00.000Z"
+}

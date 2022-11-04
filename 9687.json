@@ -1,0 +1,624 @@
+{
+  "id": "9687",
+  "title": "The Alien Adventures of Finn Caspian: Science Fiction for Kids",
+  "description": "The Alien Adventures of Finn Caspian is a serialized science-fiction story for kids (start with Episode 1), told in 15-20 minute episodes for parents to put on when driving around town, or to marathon on road trips, or to bond over before bed. The story centers on Finn Caspian, an 8-year-old boy aboard The Famous Marlowe 280 Interplanetary Exploratory Space Station. He and his friends Abigail, Elias and Vale are Explorers Troop 301, taking off from the Marlowe to explore uncharted planets, help the occasional alien, and solve a mystery that threatens to destroy the Marlowe. When pressed, we describe it as a \"mystery gang\" story, sort of like Scooby-Doo in space. The story is written and performed by Jonathan Messinger, author of Hiding Out, former web editor of Time Out Chicago Kids, and father of two boys. His son Griffin, 7, serves as editor of the story, appearing in episodes to critique, make predictions and express skepticism that his father knows what he's talking about, which also happens to be the way the rest of their relationship works. Produced in partnership with Gen-Z Media. For more great Gen-Z podcasts visit: http://gzmshows.com",
+  "seasons": [
+    {
+      "season": 1,
+      "title": "Season 1",
+      "image": "https://content.production.cdn.art19.com/images/3d/7c/cf/0e/3d7ccf0e-f94b-4c7b-8ce3-58386e4afc48/46bf0f7f72ebdb28c736e91eaa26e12a98853a7a46f96ce892b93e0cb6dd598c948b90cdc1364b3c7882b3d3489c9006928ac90d6c68076c9dc9bd48014c5275.jpeg",
+      "episodes": [
+        {
+          "title": "The Room Behind the Room",
+          "episode": 1,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Everybody Run!!!",
+          "episode": 2,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Foggy",
+          "episode": 3,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Running Out of Patiens",
+          "episode": 4,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "In the Dwellers' Cellar",
+          "episode": 5,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Two Heads Are Better than One",
+          "episode": 6,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Dream a Little Dreamstone",
+          "episode": 7,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Voltronix Who?",
+          "episode": 8,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "You Call This a Planet?",
+          "episode": 9,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "In the Belly of the Beast",
+          "episode": 10,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        }
+      ]
+    },
+    {
+      "season": 2,
+      "title": "Season 2",
+      "image": "https://content.production.cdn.art19.com/images/3d/7c/cf/0e/3d7ccf0e-f94b-4c7b-8ce3-58386e4afc48/46bf0f7f72ebdb28c736e91eaa26e12a98853a7a46f96ce892b93e0cb6dd598c948b90cdc1364b3c7882b3d3489c9006928ac90d6c68076c9dc9bd48014c5275.jpeg",
+      "episodes": [
+        {
+          "title": "The Rivalry",
+          "episode": 1,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Part 1: Let the Games Begin",
+          "episode": 2,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Part 2: Back in the Saddle",
+          "episode": 3,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "A Short Leash",
+          "episode": 4,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "All Hands On",
+          "episode": 5,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Great Wall",
+          "episode": 6,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Nobody Puts Paigey in the Corner",
+          "episode": 7,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "What's for lunch?",
+          "episode": 8,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Iceboy Cometh",
+          "episode": 9,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "A BeeBop Bonus Episode",
+          "episode": 10,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        }
+      ]
+    },
+    {
+      "season": 3,
+      "title": "Season 3",
+      "image": "https://content.production.cdn.art19.com/images/3d/7c/cf/0e/3d7ccf0e-f94b-4c7b-8ce3-58386e4afc48/46bf0f7f72ebdb28c736e91eaa26e12a98853a7a46f96ce892b93e0cb6dd598c948b90cdc1364b3c7882b3d3489c9006928ac90d6c68076c9dc9bd48014c5275.jpeg",
+      "episodes": [
+        {
+          "title": "Birthday Surprise",
+          "episode": 1,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "A Wrinkle of Mine",
+          "episode": 2,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Day the Grown-Ups Quit",
+          "episode": 3,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Repeat Business",
+          "episode": 4,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Mighty King",
+          "episode": 5,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Mass Confusion",
+          "episode": 6,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Show Time!",
+          "episode": 7,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Get Out of Dodge",
+          "episode": 8,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Which Witch?",
+          "episode": 9,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Fish Story",
+          "episode": 10,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        }
+      ]
+    },
+    {
+      "season": 4,
+      "title": "Season 4",
+      "image": "https://content.production.cdn.art19.com/images/3d/7c/cf/0e/3d7ccf0e-f94b-4c7b-8ce3-58386e4afc48/46bf0f7f72ebdb28c736e91eaa26e12a98853a7a46f96ce892b93e0cb6dd598c948b90cdc1364b3c7882b3d3489c9006928ac90d6c68076c9dc9bd48014c5275.jpeg",
+      "episodes": [
+        {
+          "title": "The Room Behind the Room (Behind the Room)",
+          "episode": 1,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "You Call That a Spaceship?!",
+          "episode": 2,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "A Hero is Born",
+          "episode": 3,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Biting Off More than You Can Chew",
+          "episode": 4,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Hot Air Balloon",
+          "episode": 5,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Search Party",
+          "episode": 6,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Color Commentary",
+          "episode": 7,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Candyland",
+          "episode": 8,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Cough It Up",
+          "episode": 9,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Robot Revolt!",
+          "episode": 10,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        }
+      ]
+    },
+    {
+      "season": 5,
+      "title": "Season 5",
+      "image": "https://content.production.cdn.art19.com/images/3d/7c/cf/0e/3d7ccf0e-f94b-4c7b-8ce3-58386e4afc48/46bf0f7f72ebdb28c736e91eaa26e12a98853a7a46f96ce892b93e0cb6dd598c948b90cdc1364b3c7882b3d3489c9006928ac90d6c68076c9dc9bd48014c5275.jpeg",
+      "episodes": [
+        {
+          "title": "Uh Oh, It's Magic!",
+          "episode": 1,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Rainbow Paige",
+          "episode": 2,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Things Fall Apart",
+          "episode": 3,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Purple Mountain's Majesty",
+          "episode": 4,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Not for the Faint of Heart",
+          "episode": 5,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "See No Evil, Fire Lots of Lasers",
+          "episode": 6,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The In-Between",
+          "episode": 7,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Hammer Time",
+          "episode": 8,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Pirates on Trial",
+          "episode": 9,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Charting the Course",
+          "episode": 10,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        }
+      ]
+    },
+    {
+      "season": 6,
+      "title": "Season 6",
+      "image": "https://content.production.cdn.art19.com/images/3d/7c/cf/0e/3d7ccf0e-f94b-4c7b-8ce3-58386e4afc48/46bf0f7f72ebdb28c736e91eaa26e12a98853a7a46f96ce892b93e0cb6dd598c948b90cdc1364b3c7882b3d3489c9006928ac90d6c68076c9dc9bd48014c5275.jpeg",
+      "episodes": [
+        {
+          "title": "A Prologue",
+          "episode": 1,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Battery Pack",
+          "episode": 2,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "April Fools' Day: Prank Club 2019",
+          "episode": 3,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Splish Splash",
+          "episode": 4,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "A Fishy Situation",
+          "episode": 5,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Stowaway",
+          "episode": 6,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Super Bouncy Ball",
+          "episode": 7,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Back to the Future",
+          "episode": 8,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Super Bouncy Ball, Take 2",
+          "episode": 9,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Sing, Canary, Sing!",
+          "episode": 10,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        }
+      ]
+    },
+    {
+      "season": 7,
+      "title": "Season 7",
+      "image": "https://content.production.cdn.art19.com/images/3d/7c/cf/0e/3d7ccf0e-f94b-4c7b-8ce3-58386e4afc48/46bf0f7f72ebdb28c736e91eaa26e12a98853a7a46f96ce892b93e0cb6dd598c948b90cdc1364b3c7882b3d3489c9006928ac90d6c68076c9dc9bd48014c5275.jpeg",
+      "episodes": [
+        {
+          "title": "The Green Machine",
+          "episode": 1,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Re-Re-Re-Re-Reunion",
+          "episode": 2,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "March Madness",
+          "episode": 3,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "More March Madness",
+          "episode": 4,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Solo Robo",
+          "episode": 5,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Solo Robo Endings, Part 1",
+          "episode": 6,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Prank Club Assemble!",
+          "description": "BeeBop is back with another back full of tricks provided by our listeners. Jonathan is in hiding.",
+          "episode": 7,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Encore: Elias and the Double Eclipse",
+          "episode": 8,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Write the Story: When We Meat Again",
+          "episode": 9,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "We're baaaacckk",
+          "episode": 10,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        }
+      ]
+    },
+    {
+      "season": 8,
+      "title": "Season 8",
+      "image": "https://content.production.cdn.art19.com/images/3d/7c/cf/0e/3d7ccf0e-f94b-4c7b-8ce3-58386e4afc48/46bf0f7f72ebdb28c736e91eaa26e12a98853a7a46f96ce892b93e0cb6dd598c948b90cdc1364b3c7882b3d3489c9006928ac90d6c68076c9dc9bd48014c5275.jpeg",
+      "episodes": [
+        {
+          "title": "The Fuzzy Apocalypse",
+          "episode": 1,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Accidental Volcano",
+          "episode": 2,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "New live show!",
+          "episode": 3,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "W(h)ere is Vale?",
+          "episode": 4,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        }
+      ]
+    },
+    {
+      "season": 9,
+      "title": "Season 9",
+      "image": "https://content.production.cdn.art19.com/images/3d/7c/cf/0e/3d7ccf0e-f94b-4c7b-8ce3-58386e4afc48/46bf0f7f72ebdb28c736e91eaa26e12a98853a7a46f96ce892b93e0cb6dd598c948b90cdc1364b3c7882b3d3489c9006928ac90d6c68076c9dc9bd48014c5275.jpeg",
+      "episodes": [
+        {
+          "title": "Here we go! The Green Machine",
+          "episode": 1,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Here we go! Re-Re-Re-Reunion",
+          "episode": 2,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "See Ya Later, Crater!",
+          "episode": 3,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Uncommon Cold",
+          "description": "Book three in the Finn series is upon us!",
+          "episode": 4,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Worming Out of Trouble",
+          "episode": 5,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Smell Ya Later!",
+          "episode": 6,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Gesundheit",
+          "episode": 7,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Unplanned Planet",
+          "episode": 8,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Cave Dwelling",
+          "episode": 9,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "A Welcome Guest",
+          "episode": 10,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        }
+      ]
+    },
+    {
+      "season": 10,
+      "title": "Season 10",
+      "image": "https://content.production.cdn.art19.com/images/3d/7c/cf/0e/3d7ccf0e-f94b-4c7b-8ce3-58386e4afc48/46bf0f7f72ebdb28c736e91eaa26e12a98853a7a46f96ce892b93e0cb6dd598c948b90cdc1364b3c7882b3d3489c9006928ac90d6c68076c9dc9bd48014c5275.jpeg",
+      "episodes": [
+        {
+          "title": "Detective BeeBop on the Case",
+          "episode": 1,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Journey to the Center of That Thing",
+          "episode": 2,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "In the Land of Jonathans",
+          "episode": 3,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Feral and Imperiled",
+          "description": "BeeBop has made it to the top of Messingham HQ, but what he finds there surprises him and the Jonathan clone. And it's not long before BeeBop questions the entire mission.",
+          "episode": 4,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Jonathan and the Cloney Clones",
+          "description": "BeeBop and his new sidekick, the Jonathan clone, make their way through the murky Messingham HQ. But when BeeBop discovers a different type of clone, the entire mission is put in jeopardy.",
+          "episode": 5,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The End of Jonathan",
+          "description": "BeeBop faces down the clones, and rediscovers an old friend.",
+          "episode": 6,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        }
+      ]
+    },
+    {
+      "season": 11,
+      "title": "Season 11",
+      "image": "https://content.production.cdn.art19.com/images/3d/7c/cf/0e/3d7ccf0e-f94b-4c7b-8ce3-58386e4afc48/46bf0f7f72ebdb28c736e91eaa26e12a98853a7a46f96ce892b93e0cb6dd598c948b90cdc1364b3c7882b3d3489c9006928ac90d6c68076c9dc9bd48014c5275.jpeg",
+      "episodes": [
+        {
+          "title": "A Moldy Alliance",
+          "description": "There's a new man in town, but Finn and his friends are understandably skeptical.",
+          "episode": 1,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Abracabyebye",
+          "description": "Bunce and the explorers embark on their mission, but just how powerful is Bunce's magic?",
+          "episode": 2,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Welcome to TinyTown",
+          "description": "This episode comes out for free on 11/26, and is available early and ad-free for Wondery+ Kids subscribers.",
+          "episode": 3,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Invisible Dirigible",
+          "description": "The explorers try to broker peace between two warring planets.",
+          "episode": 4,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Doppelgang",
+          "description": "The explorers land on a planet with a few familiar faces.",
+          "episode": 5,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Ethical Trilemma",
+          "description": "The explorers are put in an impossible situation.",
+          "episode": 6,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Off to the Races",
+          "description": "The explorers come up with a plan, but is it too much for Bunce to take?",
+          "episode": 7,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Frankenstein's Buncester",
+          "description": "Bunce poses a new, and even more dangerous threat.",
+          "episode": 8,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Beepcraft",
+          "description": "BeeBop has a side hustle he'd like to talk about.",
+          "episode": 9,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Just One Little Word",
+          "description": "The explorers finally get their hands on some magic.",
+          "episode": 10,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        }
+      ]
+    },
+    {
+      "season": 12,
+      "title": "Season 12",
+      "image": "https://content.production.cdn.art19.com/images/3d/7c/cf/0e/3d7ccf0e-f94b-4c7b-8ce3-58386e4afc48/46bf0f7f72ebdb28c736e91eaa26e12a98853a7a46f96ce892b93e0cb6dd598c948b90cdc1364b3c7882b3d3489c9006928ac90d6c68076c9dc9bd48014c5275.jpeg",
+      "episodes": [
+        {
+          "title": "Testing, Testing",
+          "description": "Finn gets a little magical advice.",
+          "episode": 1,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Old Switcheroo",
+          "description": "Finn tries to outsmart the alien wizard.",
+          "episode": 2,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        }
+      ]
+    }
+  ],
+  "image": "https://content.production.cdn.art19.com/images/3d/7c/cf/0e/3d7ccf0e-f94b-4c7b-8ce3-58386e4afc48/f7cbeb45aa5f221a70beb6a25f4a8afbf49da4e2da687f546de2cb0859d26575773500356baf3957b72b348ff5af65675f6a85a017e16f15fb7381344640ecc5.jpeg",
+  "genres": [
+    "All",
+    "Kids and Family"
+  ],
+  "updated": "2022-10-18T07:01:00.000Z"
+}

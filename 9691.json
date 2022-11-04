@@ -1,0 +1,70 @@
+{
+  "id": "9691",
+  "title": "The Weirdness",
+  "description": "Welcome to  The Weirdness … Middle-schoolers Arlo and Sierra host a podcast dedicated to exploring unexplained phenomena like the Loch Ness Monster, the yeti and the chupacabra. But they’ve never actually witnessed any of it—until they track down an unusual caller who turns out to be none other than Bigfoot himself. Turns out, the Weirdness is real, and it’s everywhere! Arlo, Sierra, and Bigfoot (aka Beef) set off on a mind-blowing adventure across the globe to find out why the creatures of legends are disappearing. For more great Gen-Z podcasts visit http://gzmshows.com or follow us on Twitter and Facebook and Instagram .",
+  "seasons": [
+    {
+      "season": 1,
+      "title": "Season 1",
+      "image": "https://content.production.cdn.art19.com/images/16/88/1f/3b/16881f3b-b73a-4b78-aac6-8ba6b9958826/0527aceb0a0501b75c04ab929de6f507c5188f740f2794394c494f98acfbce8d129b87ba4c001801c2f0edbc4e7e18ebbb4668fc60a0e969e383e14d54185b5a.jpeg",
+      "episodes": [
+        {
+          "title": "Beef",
+          "episode": 1,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Chupacabra",
+          "episode": 2,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Leprechaun",
+          "episode": 3,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Yeti",
+          "episode": 4,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Unicorns",
+          "episode": 5,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Mermaid",
+          "episode": 6,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Jersey Devil",
+          "episode": 7,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Kraken",
+          "episode": 8,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Nessie",
+          "episode": 9,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Creep",
+          "episode": 10,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        }
+      ]
+    }
+  ],
+  "image": "https://content.production.cdn.art19.com/images/16/88/1f/3b/16881f3b-b73a-4b78-aac6-8ba6b9958826/788d257b6687de815e7e120427b5635e3c4d180709584d9d4f9bae7c7506bcd8cfb4f4d511932c02757ac6071b4867a8d6a3b083344c18987427bbd1949de1bf.jpeg",
+  "genres": [
+    "All",
+    "Kids and Family"
+  ],
+  "updated": "2022-11-03T07:01:00.000Z"
+}

@@ -1,0 +1,119 @@
+{
+  "id": "6717",
+  "title": "WeCrashed",
+  "description": "Watch the Apple Original series  WeCrashed , starring Jared Leto and Anne Hathaway. Now streaming only on Apple TV+  https://apple.co/-WeCrashed The founders of WeWork thought they were on the brink of making history. The company was valued at $47 billion dollars, ready for a huge IPO, and its charismatic CEO Adam Neumann believed he was going to change the world. Adam and his wife Rebekah had a prophet-like vision—but did it ever match the company's reality? Now the inspiration for a new AppleTV+ series starring Jared Leto and Anne Hathaway, WeCrashed: The Director’s Cut is a complete refresh of our original six-part series. Hosted by David Brown of the hit podcast Business Wars, this six-part series includes new interviews and new discoveries about the rise and fall of WeWork. It’s a story of hope and hubris, big money and bigger screwups, and the lengths people will go to chase “unicorns\".",
+  "seasons": [
+    {
+      "season": 1,
+      "title": "The Director's Cut",
+      "image": "https://content.production.cdn.art19.com/images/15/85/3e/79/15853e79-7883-4cbe-a3c8-2cddba54da0a/11dff4739061d56c98e410a8050aa0b8026565e15520dead7c58ceebcb31a57abddb14c62f29b96b10655099cc4cac4f4278a2f7546bb3f968692843a1178629.jpeg",
+      "episodes": [
+        {
+          "title": "In the Beginning There Was Adam...",
+          "description": "Watch the Apple Original series WeCrashed, starring Jared Leto and Anne Hathaway. Now streaming only on Apple TV+",
+          "episode": 1,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Two Guys and a Guru",
+          "description": "Watch the Apple Original series WeCrashed, starring Jared Leto and Anne Hathaway. Now streaming only on Apple TV+",
+          "episode": 2,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Thank God It’s Monday",
+          "description": "Watch the Apple Original series WeCrashed, starring Jared Leto and Anne Hathaway. Now streaming only on Apple TV+",
+          "episode": 3,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Think Crazy",
+          "description": "Watch the Apple Original series WeCrashed, starring Jared Leto and Anne Hathaway. Now streaming only on Apple TV+",
+          "episode": 4,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The IPO",
+          "description": "Watch the Apple Original series WeCrashed, starring Jared Leto and Anne Hathaway. Now streaming only on Apple TV+",
+          "episode": 5,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Me Before We",
+          "description": "Watch the Apple Original series WeCrashed, starring Jared Leto and Anne Hathaway. Now streaming only on Apple TV+",
+          "episode": 6,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Interview: Unicorns on the Loose",
+          "description": "Stream the Apple Original series WeCrashed, starring Jared Leto and Anne Hathaway. Premieres March 18 only on Apple TV+ https://apple.co/-WeCrashed",
+          "episode": 7,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        }
+      ]
+    },
+    {
+      "season": 2,
+      "title": "The Companion Podcast",
+      "image": "https://res.cloudinary.com/dumslp4el/image/fetch/w_676,h_676/https://content.production.cdn.art19.com/images/c1/7e/50/88/c17e5088-7ef5-4e4c-b7b2-75ec134f9fe0/679f61557efb056adb25706316d07f331e423d21b899d666014ad0e8fbb2f40f9f157174212bf0abbfc78d2377cd302dca035563c0c92a1d85b85aefa8179c03.jpeg",
+      "episodes": [
+        {
+          "title": "The Companion Podcast | Episode 1 with the TV Series’ Co-Creators",
+          "description": "In this first episode, host Scott Galloway unpacks the series premiere, “This Is Where It Begins,” with the show’s co-creators and co-writers, Lee Eisenberg and Drew Crevello. They talk about adapting the real-life story and Wondery podcast for the screen, the relationship between Adam and Rebekah, and why WeWork’s original $15 million funding (and self-proclaimed $45 million valuation) was a major turning point. Plus, Scott shares his “Yoga babble moment of the week.” WeCrashed: The Companion Podcast is produced by Wondery, with support from Pineapple Street Studios.   ",
+          "episode": 1,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Companion Podcast | Episode 2 with “Billion Dollar Loser” author Reeves Wiedeman",
+          "description": "This week, host Scott Galloway unpacks episode two, “Masha, Masha, Masha,” with Reeves Wiedeman, the author of Billion Dollar Loser: The Epic Rise and Spectacular Fall of Adam Neumann and WeWork. They discuss the co-working company’s early rise, Adam’s boundless powers of persuasion, and what it was like for them to sit down with Adam in real life. Plus, Scott shares his “Yoga babble moment of the week.” WeCrashed: The Companion Podcast is produced by Wondery, with support from Pineapple Street Studios.",
+          "episode": 2,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Companion Podcast | Episode 3 and the Real Work Culture of WeWork",
+          "description": "This week, host Scott Galloway unpacks episode three, “Summer Camp,” with New Yorker staff writer, Lizzie Widdicombe. They discuss the misogynistic culture of WeWork, Rebekah's public assertion that “a big part of being a woman is helping men manifest their calling in life,” and how WeWork ultimately seemed more like a cult than a company. Plus, Scott shares his “Yoga babble moment of the week.” WeCrashed: The Companion Podcast is produced by Wondery, with support from Pineapple Street Studios.",
+          "episode": 3,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Companion Podcast | Episode 4 and the Venture Capitalists Behind WeWork",
+          "description": "This week, host Scott Galloway unpacks episode four with New Yorker journalist Charles Duhigg. They discuss WeWork’s financial enablers—specifically Masayoshi Son, the founder of the Japanese conglomerate SoftBank—and what the story ultimately says about venture capitalists. Plus, Scott shares his “Yoga babble moment of the week.” WeCrashed: The Companion Podcast is produced by Wondery, with support from Pineapple Street Studios. ",
+          "episode": 4,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Companion Podcast | Episode 5 and “The Cult of We” with author Maureen Farrell",
+          "description": "This week, host Scott Galloway unpacks episode five, “Hustle Harder,” with Maureen Farrell, co-author of The Cult of We: WeWork, Adam Neumann, and the Great Startup Delusion. They question why some of the smartest investment bankers in the world kept giving Adam money, and to what extent WeWork was a company or simply a delusion. Plus, Scott shares his “Yoga babble moment of the week.” WeCrashed: The Companion Podcast is produced by Wondery, with support from Pineapple Street Studios.",
+          "episode": 5,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Companion Podcast | Episode 6 with ‘WeCrashed’ star Kyle Marvin",
+          "description": "This week, host Scott Galloway sits down with actor Kyle Marvin (The Climb) who plays Adam’s cofounder Miguel McKelvey on the Apple TV+ series, WeCrashed. They discuss how Kyle prepared for the role by studying architecture— and why he says he sees the relationship between Kyle, Adam and Rebekah as “a love triangle.” Plus, Scott shares his “Yoga babble moment of the week.” WeCrashed: The Companion Podcast is produced by Wondery, with support from Pineapple Street Studios. ",
+          "episode": 6,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Companion Podcast | Episode 7 with Scott Galloway Talking to “Scott Galloway” (Kelly AuCoin)",
+          "description": "This week, host Scott Galloway sits down with actor Kelly AuCoin (Billions, The Americans) who plays Scott Galloway himself on WeCrashed. They discuss how Kelly prepared for the role of Professor G—and what really happened when Scott first read WeWork’s disastrous S-1 prospectus. Plus, Scott shares his “Yoga babble moment of the week.” WeCrashed: The Companion Podcast is produced by Wondery, with support from Pineapple Street Studios. ",
+          "episode": 7,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Companion Podcast: Episode 8 and Unpacking the Finale with Andrew Ross Sorkin",
+          "description": "This week, host Scott Galloway sits down with New York Times journalist Andrew Ross Sorkin (author Too Big To Fail, co-creator of Billions) to dig into the finale of WeCrashed. They discuss Adam Neumann’s last-ditch efforts to stay in control at WeWork, as well as Andrew’s own interviews with the real Adam. Plus, Scott shares his final “Yoga babble moment of the week.” WeCrashed: The Companion Podcast is produced by Wondery, with support from Pineapple Street Studios.",
+          "episode": 8,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        }
+      ]
+    }
+  ],
+  "image": "https://content.production.cdn.art19.com/images/15/85/3e/79/15853e79-7883-4cbe-a3c8-2cddba54da0a/536a4c66a9e4f8aa145f5913bdfac6b2a849e202beb5add6aa7d13c7849f72bba52fffe2e19429287758815d4c9517b3d9bbdc5cc02e0f7edc0a0b04f008de31.png",
+  "genres": [
+    "All",
+    "Business",
+    "Featured",
+    "History"
+  ],
+  "updated": "2022-04-22T07:01:00.000Z"
+}

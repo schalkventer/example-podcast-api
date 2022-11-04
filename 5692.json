@@ -1,0 +1,143 @@
+{
+  "id": "5692",
+  "title": "FRAMED: An Investigative Story",
+  "description": "A true crime podcast that seeks to go beyond the narrative and discover the truth. Both sides have facts, which picture comes into focus depends on how those facts are Framed.",
+  "seasons": [
+    {
+      "season": 1,
+      "title": "Season 1",
+      "image": "https://res.cloudinary.com/dumslp4el/image/fetch/w_676,h_676/https://content.production.cdn.art19.com/images/fc/35/4c/1c/fc354c1c-abac-40c8-a53e-3a4b2bf302e9/65a472806748248c1eac791c6567d21868c8d6b73677bf6764806847828e3cbe8644bce77503f75506583a2ab40e3e01a7d1af77ef7f768565d8a42099c5feb5.jpeg",
+      "episodes": [
+        {
+          "title": "Brian Carrick",
+          "description": "On December 20th of 2002, Brian Carrick disappeared, leaving nothing behind but a pool of blood and a trail of clues to follow. Two theories have divided the once close-knit community of Johnsburg, Illinois. Fifteen years later, people are still asking… Who killed Brian Carrick?",
+          "episode": 1,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Motives",
+          "description": "We’ve met our suspects. It’s time to understand their motives. Who had reason to harm Brian Carrick?",
+          "episode": 2,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Southeast Corner",
+          "description": "A frightened witness comes forward with information, but is the information reliable? What happened that night in the southeast corner of Val’s Foods?",
+          "episode": 3,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Fifteen Minutes",
+          "description": "Brian Carrick walks into Val's Foods and never leaves again. Who sees him? Brian’s coworkers tell us where they were and what they saw during the last fifteen minutes of Brian’s life.",
+          "episode": 4,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Drugs, Money, & Blood",
+          "description": "A suspect on the run. A police chase like none other ends along a partially frozen creek. On the suspect, the police find drugs, money, and blood.",
+          "episode": 5,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Four Felons",
+          "description": "It was an accident. Things got out of hand. That was the testimony of four felons looking for deals...",
+          "episode": 6,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "JPD",
+          "description": "Two small town detectives with personal ties to the people involved were assigned to this case. One knew the victim’s family and was working tirelessly to solve this mystery. The other…",
+          "episode": 7,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Duplicity",
+          "description": "A tale of deceit, double-dealing, and manipulation. “Criminals flock together. They don’t ordinarily commit their crimes in broad daylight.” – Patrick Kenneally",
+          "episode": 8,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Twelve Twenty",
+          "description": "We walk you through Brian Carrick’s last day, from an early morning kiss from mom, to the moment he drew his last breath. We have all the pieces, now it’s time to solve this puzzle.",
+          "episode": 9,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Final Piece",
+          "description": "We’re still missing the biggest piece of all. Where is Brian Carrick’s body? Can you help us finish this puzzle and finally lay Brian to rest? This is the final episode of season one.",
+          "episode": 10,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        }
+      ]
+    },
+    {
+      "season": 2,
+      "title": "Season 2",
+      "image": "https://res.cloudinary.com/dumslp4el/image/fetch/w_676,h_676/https://content.production.cdn.art19.com/images/28/22/55/a4/282255a4-e534-43d5-8063-259e74f7a708/d8c20a588d90317ce20a2a2d443385ad1cbc928e4a7e7282632bb8da572a168170101466e4c787ae7486d4b44c0abcd236637d837fc7d41f23f5c1c37799e7c2.jpeg",
+      "episodes": [
+        {
+          "title": "Wat Promkunaram",
+          "description": "The deadliest mass shooting in Arizona's history occurred on August 10th, 1991. Nine victims were executed in the Wat Promkunaram Buddhist Temple, located in Waddell, Arizona. Twenty-one shots were fired in total. The gunmen didn’t miss once. By the time the bodies were discovered they were cold to the touch. The shooters had long since fled the scene, leaving, as it seemed, without a trace. As news of the slayings spread, temple members gathered outside the crime scene, anxious to know the answer to one question. Why? Why did they have to kill them?",
+          "episode": 1,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Tucson Four",
+          "description": "A tip came in on the hotline that promised to bust this case wide open. In three days time, the task force had five suspects in custody... but each suspect had a different story to tell. In a case where everything depends on what people say, how do you decide who you're going to believe?",
+          "episode": 2,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Marlin",
+          "description": "On October 23, 1991, the task force received some good news. The crime lab had identified the murder weapon. It was a Marlin twenty-two-caliber long rifle. The owner of the weapon was brought in for questioning.",
+          "episode": 3,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "JD",
+          "description": "\"It wasn't me! It must have been the guy I loaned my rifle to...\" A new suspect enters the interrogation room.",
+          "episode": 4,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "No Witnesses",
+          "description": "\"It's time to give it up. I want you to start telling me what happened on August 9th, what your involvement was, and who all was there at the Temple. Let's just get this out and get it over with.\"",
+          "episode": 5,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "After Midnight",
+          "description": "On this episode we’re going to focus on those individuals who fall somewhere between witnesses and suspects; a group often referred to by law enforcement as “persons-of-interest.”",
+          "episode": 6,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "House on the Hill",
+          "description": "On this episode of Framed, we’re going to focus on our material fact witnesses. The girlfriends, and ex-girlfriends. The close confidants, the classmates, the acquaintances, and the rivals.",
+          "episode": 7,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Snitches",
+          "description": "The task force interviewed every single person that spent time with their three juvenile suspects. Literally hundreds of inmates were interviewed and, by our count, at least forty of them provided relevant information to the task force. We aren’t going to go over every single statement from every single snitch, but we will go through enough of them to help you see the bigger picture.",
+          "episode": 8,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Veredictum",
+          "description": "The rules that govern what evidence is admissible and what is inadmissible can be complicated. Often times our common sense understanding of what a relevant fact is doesn’t line up with what the law allows jurors to hear. The gap between the two views can be vast. In this case, the evidence the jury used to reach their verdict was remarkably different than the evidence we’ve covered so far. On this episode of Framed, we’re going to explore why.",
+          "episode": 9,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Where There’s Smoke – Part 1",
+          "description": "The Framed Team has assembled the pieces to this jigsaw puzzle in a way that no one ever has, to reveal a picture no one’s ever seen. To the question, what exactly happened inside the Wat Promkunaram temple on a warm summer night in 1991… we have an answer, and we think we can prove it.",
+          "episode": 10,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        }
+      ]
+    }
+  ],
+  "image": "https://content.production.cdn.art19.com/images/80/9b/b1/23/809bb123-130c-4254-a9c1-e66cd2bc9d33/fe06b76bdce09c87166118a932e175e0fc893cf18ade7a553d88b00b1b6f162bf926fd32d722fca969d57e5f46362ea855609da4af886d3e14b766f38444a39b.png",
+  "updated": "2021-01-06T09:00:00.000Z"
+}

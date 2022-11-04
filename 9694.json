@@ -1,0 +1,125 @@
+{
+  "id": "9694",
+  "title": "Young Ben Franklin",
+  "description": "Before he was Benjamin Franklin, inventor and statesman, he was just Ben, a boy in Colonial Boston with an adventurous spirit, a curious mind...and a penchant for getting into trouble. Meet our most endearing founding father at fourteen; a charming rebel years away from discovering the ageless sayings and brilliant inventions that made him famous. When Ben and his friends stumble upon a mysterious letter leading to a legendary treasure, he'll have to use his wits and bravery to outsmart the cruel British governor of Massachusetts. For more great Gen-Z podcasts visit http://gzmshows.com",
+  "seasons": [
+    {
+      "season": 1,
+      "title": "Season 1",
+      "image": "https://content.production.cdn.art19.com/images/27/5c/b2/90/275cb290-4a0c-40e1-9015-a944ef3cdaa0/75ad4bd033275c81d5063e0259411e09ac77053b43c11ab68c7d3adc3734a31d161ac9b2b275ee7fba4f7361f1d9ba14b1e305dbbe6f10c40ab008508187ac9f.jpeg",
+      "episodes": [
+        {
+          "title": "The Peculiar Case of Veracity Quince",
+          "episode": 1,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "If the Shoe Fits",
+          "episode": 2,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "An Open and Closed Coffin",
+          "episode": 3,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "All the News",
+          "episode": 4,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Treasure Island",
+          "episode": 5,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Zeus’s Thunderbolts",
+          "episode": 6,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Root of all Evil",
+          "episode": 7,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Hanging Tree",
+          "episode": 8,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Mischief Night",
+          "episode": 9,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "A Declaration of Independence",
+          "episode": 10,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        }
+      ]
+    },
+    {
+      "season": 2,
+      "title": "Season 2",
+      "image": "https://content.production.cdn.art19.com/images/27/5c/b2/90/275cb290-4a0c-40e1-9015-a944ef3cdaa0/75ad4bd033275c81d5063e0259411e09ac77053b43c11ab68c7d3adc3734a31d161ac9b2b275ee7fba4f7361f1d9ba14b1e305dbbe6f10c40ab008508187ac9f.jpeg",
+      "episodes": [
+        {
+          "title": "New Kid in Town",
+          "description": "Ben arrives in Manhattan, where he’s greeted by some signature New York city hospitality. Searching for a publishing job, Ben finds himself at odds with Danny Quinn and the Dirty Dogs, the roughest, toughest gang in New York. ",
+          "episode": 1,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Tamer of Lightning",
+          "description": "Ben dazzles the Dirty Dogs with his command of science. Danny takes Ben on a tour of NYC, a place of great excitement and even greater danger. Ben meets the powerful Lord Billingsgate and his daughter, Amanda. Ben and new friend Hanna stumble upon a new mystery. ",
+          "episode": 2,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Law and Order",
+          "description": "Ben finds himself once again facing arrest and trial for a crime he didn’t commit. Can Hanna, Danny and the Dirty Dogs rescue him from a certain conviction?",
+          "episode": 3,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Blood Will Tell",
+          "description": "Ben uses his wits and bravery to make a daring escape from the law. But when Ben and Hanna return to the scene of the crime, they make a horrible discovery.",
+          "episode": 4,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Body",
+          "description": "Ben throws in his lot with the Dirty Dogs in an attempt to solve a mystery plaguing the city. An unexpected ally arrives with a secret. ",
+          "episode": 5,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Man on Fire",
+          "description": "Ben, Hanna and the Dirty Dogs attempt to print the truth, but Ben’s powerful enemies attempt to stop them at all costs. Ben decides to attend a party at a place where he is decidedly unwelcome.",
+          "episode": 6,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "High Society",
+          "description": "Ben and Hanna disguise themselves to attend Lord Billingsgate’s masked ball. But when Ben is discovered, he’s faced with a choice that could mean life or death. ",
+          "episode": 7,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Future of New York",
+          "description": "In the exciting season finale, Ben solves the mystery of George Williamson’s murder. But if he’s not careful, he might wind up the killer’s next victim. The future of New York City could depend on Ben and Hanna’s next move. ",
+          "episode": 8,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        }
+      ]
+    }
+  ],
+  "image": "https://content.production.cdn.art19.com/images/27/5c/b2/90/275cb290-4a0c-40e1-9015-a944ef3cdaa0/d8a37376115fa95a213434d69a98558cd0eb8c9bc2b24ae75157f6058464ed42c0c5b2ea099e6acbe89e28e20482a9789bff6333d338a8dd1b70cadc7e378e2d.jpeg",
+  "genres": [
+    "All",
+    "Kids and Family"
+  ],
+  "updated": "2022-04-13T07:01:00.000Z"
+}

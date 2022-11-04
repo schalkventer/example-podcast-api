@@ -1,0 +1,143 @@
+{
+  "id": "5968",
+  "title": "1865",
+  "description": "All episodes are available for free, with ad-free episodes available for Wondery+ subscribers. April 15, 1865. President Lincoln is dead and the country in turmoil. Secretary of War Edwin Stanton takes control, determined to bring the assassin to justice—but the hunt for John Wilkes Booth isn’t all that grips Stanton. Lincoln’s successor, Vice President Andrew Johnson, is likely to bend to southern interests and undo the very progress for which Lincoln died. Edwin Stanton must employ every bit of political wile he can muster to secure the future of the freed slaves, and the nation. Consumed by his conviction, Stanton will betray his friends, his honor, and the very constitution he is sworn to protect, all to steer the country towards justice. *** 1865 is an Airship production. Support this show to get early, ad-free access to episodes and more.",
+  "seasons": [
+    {
+      "season": 1,
+      "title": "Season 1",
+      "image": "https://res.cloudinary.com/dumslp4el/image/fetch/w_676,h_676/https://content.production.cdn.art19.com/images/ec/3b/a1/7a/ec3ba17a-7e3a-4ced-913b-3b13ecb1d3b8/f17fd8654df24c14989043e38adaeeed0e2a194abe0efd669261a98a12f5f4a63d831c4fb3391f2274ec882beebe77ca898209fab16bd28c513fd19f3c1fddad.jpeg",
+      "episodes": [
+        {
+          "title": "Sic Semper Tyrannis",
+          "description": "President Lincoln is mortally wounded. The nation is under attack. Secretary of War Edwin M. Stanton takes control and tries to protect Vice President Andrew Johnson.",
+          "episode": 1,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Star of Washington City",
+          "description": "After the discovery of a mysterious note from Booth to Johnson, Stanton goes on a hunt for the truth.",
+          "episode": 2,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Mars and Neptune",
+          "description": "With the manhunt for Booth underway and martial law secure, Stanton strikes a compromise to preserve Lincoln’s agenda, but a dark revelation threatens to upend his progress.",
+          "episode": 3,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Senator’s Daughter",
+          "description": "Stanton sets out to learn the truth about Lucy Hale, and finds opportunity in adversity.",
+          "episode": 4,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Author and Finisher",
+          "description": "As the hunt for Booth continues, Stanton has another problem on his hands: the last of the Rebel Generals wants terms of surrender.",
+          "episode": 5,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Skulduggery",
+          "description": "A startling revelation about Lucy Hale forces Stanton into a corner. The only way out is to convince Johnson to give him more power.",
+          "episode": 6,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "A Very Devil",
+          "description": "Stanton and Langston go to the mats with Johnson and Welles over the issue of reconstruction and the future of the Freedman.",
+          "episode": 7,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Little Stanton",
+          "description": "Secretary Seward is finally awake. Stanton’s old friend and ally proves to be a thorn in Stanton’s side.",
+          "episode": 8,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Trials and Tribulations",
+          "description": "The investigation into Booth’s conspirators leaves Stanton with a new challenge: prove the Rebels are behind the attack on Abraham Lincoln. With the trial of the conspirators underway, Johnson and Stanton go to war over the future of the country.",
+          "episode": 9,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "A Cost In Blood",
+          "description": "While Mary Surratt’s life hangs in the balance, Stanton struggles to find her son and prove his conspiracy.",
+          "episode": 10,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        }
+      ]
+    },
+    {
+      "season": 2,
+      "title": "Season 2",
+      "image": "https://res.cloudinary.com/dumslp4el/image/fetch/w_676,h_676/https://content.production.cdn.art19.com/images/27/ef/a0/19/27efa019-8ce6-4e39-ac16-641e77fed02e/c91ba93f8c6e9b15a3a9bea7e20cd6e67d2292983ef54390ba84eefcb43edcb9c6b5b34db6ce7f0e3e673183e64b7f5cc4cd69769f249aba8bfb9e5212d2c1af.jpeg",
+      "episodes": [
+        {
+          "title": "Prologue 1: The Man from Foggy Town",
+          "description": "Edwin Stanton sits down with a famous scribe to tell the story of the events that led to Johnson’s impeachment. ",
+          "episode": 1,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Prologue 2: Directing the Whirlwind",
+          "description": "General Ulysses S Grant finds himself caught in the middle of the struggle between Stanton and Johnson. ",
+          "episode": 2,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Prologue 3: The Second Front",
+          "description": "Listener note: this episode contains offensive racial language. Please be advised.",
+          "episode": 3,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Peaceful Transfer",
+          "description": "Listener note: this episode contains offensive racial language. Please be advised.",
+          "episode": 4,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Enforcement",
+          "description": "President Grant pushes congress for the power to protect the Freedmen's right to vote and to help install Joseph Rainey, the first black man elected to the House. He gets help from a black militia leader named Captain Jim Williams. ",
+          "episode": 5,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "In Plain Sight",
+          "description": "In the wake of Captain Williams’ murder, President Grant sends the K Troop cavalry to investigate the crime and take on the local chapter of the Ku Klux Klan.",
+          "episode": 6,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Justice",
+          "description": "When the situation below the Mason Dixon takes a turn for the worst, President Grant declares martial law, determined to stamp out the KKK.",
+          "episode": 7,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Enemy Within",
+          "description": "On the heels of the election of 1872, Grant launches a crusade to root out corruption. But his fight for good government is imperiled by the return of Andrew Johnson.",
+          "episode": 8,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Loyalty",
+          "description": "Grant’s presidency is imperiled when his newly appointed special prosecutor launches an investigation into Grant’s right-hand man, Orville Babcock. ",
+          "episode": 9,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Cincinnatus",
+          "description": "In this season finale, Grant’s decision to testify for Orville Babcock has disastrous consequences for the Freedmen.",
+          "episode": 10,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        }
+      ]
+    }
+  ],
+  "image": "https://content.production.cdn.art19.com/images/34/c9/4a/20/34c94a20-0ed5-4ace-adb7-a85f196c29a0/430e76ab492de6da0698405c1df8fcde27a1018622d8e0a99c7a2e8da0d88794878d53c1c36d6bfd8b450c156fdc12dd1cb19b15b9139db37ff8ef526f19b012.png",
+  "updated": "2021-07-13T08:00:00.000Z"
+}

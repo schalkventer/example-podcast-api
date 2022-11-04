@@ -1,0 +1,640 @@
+{
+  "id": "8860",
+  "title": "British Scandal",
+  "description": "In a country obsessed with gossip, the great and the good fear one thing more than any other - scandal. British scandals change the course of history. They bring down governments, overthrow the rich and cause the mighty to fall. Some are about sex, others about money. In the end, they’re all about power.  But often at the heart of a scandal, there are ordinary human stories, stories of those caught up in the swirl of outrage.  Who was really to blame for what happened? Why did they do it? And when all is said and done, did anything really change?    From the creators of Business Wars, American Scandal and Even The Rich, comes British Scandal. We tell the stories of the murkier side of the British elite, from Phone Hacking to Saville to Profumo who show us the reality of power, the price of pride and the failings of the great and good. Because sometimes the truth doesn’t set everyone free… New episodes come out every Wednesday for free, with 1-week early access for Wondery+ subscribers. Listen ad-free on Wondery+ or on Amazon Music with a Prime membership or Amazon Music Unlimited subscription.",
+  "seasons": [
+    {
+      "season": 1,
+      "title": "The Litvinenko Affair",
+      "image": "https://res.cloudinary.com/dumslp4el/image/fetch/w_676,h_676/https://content.production.cdn.art19.com/images/56/fc/2f/e1/56fc2fe1-fc0f-49eb-9a40-7bd0a3a580f6/e7bc98bd86516366f21dc57ec05c88bdc24d6adabee81bc7635f44bf82bdcab225b9f896d9cde119cf2379d976e6f899fc81c1eea2b95694cdd815f01c64e8f8.jpeg",
+      "episodes": [
+        {
+          "title": "The Litvinenko Affair | Poisoned",
+          "description": "In the first episode of our four part series, Russian dissident Alexander Litvinenko flees Moscow to live in exile in London, but he doesn’t know Russian agents are moving against him and there will be no billionaire to protect him.",
+          "episode": 1,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Litvinenko Affair | The Mysterious Edwin Carter",
+          "description": "As Sashais dying of a mysterious illness, time is running out for the police to get crucial information about his attackers. The race is on to find out who poisoned him and why.",
+          "episode": 2,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Litvinenko Affair | The Polonium Trail",
+          "description": "Police at Scotland Yard realise they’re not only dealing with the murder of one man…London is facing a full scale nuclear incident.",
+          "episode": 3,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Litvinenko Affair | The Russian Runaround",
+          "description": "The Litvinenko investigation moves to Moscow. If British police want to interview their chief suspects, they’ll need to get co-operation from the Russian authorities.",
+          "episode": 4,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Litvinenko Affair | Londongrad Today - Interview with Luke Harding",
+          "description": "Alice and Matt talk to journalist and author Luke Harding about what The Litvinenko Affair means today. Luke Harding is a foreign correspondent with the Guardian. Between 2007 and 2011 he was the Guardian's Moscow bureau chief. The Kremlin expelled him from the country in the first case of its kind since the cold war. He is the author of A Very Expensive Poison -The Definitive Story of the Murder of Litvinenko and Russia’s War with the West.",
+          "episode": 5,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        }
+      ]
+    },
+    {
+      "season": 2,
+      "title": "The Sexed Up Dossier",
+      "image": "https://res.cloudinary.com/dumslp4el/image/fetch/w_676,h_676/https://content.production.cdn.art19.com/images/d2/37/bb/c6/d237bbc6-30f0-43cd-a240-b17636cd5f23/878381e131add8eb4b51fb0b320eb6771032d0f0085033db30bb76ab01c6de27dd26d4aaae42b51337db4e0535ba72d29adc322901f6ae5c43881950b14efda4.jpeg",
+      "episodes": [
+        {
+          "title": "The Sexed Up Dossier | 45 Minutes From Doom",
+          "description": "UN Weapons Inspector David Kelly gets caught in the middle of a controversy over the British case for the Iraq War. He battles to save his reputation against warring factions in the government and the media.",
+          "episode": 1,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Sexed Up Dossier | Harrowdown Hill",
+          "description": "After tough questioning in Houses of Parliament, UN Weapons Inspector David Kelly goes missing.`",
+          "episode": 2,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Sexed Up Dossier | The Inquiry",
+          "description": "The Hutton Inquiry investigates Dr Kelly’s death. The government’s battle with the media comes to a head. Who can the public trust to tell the truth?",
+          "episode": 3,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Sexed Up Dossier | The Legacy of Iraq Today - Interview with Steve Richards",
+          "description": "Alice and Matt talk to journalist Steve Richards about the impact of the sexed up dossier row and its legacy today. Steve Richards covered the Blair premiership as a political journalist during the 2000s. He has written about Tony Blair in his new book The Prime Ministers, and in Blair & Iraq: Why Tony Blair Went To War - An Investigation. He also presents the podcast Rock n Roll Politics.",
+          "episode": 4,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        }
+      ]
+    },
+    {
+      "season": 3,
+      "title": "The Murdoch Phone Hacking",
+      "image": "https://res.cloudinary.com/dumslp4el/image/fetch/w_676,h_676/https://content.production.cdn.art19.com/images/be/60/85/df/be6085df-71c8-4619-a2e9-2fac644cf83b/5a24eb838755d1d8bfb712f968011b492e28ac12ab2a8884b89ab17f5a8dccaaee61aa029fbe26ea01625b66f5dbaa38bc29129b7c905982797f4f91c3007be7.jpeg",
+      "episodes": [
+        {
+          "title": "The Murdoch Phone Hacking | The Dark Arts",
+          "description": "Two ambitious journalists Rebekah Brooks and Andy Coulson rise through the ranks of The News Of The World - Britain’s biggest sunday tabloid. But the culture of ‘dark arts‘ threatens to bring everything down. ",
+          "episode": 1,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Murdoch Phone Hacking | Turning The Screws",
+          "description": "Rebekah Brooks and Andy Coulson become part of the British power elite. The victims of hacking start fighting back.",
+          "episode": 2,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Murdoch Phone Hacking | Death Of A Tabloid",
+          "description": "The news breaks that murder victim Milly Dowler was hacked. It sparks a public outcry. Rebekah Brooks fights to hold on to her job while Rupert Murdoch arrives to try to contain the outrage.",
+          "episode": 3,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Murdoch Phone Hacking | The Media On Trial",
+          "description": "Rebekah Brooks and Andy Coulson face difficult questions in court. Will justice be done? And how will the inquiry affect the future of Britain’s media?",
+          "episode": 4,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Murdoch Phone Hacking | Phone Hacking Today: Nick Davies Interview",
+          "description": "The journalist who broke the phone hacking story, Nick Davies joins Alice and Matt to talk about its legacy today. In 2011, Nick Davies reported the key stories that revealed the extent of the ‘dark arts’ at Rupert Murdoch’s newspapers. He is the author of the best selling account: Hack Attack: How The Truth Caught up with Rupert Murdoch. ",
+          "episode": 5,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        }
+      ]
+    },
+    {
+      "season": 4,
+      "title": "Breaking Barings",
+      "image": "https://res.cloudinary.com/dumslp4el/image/fetch/w_676,h_676/https://content.production.cdn.art19.com/images/94/42/a2/91/9442a291-c74c-4012-9194-25212660adff/2e0e7b79b2ee87351f61f2fd5483ff2502c390f3c7361be9fa4097753dd7bf0c3d4e91d7ba6db22266579ed63f36a4ea3521fa3c604c43a3387593cffde9bec7.jpeg",
+      "episodes": [
+        {
+          "title": "Breaking Barings | Under The Water",
+          "description": "Nick Leeson rises through the ranks of Barings Bank. When he moves to run the Singapore office, he notices a weakness in the system.",
+          "episode": 1,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Breaking Barings | In the Pit",
+          "description": "The losses in Nick Leeson’s secret account start to get out of hand. It means he needs to start taking even more risks.",
+          "episode": 2,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Breaking Barings | On the Run",
+          "description": "Barings Bank discover their most successful trader has left them penniless. The hunt is on to find Nick Leeson.",
+          "episode": 3,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Breaking Barings | Interview: John Gapper",
+          "description": "How can one man bring down a bank? Financial Times journalist John Gapper covered the Nick Leeson story at the time and co-wrote All That Glitters: The Fall of Barings. He joins Alice and Matt to talk about the phenomenon of the Rogue Trader.",
+          "episode": 4,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        }
+      ]
+    },
+    {
+      "season": 5,
+      "title": "The Profumo Affair",
+      "image": "https://res.cloudinary.com/dumslp4el/image/fetch/w_676,h_676/https://content.production.cdn.art19.com/images/5c/e9/8d/9d/5ce98d9d-56b7-4f1a-8c43-25c4e65940f0/5aaa2129fee2d9d99d62e5504835fb6314607e5172e65ed45bcf93d351e1c5d9121b65ca92a8b955d9ca8592f4aa1b3652b1cdb83f419cf5fe70b4a3f0b3c917.jpeg",
+      "episodes": [
+        {
+          "title": "The Profumo Affair | Sex, Lies and Spies",
+          "description": "Nineteen year old showgirl Christine Keeler meets the cabinet minister John Profumo at a high society pool party. It’s the beginning of their scandalous affair.",
+          "episode": 1,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Profumo Affair | War Games",
+          "description": "Jack Profumo goes to desperate measures to save his political career, while Stephen Ward tries to stop Christine Keeler selling her story.",
+          "episode": 2,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Profumo Affair | The Smoking Gun",
+          "description": "Christine Keeler goes from one risky affair to another – with dangerous consequences.",
+          "episode": 3,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Profumo Affair | Get Stephen",
+          "description": "The British establishment turn against Stephen Ward.",
+          "episode": 4,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Profumo Affair | A Man Without Morals",
+          "description": "A public inquiry into the Profumo affair gets underway, while Stephen Ward’s trial at the Old Bailey begins.",
+          "episode": 5,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Profumo Affair | Interview: Seymour Platt",
+          "description": "Christine Keeler’s son Seymour Platt joins us to talk about the impact the scandal had on his mum. He also talks about his campaign for her to be pardoned.",
+          "episode": 6,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        }
+      ]
+    },
+    {
+      "season": 6,
+      "title": "The Canoe Con",
+      "image": "https://res.cloudinary.com/dumslp4el/image/fetch/w_676,h_676/https://content.production.cdn.art19.com/images/1c/f2/9f/d7/1cf29fd7-486a-4df5-89db-3c04541b20a9/bab2945173aa0d43729331171a8ea747167a57445742eadd81e54b8f75669fe32c4a260c33d37d5e52ddc4f6e6579543a6664b7a2b31f554d388f803fd06fdc1.jpeg",
+      "episodes": [
+        {
+          "title": "The Canoe Con | Missing",
+          "description": "Prison officer John Darwin finds himself in debt and makes a drastic decision to fake his own death.",
+          "episode": 1,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Canoe Con | El Dorado",
+          "description": "The Darwins trick the police into thinking John’s dead and decide they need to flee the country.",
+          "episode": 2,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Canoe Con | Dead Man Walking",
+          "description": "John Darwin decides to come back from the dead and journalists begin to investigate his mysterious disappearance.",
+          "episode": 3,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Canoe Con | Interview: Tony Hutchinson",
+          "description": "We talk to the Superintendent who led the police investigation into John and Anne Darwin",
+          "episode": 4,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        }
+      ]
+    },
+    {
+      "season": 7,
+      "title": "Anarchy In The UK (Sex Pistols)",
+      "image": "https://res.cloudinary.com/dumslp4el/image/fetch/w_676,h_676/https://content.production.cdn.art19.com/images/af/27/20/22/af272022-62a7-4b02-872b-befbdd645068/81c9ddda5a9e2f8498d63e15a2f74bca331ca5ec58497d3910a861f324af3185091e5cc1a6bb69e9ccd68fd40917b1e0e7786faa66774579f56218066a4c2c60.jpeg",
+      "episodes": [
+        {
+          "title": "Anarchy In The UK (Sex Pistols) | The Wrong John",
+          "description": "Malcolm Mclaren is bored of his life running a clothes store. And so he decides to try and set up a band – a band, he hopes, who will rock the British establishment to its core.",
+          "episode": 1,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Anarchy In The UK (Sex Pistols) | God Save The Queen",
+          "description": "Malcolm Mclaren tries to rock the British establishment by releasing the Sex Pistols shocking new single on the day of the Queen’s Silver Jubilee. Only thing stopping him is the band’s addiction to causing chaos.",
+          "episode": 2,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Anarchy In The UK (Sex Pistols) | A Common Enemy",
+          "description": "The Sex Pistols behaviour becomes more and more erratic and Malcolm Mclaren makes a drastic decision to try and keep the band together.",
+          "episode": 3,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Anarchy In The UK (Sex Pistols) | Sid And Nancy",
+          "description": "With John gone Malcolm tries to make Sid the new lead singer. What he doesn't realise is Sid and Nancy's drug addiction and dependency is about to lead to tragedy.",
+          "episode": 4,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Anarchy In The UK (Sex Pistols) | Interview",
+          "description": "Malcolm Mclaren's biographer Paul Gorman talks to us about Mclaren's legacy and what it was like meeting the man back in the 1970s.",
+          "episode": 5,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        }
+      ]
+    },
+    {
+      "season": 8,
+      "title": "Lord Lucan",
+      "image": "https://res.cloudinary.com/dumslp4el/image/fetch/w_676,h_676/https://content.production.cdn.art19.com/images/06/ba/4d/73/06ba4d73-a49b-4d1b-a26b-93f71c1a6a97/5b547213081d93fd875bb63a8485ee9745bdefc460c10ed46f1560b076ceef6e25de307301f64473822b7683cd34f5ff72484424a08903bb8ca706c9ef78c5bb.jpeg",
+      "episodes": [
+        {
+          "title": "Lord Lucan | Born Lucky",
+          "description": "Lord Lucan and Veronica fall in love. But soon his gambling and her mental health problems threaten their blissful life.",
+          "episode": 1,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Lord Lucan | Murder In Belgravia",
+          "description": "After walking out on his wife, Lord Lucan has only one goal in mind – to gain custody of his children. But when Veronica fights back, he realizes he will have to go to extreme lengths to get his way.",
+          "episode": 2,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Lord Lucan | The Closed Circle",
+          "description": "After the murder of Sandra Rivett the police start hunting for Lord Lucan. Little do they know it's not just Lucan working against them but Britain's aristocracy as well.",
+          "episode": 3,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Lord Lucan | Interview",
+          "description": "Alice and Matt talk to Sandra Rivett's son Neil Berriman. He tells them about his decade long mission to get justice for his murdered mother.",
+          "episode": 4,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        }
+      ]
+    },
+    {
+      "season": 9,
+      "title": "The Litvinenko Affair",
+      "image": "https://res.cloudinary.com/dumslp4el/image/fetch/w_676,h_676/https://content.production.cdn.art19.com/images/97/40/0c/f2/97400cf2-534a-4d96-ba6e-7138aca840a4/2f5278d2d4cce22c00fa816090513668963cb1dd75ba5c46433bedca432aaed3502ed7ed6ef9241ca54fdfc81e262498a1b2a5f396d4b8fb678ace2bc854bdf8.jpeg",
+      "episodes": [
+        {
+          "title": "Encore: The Litvinenko Affair | Poisoned",
+          "description": "Russian dissident Alexander Litvinenko flees Moscow to live in exile in London, but he doesn’t know Russian agents are moving against him and there will be no billionaire to protect him.",
+          "episode": 1,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Encore: The Litvinenko Affair | The Mysterious Edwin Carter",
+          "description": "As Sasha fights a mysterious illness, time is running out for the police to get crucial information about his attackers. The race is on to find out who poisoned him and why.",
+          "episode": 2,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Encore: The Litvinenko Affair | The Polonium Trail",
+          "description": "Police at Scotland Yard realise they’re not only dealing with the murder of one man…London is facing a full scale nuclear incident.",
+          "episode": 3,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Encore: The Litvinenko Affair | The Russian Runaround",
+          "description": "The Litvinenko investigation moves to Moscow. If British police want to interview their chief suspects, they’ll need to get co-operation from the Russian authorities.",
+          "episode": 4,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Encore: The Litvinenko Affair | Interview",
+          "description": "Alice and Matt talk to journalist and author Luke Harding about what The Litvinenko Affair means today. Luke Harding is a foreign correspondent with the Guardian. Between 2007 and 2011 he was the Guardian's Moscow bureau chief. The Kremlin expelled him from the country in the first case of its kind since the cold war. He is the author of A Very Expensive Poison -The Definitive Story of the Murder of Litvinenko and Russia’s War with the West.",
+          "episode": 5,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        }
+      ]
+    },
+    {
+      "season": 10,
+      "title": "The Coughing Major",
+      "image": "https://res.cloudinary.com/dumslp4el/image/fetch/w_676,h_676/https://content.production.cdn.art19.com/images/9e/ff/d2/dc/9effd2dc-a638-4fcf-b48e-af5d777f587f/e6d58d7905aca0144501a0834a93d32d9282c33fea500312609221efdf20406a6802da00d4f3c956fcb22f86bcdf989a7bf0c236910918179d79a36e35e460af.jpeg",
+      "episodes": [
+        {
+          "title": "The Coughing Major | Let's Play Millionaire",
+          "description": "Diana Ingram is obsessed with tv quizzes. So obsessed she persuades her reluctant husband – army Major Charles Ingram – to try for the Who Wants To Be A Millionaire hotseat. How far will they go in their quest to win a million pounds?",
+          "episode": 1,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Coughing Major | In The Hot Seat",
+          "description": "Charles is in the hot seat but everyone thinks he will lose early. Little do the production staff or the audience know he has a secret strategy to win a million pounds.",
+          "episode": 2,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Coughing Major | From Riches To Rags",
+          "description": "Charles and Diana celebrate winning a million. But their lives are about to be broken apart when the police come knocking at their door.",
+          "episode": 3,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Coughing Major | Interview",
+          "description": "Alice and Matt interview the playwright James Graham. He wrote a hit play and tv show about the Ingrams. He talks about what it was like meeting the notorious couple and how he came to question the official narrative of what happened.",
+          "episode": 4,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        }
+      ]
+    },
+    {
+      "season": 11,
+      "title": "Maxwell",
+      "image": "https://res.cloudinary.com/dumslp4el/image/fetch/w_676,h_676/https://content.production.cdn.art19.com/images/d9/e5/11/d5/d9e511d5-c5fb-4f7b-b5ef-3902347891ae/f3ca5ccd56db2c410eb443c70daafb8c291530fcdee1adc98770a2104076820ee9c56d0d6b5fdceb203cc9d0c63fbc794af1ed92386afc814de39bb645eb6549.jpeg",
+      "episodes": [
+        {
+          "title": "Maxwell | The Outsider",
+          "description": "Robert Maxwell builds himself up from nothing to become one of the most powerful men in Britain. But can he defeat his ultimate rival – the British Establishment?",
+          "episode": 1,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Maxwell | Mirror Man",
+          "description": "Robert Maxwell buys Britain's second biggest tabloid. Will it help him defeat his rival Rupert Murdoch and give him the power and prestige he's always craved?",
+          "episode": 2,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Maxwell | Downfall",
+          "description": "Robert Maxwell's enemies are circling. Can he outrun them or will the Maxwell empire finally come crashing to the ground?",
+          "episode": 3,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Maxwell | Legacy Of Lies",
+          "description": "Robert Maxwell is dead. But how did he die? Was it suicide, an accident or even something more sinister? And will his children ever be able to overcome their toxic inheritance?",
+          "episode": 4,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Maxwell | Interview",
+          "description": "Matt and Alice talk to Roy Greenslade. He edited the Daily Mirror when Maxwell was the owner. He talks about what it was like to have Maxwell as a boss and the reason he thinks Maxwell's death was no accident.",
+          "episode": 5,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        }
+      ]
+    },
+    {
+      "season": 12,
+      "title": "Spy Cops",
+      "image": "https://res.cloudinary.com/dumslp4el/image/fetch/w_676,h_676/https://content.production.cdn.art19.com/images/48/5d/18/eb/485d18eb-d697-49f0-8008-1b4be470e2c5/08ea619ee5530c579dc1f029d7f93dc434f15d5eff7ef1e6256c8b5e96e6b3a18575c602af45ca77f6e3bec5e128b2defa014d0701386eb14bbf80415fbc8676.jpeg",
+      "episodes": [
+        {
+          "title": "Spy Cops | Undercover",
+          "description": "Mark Kennedy joins a secretive undercover police unit investigating left-wing political groups. But what happens when he gets in too deep?",
+          "episode": 1,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Spy Cops | The Truth",
+          "description": "Mark moves back in with Amy. But why is he acting so strangely? And what's up with the extra phone she finds in his glovebox.",
+          "episode": 2,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Spy Cops | The Other Women",
+          "description": "Amy has finally exposed Mark for being an undercover police officer. But when she finds out she isn't his only victim she joins a crusade to take down the Metropolitan Police.",
+          "episode": 3,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Spy Cops | Interview",
+          "description": "Matt and Alice talk to Alison. She tells the story of meeting a fellow activist called Mark Cassidy and falling in love. Little did she know he was in fact an undercover police officer. She is one of eight women who sued the police – and won – after they were tricked into relationships with members of the Metropolitan Police over the course of 25 years.",
+          "episode": 4,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        }
+      ]
+    },
+    {
+      "season": 13,
+      "title": "Archer",
+      "image": "https://res.cloudinary.com/dumslp4el/image/fetch/w_676,h_676/https://content.production.cdn.art19.com/images/43/97/b3/d4/4397b3d4-2f01-4da9-8742-6ac79ffbd2b3/d7483d11b979c60bd1fe8c69c4d83470679b8622a207817d0f6b2e2b8d563fef52b3f91f0c586c9ee3cfd340f3e6f7aec7e879eb17b8ce7d1d4010b35791458a.jpeg",
+      "episodes": [
+        {
+          "title": "Archer | Lord of the Lies",
+          "description": "Jeffrey Archer is a young and up and coming Tory politician. He dreams of becoming Prime Minister. But what happens when a newspaper accuses him of paying for sex?",
+          "episode": 1,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Archer | Mary Vs Monica",
+          "description": "Jeffrey Archer takes the witness stand in the libel trial of the century. He has two false alibis and a forged diary to help him prove he never slept with Monica Coghlan. But will the jury believe him or is his carefully constructed world about to come crashing down?",
+          "episode": 2,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Archer | From the Penthouse to the Jailhouse",
+          "description": "Jeffrey Archer is running for London Mayor and he thinks he can win. But is his web of lies about to come undone?",
+          "episode": 3,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Archer | Interview",
+          "description": "Alice and Matt talk to Adam Raphael. He's an author and a journalist and in 1987 he was subpoenaed to give evidence for The Daily Star in Archer’s libel trial. He discusses Archer's character, his political skill and how similar he is to a certain British Prime Minister.",
+          "episode": 4,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        }
+      ]
+    },
+    {
+      "season": 14,
+      "title": "Hatton Garden",
+      "image": "https://res.cloudinary.com/dumslp4el/image/fetch/w_676,h_676/https://content.production.cdn.art19.com/images/5b/f9/fc/79/5bf9fc79-fdc9-4982-b10c-3a0d5bf13380/2b19392ac0d42af4297f7bc83fc857dc864b748562cfecc0dd818356606ef1d39e5462ee8ac61edc55aedcf3d344f5dc90917465be67ce75d29733cd40a4baee.jpeg",
+      "episodes": [
+        {
+          "title": "Hatton Garden | The Plan",
+          "description": "Brian Reader has a dream – to pull off the biggest burglary in British history. But he can never quite find the right crew to do it. But then he becomes a pensioner and realizes it very well might be now or never.",
+          "episode": 1,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Hatton Garden | The Cabinet",
+          "description": "Reader and his gang of pensioners make it all the way to the vault but are thwarted at the last minute. Will they walk from the job or come back the next day risking everything to get their hands on the loot?",
+          "episode": 2,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Hatton Garden | The Diamond Wheezers",
+          "description": "It seems Reader and his crew have met their match in the form of Detective Sergeant Jamie Day. In a dramatic game of cat and mouse, will 'The Diamond Wheezers' manage to evade capture?",
+          "episode": 3,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Hatton Garden | Interview",
+          "description": "Matt and Alice talk to Martin Brunt, crime correspondent for Sky News. He was the first reporter to reach Hatton Garden after the break in and charted the developing story. He talks about what it was like to report on this case at the time, why it captured the public imagination, and his surprising correspondence with ringleader, Danny Jones.",
+          "episode": 4,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        }
+      ]
+    },
+    {
+      "season": 15,
+      "title": "Hitler Diaries",
+      "image": "https://res.cloudinary.com/dumslp4el/image/fetch/w_676,h_676/https://content.production.cdn.art19.com/images/69/72/27/be/697227be-f90f-40bd-87cd-3404a396fb98/a78c8a15b0c85dbc7597e21621e162b8535ce0f560ba85133fda1ffb95f1ee190e79cbaff660549c47e7a5bd0e4eaf91f6f1e61ed0cc9105dbe8f13f02ff4ad1.jpeg",
+      "episodes": [
+        {
+          "title": "Hitler Diaries | Operation Green Vault",
+          "description": "Journalist Gerd Heidemann is searching for his next story for Stern magazine when the scoop of the century lands in his lap. But is it too good to be true?",
+          "episode": 1,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Hitler Diaries | Hitler for Sale",
+          "description": "Excited by the prospect of the diaries being real, Rupert Murdoch sends famed historian Hugh Trevor-Roper to verify them. However, as doubts and pressure mount up, what will Trevor-Roper decide to tell the world - real or fake?Listen early and ad free with Wondery+. Join Wondery+ for exclusives, binges, early access, and ad free listening. Available in the Wondery App. https://wondery.app.link/britishscandal",
+          "episode": 2,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Hitler Diaries | Hoaxed",
+          "description": "The stories around the diaries and their authenticity begin to unravel. For all the people who have their reputations and their livelihoods on the line, who will survive this humiliating scandal? And who, when the dust settles, will still come out on top?",
+          "episode": 3,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Hitler Diaries | Interview",
+          "description": "Matt and Alice speak to Robert Harris, best-selling writer and author of the definitive account of the scandal, 'Selling Hitler'. They discuss the scandal's farcical cast of characters, its impact on 'Fake News' culture, and the crudeness of the forgeries themselves.",
+          "episode": 4,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        }
+      ]
+    },
+    {
+      "season": 16,
+      "title": "Abdication",
+      "image": "https://res.cloudinary.com/dumslp4el/image/fetch/w_676,h_676/https://content.production.cdn.art19.com/images/f0/00/4c/06/f0004c06-ca83-41b1-ae5f-ca698e1a1c3b/eaaf1694447018334aafc7d7286504f054234e36ee71301db45ac5e648fb42df99fd9173d6d6ec28f55f9f1085a704c86d498dff440fb8af23bd3c1ea04fcd34.jpeg",
+      "episodes": [
+        {
+          "title": "Abdication | Wally",
+          "description": "When Prince of Wales and heir to the British throne, Edward, meets the twice-divorced ‘poor relation’ of Baltimore aristocracy, he’s captivated by her boldness, her confidence and total disinterest in tradition. But his family, and the British government, are determined to put a stop to the match.",
+          "episode": 1,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Abdication | The Decision",
+          "description": "When King Edward VIII announces his intentions to marry Wallis Simpson, politicians, his people and his own family are clear; it's Wallis or the crown. And it’s not just Britain’s government for whom the stakes are high…",
+          "episode": 2,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Abdication | The Traitor King",
+          "description": "In the late 1930’s, with England turning their back on their former King and World War II looming, the Duke and Duchess of Windsor face an existential choice: stay loyal to Britain, or side with the enemy?",
+          "episode": 3,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Abdication | Interview",
+          "description": "Alice and Matt interview literary agent and biographer Andrew Lownie, author of 'Traitor King: The Duke and Duchess of Windsor in Exile'. He talks about the myth of Edward and Wallace's 'great romance' and his groundbreaking research into the couple's connections with the Nazi party.",
+          "episode": 4,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        }
+      ]
+    },
+    {
+      "season": 17,
+      "title": "The Spy Who Came Back From The Dead",
+      "image": "https://res.cloudinary.com/dumslp4el/image/fetch/w_676,h_676/https://content.production.cdn.art19.com/images/a5/9c/ac/39/a59cac39-f082-4193-b0d7-37348894fe3b/863ed12a74af0a3db3ecc520eb3b9d6e5ffff0c178ed378122d6b2590a547e6a6b709f369734a5b351f7a2700224bb601735ec94a97a4662aa2558af76d2c878.jpeg",
+      "episodes": [
+        {
+          "title": "The Spy Who Came Back From The Dead | Agent Twister",
+          "description": "John Stonehouse is one of the most promising young Labour politicians in England - handsome and charismatic, with the political background to match. But when he catches the eye of the Czech secret service, Stonehouse falls into a dangerous game of cat and mouse.",
+          "episode": 1,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Spy Who Came Back From The Dead | Missing Presumed Dead",
+          "description": "As John's political, marital and financial woes spiral, he's desperate to find an escape route. Then he reads a book and has a crazy idea...",
+          "episode": 2,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Spy Who Came Back From The Dead | Twister Returns",
+          "description": "John makes a daring escape - little does he know, police across the world are piecing together his bizarre disappearance. Soon, John's lies and deception begin to unravel: is this the end of the road for Agent Twister?",
+          "episode": 3,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Spy Who Came Back From The Dead | Interview",
+          "description": "Alice and Matt speak to Julian Hayes, John Stonehouse's grand-nephew and author of 'Stonehouse: Cabinet Minister, Fraudster, Spy'. They discuss the allegations surrounding Stonehouse's involvement with the Czechs, his family's reaction to the disappearance, and the time he tried to egg his grand-uncle.",
+          "episode": 4,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        }
+      ]
+    },
+    {
+      "season": 18,
+      "title": "The Queen of Clean",
+      "image": "https://res.cloudinary.com/dumslp4el/image/fetch/w_676,h_676/https://content.production.cdn.art19.com/images/0c/4a/f4/8b/0c4af48b-c816-4d1c-a371-5272d993e60d/332361a35f55f0060e1014e924831fa7b01139f3badd636fdc26b83c446e2016fad77a2c1b60264ade68a969d0d982b2423c851d8924cef242dfdd389691efb3.jpeg",
+      "episodes": [
+        {
+          "title": "The Queen of Clean | No Sex, Please!",
+          "description": "In the early 1960s, a housewife from Birmingham is shocked by the changing tide of culture, and decides to do something about it. Mary Whitehouse goes up against her first adversary: the BBC and its liberal Director General, Sir Hugh Carleton Greene. In a battle for the future of the BBC, who will win?",
+          "episode": 1,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Queen of Clean | Courting Disaster",
+          "description": "Mary’s fight moves beyond television to remodeling the whole moral outlook of Britain – via the courtroom. But when she targets the gay community, Mary underestimates the backlash that’s to come. Are Mary Whitehouse's campaigning days over?",
+          "episode": 2,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Queen of Clean | Yes, Prime Minister",
+          "description": "Mary finds an ally in the most powerful person in the country - Margaret Thatcher. But how long will their allegiance last?",
+          "episode": 3,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Queen of Clean | Interview",
+          "description": "Matt and Alice speak to David Dimbleby, one of the BBC's most illustrious broadcasters. David reflects on his early years at the BBC, when Mary Whitehouse was beginning her battle against the corporation, and recalls a day he spent interviewing Mary in the 1970s.",
+          "episode": 4,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        }
+      ]
+    },
+    {
+      "season": 19,
+      "title": "Boris Johnson",
+      "image": "https://res.cloudinary.com/dumslp4el/image/fetch/w_676,h_676/https://content.production.cdn.art19.com/images/92/f4/2f/e1/92f42fe1-e3fe-4d37-90df-bf8f08f2e6a1/f93b1c5c949dcf404bb4db311ed9751aa61876308a696a42a2cad7ef0c712f52f13b047fd9c952966fd47e0dcd7ddfbcc2be24064938dced7551e6ebfcc68c91.jpeg",
+      "episodes": [
+        {
+          "title": "Boris Johnson | Who's The Blondest?",
+          "description": "Alexander Boris de Pfeffel Johnson has one goal: to be king of the world. After all, everyone tells him he's capable of it - his dysfunctional parents, his elite teachers, his affluent friends. But as he faces his first public scandal, will he be able to weather the storm?",
+          "episode": 1,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Boris Johnson | Mayor On A Zipwire",
+          "description": "It's 2008: Boris is vying for the role of Mayor of London, all the while keeping the top job in his sights. Despite blunders in Beijing, a tumultuous and highly publicized personal life, and that zipwiring incident, Boris seems unstoppable. But with a history-altering referendum on the horizon, Boris faces an existential choice - remain, or leave?",
+          "episode": 2,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Boris Johnson | Leave Means Leave",
+          "description": "Boris has never been more popular as he leads the successful Leave campaign during the Brexit referendum. He couldn't be in a stronger position to become Prime Minister...until an old ally turns into an adversary. But when new PM Theresa May gives him a surprise top cabinet job, how will Boris use his new position to his advantage? ",
+          "episode": 3,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        }
+      ]
+    }
+  ],
+  "image": "https://content.production.cdn.art19.com/images/be/95/68/28/be956828-0cc8-4d16-986f-b81142129bd3/bdc59126cd5707aee511313b8e246428364b62229f8243c4deab8f5721425478c9fcb4224cd0369f8001cde85dbe4c3106d31ed914e414a18208a29386e88317.png",
+  "genres": [
+    "All",
+    "Featured",
+    "History",
+    "True Crime and Investigative Journalism"
+  ],
+  "updated": "2022-11-01T23:01:00.000Z"
+}

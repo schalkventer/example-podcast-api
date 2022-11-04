@@ -1,0 +1,99 @@
+{
+  "id": "9739",
+  "title": "The Rez",
+  "description": "Set in a very strange future where everything seems perfect but is actually completely wonky! Preen, a show-offy influencer, and sensible Sav try to outsmart the wicked A.I. JEF who runs their world. Together they find an ancient phone that can communicate with kids in the past (Pastlings - that’s you!) who teach them about weird ancient ideas like kindness, friendship and how nature isn't really that terrifying. JEF hates all these things and sends robots, drones and other future gizgads to try and stop them!   The Rez is a multi-award winning series with top quality jokes, a brilliant UK cast, funky sound, and some secret messages about life, kindness and looking after each other. The Rez is a production of Rezilience Ltd. (supported by Arts Council England), in partnership with Gen-Z Media.",
+  "seasons": [
+    {
+      "season": 1,
+      "title": "Season 1",
+      "image": "https://content.production.cdn.art19.com/images/5b/c8/0a/e6/5bc80ae6-4e4f-45d5-9230-8229b1e20621/68be9bd0fb4de5c56d45b4215c828454395afc8909b095d0d64b65766fbd95691b00b9438a171d83207ecd934c46404044070d14304947fc59b62fe34540eb91.jpeg",
+      "episodes": [
+        {
+          "title": "Preen Supreme",
+          "description": "Meet Preen who needs to be the most influential influencer who ever influenced, Sav who just wants to find out what happened to her Gran, and JEF, the “helpful” AI who wants to run the world. The Rez is a production of Rezilience LTD, in partnership with Gen-Z Media and PRX. For more visit http://jointherez.com or http://gzmshows.com.",
+          "episode": 1,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Sav Smarts",
+          "description": "When Sav and Preen find Gran’s secret stash of forbidden “old tech,” what mysteries will she have left for them?  The Rez is a production of Rezilience LTD, in partnership with Gen-Z Media and PRX. For more visit http://jointherez.com or http://gzmshows.com.",
+          "episode": 2,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Friend Hunt",
+          "description": "Sav is in a sulk with her Dad, while Preen has some great ideas about how he can get himself some real friends.  The Rez is a production of Rezilience LTD, in partnership with Gen-Z Media and PRX. For more visit http://jointherez.com or http://gzmshows.com.",
+          "episode": 3,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Bad Dad",
+          "description": "Preen tries to get Sav and her Dad talking again, but is it really a good idea to get JEF’s help? The Rez is a production of Rezilience LTD, in partnership with Gen-Z Media and PRX. For more visit http://jointherez.com or http://gzmshows.com.",
+          "episode": 4,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "School's Out",
+          "description": "Can Sav get Preen to leave the city and brave the wilds in search of an actual “school”?  The Rez is a production of Rezilience LTD, in partnership with Gen-Z Media and PRX. For more visit http://jointherez.com or http://gzmshows.com.",
+          "episode": 5,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Tam Teaches",
+          "description": "Tam has set up a “school” in the wilds, but really, can anyone teach Preen anything? The Rez is a production of Rezilience LTD, in partnership with Gen-Z Media and PRX. For more visit http://jointherez.com or http://gzmshows.com.",
+          "episode": 6,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Fart Cow",
+          "description": "While Preen gets into crafting with the block building bunch, Sav has to take down a nosey intruder at the cave. The Rez is a production of Rezilience LTD, in partnership with Gen-Z Media and PRX. For more visit http://jointherez.com or http://gzmshows.com.",
+          "episode": 7,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Krispy Kreates",
+          "description": "When a giant Fart Cow gets hijacked by JEF can Sav figure out a way to take it down? The Rez is a production of Rezilience LTD, in partnership with Gen-Z Media and PRX. For more visit http://jointherez.com or http://gzmshows.com.",
+          "episode": 8,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "GabFace",
+          "description": "With the net down and JEF gone Preen and Sav are feeling cut-off, can the mysterious NYE help them be less lonely?  The Rez is a production of Rezilience LTD, in partnership with Gen-Z Media and PRX. For more visit http://jointherez.com or http://gzmshows.com.",
+          "episode": 9,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The End is NYE",
+          "description": "When things get really weird in GabFace, can some old friends help Preen and Sav shut it down? The Rez is a production of Rezilience LTD, in partnership with Gen-Z Media and PRX. For more visit http://jointherez.com or http://gzmshows.com.",
+          "episode": 10,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        }
+      ]
+    },
+    {
+      "season": 2,
+      "title": "Season 2",
+      "image": "https://content.production.cdn.art19.com/images/5b/c8/0a/e6/5bc80ae6-4e4f-45d5-9230-8229b1e20621/68be9bd0fb4de5c56d45b4215c828454395afc8909b095d0d64b65766fbd95691b00b9438a171d83207ecd934c46404044070d14304947fc59b62fe34540eb91.jpeg",
+      "episodes": [
+        {
+          "title": "NewsBuddy",
+          "description": "The super naughty new A.I. JEF-LON is trying to control humanity (again), while Sav finds out some secrets about her sneaky missing Gran and Preen fiddles with a new button on the Phone! It's called an E.K.P.... what's that all about?",
+          "episode": 1,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "The Great Divide",
+          "description": "Preen and Sav need to find out what's happened to Gran, so they sneak into Judicious Engineering to find out.  We hope you're enjoying this new season of The Rez, if you are please leave us a tipty topty review online - it'll make us feel warm and fluffy when we read it!",
+          "episode": 2,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        }
+      ]
+    }
+  ],
+  "image": "https://content.production.cdn.art19.com/images/5b/c8/0a/e6/5bc80ae6-4e4f-45d5-9230-8229b1e20621/79aa8d3f74c0350a905fcebd143e652e12c64e44f928a1a33e094819b1df65c79832f0275f8c6cb47fef5e4344c69c27b52ca9bbcf038598bbd43e054613b5ef.jpeg",
+  "genres": [
+    "All",
+    "Kids and Family"
+  ],
+  "updated": "2022-11-01T07:01:00.000Z"
+}

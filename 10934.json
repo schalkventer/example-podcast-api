@@ -1,0 +1,148 @@
+{
+  "id": "10934",
+  "title": "WeWow",
+  "description": "Hosted by Mindy Thomas and Guy Raz of  Wow in the World, WeWow  is a project-based learning podcast with activities curious kids and grownups can bring to life in their world! Built around themes like Earth Day, Back-to-school, Black History Month and Summer Camp,  WeWow  invites kids to tinker like real scientists by trying experiments or activities at home and sharing their findings through photos, videos, or audio recordings.",
+  "seasons": [
+    {
+      "season": 1,
+      "title": "Camp WeWow 2021",
+      "image": "https://content.production.cdn.art19.com/images/e0/ba/41/4d/e0ba414d-7805-4435-bcdb-87ef5ccab9a1/69642fbcd4dcc5dff0d9b20d2d611f2e5db1373abce7d035ed19848806ee70c0d6f15a6cc4447c18be5b4a2949bb6a36e3ccbb82ecc4e03541a9d4e2b387b5b4.jpeg",
+      "episodes": [
+        {
+          "title": "Camp WeWow Magic Week Day 5",
+          "description": "It's the last day of camp here at Camp WeWow! Today, we're featuring your camper call-ins around the Camp WeWow campfire! You can redeem your Magic Week badge at tinkercast.com/camp, and share what you discovered with us this summer at tinkercast.com/share! Safe travels, campers!",
+          "episode": 1,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Camp WeWow Magic Week Day 4",
+          "description": "It's Magic Week at Camp WeWow! Today, we're using science to magically stick a straw through a potato!! Visit tinkercast.com/resource/experiment-stick-a-straw-through-a-potato for directions to today's activity and share what you're tinkering with at tinkercast.com/share! What's your favorite Camp WeWow memory?! Call us at 1-888-7WOW-WOW to share what you've loved about Camp WeWow! You just might get featured around the Camp WeWow Campfire this Friday!",
+          "episode": 2,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Camp WeWow Magic Week Day 3",
+          "description": "It's Magic Week at Camp WeWow! Today, we're learning about refraction!! Visit tinkercast.com/resource/activity-magic-drawing for directions to today's activity and share what you're tinkering with at tinkercast.com/share! What's your favorite Camp WeWow memory?! Call us at 1-888-7WOW-WOW to share what you've loved about Camp WeWow! You just might get featured around the Camp WeWow Campfire this Friday!",
+          "episode": 3,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Camp WeWow Magic Week Day 2",
+          "description": "It's Magic Week at Camp WeWow! Today, we're making our own invisible ink!! Visit tinkercast.com/resource/activity-create-your-own-invisible-ink for directions to today's activity and share what you're tinkering with at tinkercast.com/share! What's your favorite Camp WeWow memory?! Call us at 1-888-7WOW-WOW to share what you've loved about Camp WeWow! You just might get featured around the Camp WeWow Campfire this Friday!",
+          "episode": 4,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Camp WeWow Magic Week Day 1: Eyes on the Behind",
+          "description": "It's Magic Week at Camp WeWow! Today, we're listening to one of our favorite episodes of Wow in the World, \"Eyes on the Behind!\" This week, we've got a few tricks up our sleeve with crafts, activities, and games for you, so be sure to check back for more tomorrow! Visit tinkercast.com/camp for directions to our daily activities and challenges. You can share your tinkerings and tales with us at tinkercast.com/share and at 1-888-7WOW-WOW for the chance to be featured at the “campfire” this Friday!",
+          "episode": 5,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Camp WeWow Shark Week Day 5",
+          "description": "It's the last day of Shark Week here at Camp WeWow! Today, we're featuring your camper call-ins around the Camp WeWow campfire! We'll see you back next week with brand new crafts, activities, experiments and more! But until then, head to tinkercast.com/camp to catch up on this week's activities and to print your Shark Week Badge! Then, share what you discovered with us at tinkercast.com/share!",
+          "episode": 6,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Camp WeWow Shark Week Day 4",
+          "description": "It's Shark Week at Camp WeWow! Today, we're playing a round of Two Whats and A Wow!! Visit tinkercast.com/resource/game-two-whats-and-a-wow-the-shark-edition to today's activity and share what you're tinkering with at tinkercast.com/share! Have you overcome a fear?! Call us at 1-888-7WOW-WOW to share how you learned to tackled one of your fears! You just might get featured around the Camp WeWow Campfire this Friday!",
+          "episode": 7,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Camp WeWow Shark Week Day 3",
+          "description": "It's Shark Week at Camp WeWow! Today, we're playing Sharks and Minnows!! Visit tinkercast.com/resource/game-sharks-minnows to today's activity and share what you're tinkering with at tinkercast.com/share! Have you overcome a fear?! Call us at 1-888-7WOW-WOW to share how you learned to tackled one of your fears! You just might get featured around the Camp WeWow Campfire this Friday!",
+          "episode": 8,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Camp WeWow Shark Week Day 2",
+          "description": "It's Shark Week at Camp WeWow! Today, we're learning about shark buoyancy!! Visit tinkercast.com/resource/experiment-how-in-the-wow-do-sharks-float-2 to today's activity and share what you're tinkering with at tinkercast.com/share! Have you overcome a fear?! Call us at 1-888-7WOW-WOW to share how you learned to tackled one of your fears! You just might get featured around the Camp WeWow Campfire this Friday!",
+          "episode": 9,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Camp WeWow Shark Week Day 1: Scaredy Sharks and The Science of Fear",
+          "description": "It's Shark Week at Camp WeWow! Today, we're listening to one of our favorite episodes of Wow in the World, \"Scaredy Sharks and The Science of Fear!\" This week, we're swimming with crafts, activities, and games for you, so be sure to check back for more tomorrow! Visit tinkercast.com/camp for directions to our daily activities and challenges. You can share your tinkerings and tales with us at tinkercast.com/share and at 1-888-7WOW-WOW for the chance to be featured at the “campfire” this Friday!",
+          "episode": 10,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        }
+      ]
+    },
+    {
+      "season": 2,
+      "title": "Camp WeWow 2022",
+      "image": "https://content.production.cdn.art19.com/images/e0/ba/41/4d/e0ba414d-7805-4435-bcdb-87ef5ccab9a1/69642fbcd4dcc5dff0d9b20d2d611f2e5db1373abce7d035ed19848806ee70c0d6f15a6cc4447c18be5b4a2949bb6a36e3ccbb82ecc4e03541a9d4e2b387b5b4.jpeg",
+      "episodes": [
+        {
+          "title": "Camp WeWow - Spider Week Day 5: Spider-cise!",
+          "description": "It's Day 5 of Spider Week, and we're hearing from campers who called in! To print your Web Weaver badge, head to tinkercast.com/camp. Thanks for joining us at Camp WeWow this summer! You can join Mindy and Guy Raz on more scientific adventures by listening to \"Wow in the World\" for episodes every Monday and Friday. Happy trails, Campers!",
+          "episode": 1,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Camp WeWow - Spider Week Day 4: Spider Superpowers",
+          "description": "It's Day 4 of Spider Week here at Camp WeWow. Today, we're playing Spider Superpowers! Want to try this activity in your neck of the woods? Visit tinkercast.com/camp for instructions. Then, come back tomorrow for a new episode of Camp WeWow as we work our way towards our Web Weaver Badge! Call us at 1-888-7WOW-WOW with what's WOWing you this week!",
+          "episode": 2,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Camp WeWow - Spider Week Day 3: Spider Friend",
+          "description": "It's Day 3 of Spider Week here at Camp WeWow. Today, we're making our own spider friends! Want to try this activity in your neck of the woods? Visit tinkercast.com/camp for instructions. Then, come back tomorrow for a new episode of Camp WeWow as we work our way towards our Web Weaver Badge! Call us at 1-888-7WOW-WOW with what's WOWing you this week!",
+          "episode": 3,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Camp WeWow - Spider Week Day 2: Sticky Spider Web",
+          "description": "It's Day 2 of Spider Week here at Camp WeWow. Today, we're trying the Sticky Spider Web Experiment! Want to try this activity in your neck of the woods? Visit tinkercast.com/camp for instructions. Then, come back tomorrow for a new episode of Camp WeWow as we work our way towards our Web Weaver Badge! Call us at 1-888-7WOW-WOW with what's WOWing you this week!",
+          "episode": 4,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Camp WeWow - Spider Week Day 1: Extreme Makeover Spider Edition",
+          "description": "Welcome back to Camp WeWow! Today, we're listening to a favorite episode of Wow in the World, \"Extreme Makeover: Spider Edition\" Click the follow button to get notified for new episodes of Camp WeWow! We'll see you right back here all week long for crafts, experiments, games and more.",
+          "episode": 5,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Camp WeWow - Games Week Day 5: Wewolympics Closing Ceremony",
+          "description": "It's Day 5 of Game Week, and we're hearing from campers who called in! To print your Golden Pool Noodle badge, head to tinkercast.com/camp. Then, come back next Monday for brand new episodes of Camp WeWow!",
+          "episode": 6,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Camp WeWow - Games Week Day 4: What in the WOW",
+          "description": "It's Day 4 of Game Week here at Camp WeWow. Today, we're playing What in The Wow! Want to try this activity in your neck of the woods? Visit tinkercast.com/camp for instructions. Then, come back tomorrow for a new episode of Camp WeWow as we work our way towards our Golden Pool Noodle Badge! Call us at 1-888-7WOW-WOW with what's WOWing you this week!",
+          "episode": 7,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Camp WeWow - Games Week Day 3: Wowopoly",
+          "description": "It's Day 3 of Game Week here at Camp WeWow. Today, we're playing Wowopoly! Want to try this activity in your neck of the woods? Visit tinkercast.com/camp for instructions. Then, come back tomorrow for a new episode of Camp WeWow as we work our way towards our Golden Pool Noodle Badge! Call us at 1-888-7WOW-WOW with what's WOWing you this week!",
+          "episode": 8,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Camp WeWow - Games Week Day 2: The Great Escape Room",
+          "description": "It's Day 2 of Game Week here at Camp WeWow. Today, we're in an escape room! Want to try this activity in your neck of the woods? Visit tinkercast.com/camp for instructions. Then, come back tomorrow for a new episode of Camp WeWow as we work our way towards our Golden Pool Noodle Badge! Call us at 1-888-7WOW-WOW with what's WOWing you this week!",
+          "episode": 9,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        },
+        {
+          "title": "Camp WeWow - Games Week Day 1: Gaming Your Way to Zen",
+          "description": "Welcome back to Camp WeWow! Today, we're listening to a favorite episode of Wow in the World, \"Gaming Your Way to Zen\" Click the follow button to get notified for new episodes of Camp WeWow! We'll see you right back here all week long for crafts, experiments, games and more.",
+          "episode": 10,
+          "file": "https://podcast-api.netlify.app/placeholder-audio.mp3"
+        }
+      ]
+    }
+  ],
+  "image": "https://content.production.cdn.art19.com/images/e0/ba/41/4d/e0ba414d-7805-4435-bcdb-87ef5ccab9a1/25d3351125c43b70beff87de28397fbcf5ea1a7d86d8d2b14ebd0226c8c6ffdb7a723df7a86475d6165c391f4b838fbcc4b6da05f380dc94af40f2b168e99945.jpeg",
+  "genres": [
+    "All",
+    "Featured",
+    "Kids and Family"
+  ],
+  "updated": "2022-10-27T07:01:00.000Z"
+}
