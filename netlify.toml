@@ -1,17 +1,17 @@
 
 [[redirects]]
-  from = "/shows/*"
-  to = "/shows.json"
+  from = "/"
+  to = "/previews.json"
   status = 200
 
 [[redirects]]
-  from = "/id/:splat/*"
+  from = "/show/:splat/*"
   to = "/shows/:splat.json"
   status = 200
   
 [[redirects]]
   from = "/genre/:splat/*"
-  to = "/genres/:splat.json"
+  to = "/genre/:splat.json"
   status = 200
 
 [[headers]]

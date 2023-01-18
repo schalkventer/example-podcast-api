@@ -6,8 +6,8 @@
         "seasons": 14,
         "image": "https://content.production.cdn.art19.com/images/cc/e5/0a/08/cce50a08-d77d-490e-8c68-17725541b0ca/9dcebd4019d57b9551799479fa226e2a79026be5e2743c7aef19eac53532a29d66954da6e8dbdda8219b059a59c0abe6dba6049892b10dfb2f25ed90d6fe8d9a.jpeg",
         "genres": [
-            "Personal Growth",
-            "Investigative Journalism"
+            1,
+            2
         ],
         "updated": "2022-11-03T07:00:00.000Z"
     },
@@ -18,7 +18,7 @@
         "seasons": 12,
         "image": "https://content.production.cdn.art19.com/images/5a/4f/d4/19/5a4fd419-11af-4270-b31c-2c7ed2f563a5/bc913bc926be23d04c9a4d29a829269a753be3d2612dad91f7e92ba4618fefc5c8802af29a1d32b3261eb03f83613e2535e3c574469b0cb510c32cd8d94cfaa1.png",
         "genres": [
-            "Investigative Journalism"
+            2
         ],
         "updated": "2022-11-01T10:00:00.000Z"
     },
@@ -29,7 +29,7 @@
         "seasons": 51,
         "image": "https://content.production.cdn.art19.com/images/a4/8f/53/79/a48f5379-a90e-4197-915c-c0645e0d9336/8d9e6ebc4d65a9575fa626318e426fcf8be7f98ea0c1b7b103de2b32def46ded57537627d80b36f55edf7c9a8ad639bd9816f68c79b56845203a0b5bc4a63a55.png",
         "genres": [
-            "History"
+            3
         ],
         "updated": "2022-11-02T07:01:00.000Z"
     },
@@ -40,7 +40,7 @@
         "seasons": 3,
         "image": "https://content.production.cdn.art19.com/images/19/f4/f9/af/19f4f9af-4a18-44e1-a622-726f43feb79d/539a50f79529628dbde7aa116778056619b802bfa0247cb739db907085e0b595a5521efc78faa831ebddc235d69beb27e1e36fd51f825bc888f0c11cccbd9cd8.png",
         "genres": [
-            "Investigative Journalism"
+            2
         ],
         "updated": "2022-10-24T07:01:00.000Z"
     },
@@ -51,8 +51,8 @@
         "seasons": 2,
         "image": "https://content.production.cdn.art19.com/images/68/4e/03/af/684e03af-29c5-4a35-b84a-d929f114caee/4f60eec3fabd62251d0cdbd1af11b79c43fb1465dbc5ec3371328fbddadee597e9f115c31b079e20266648ee07a80a93c01cecdb81ab3545d872393997594ef3.png",
         "genres": [
-            "History",
-            "Investigative Journalism"
+            3,
+            2
         ],
         "updated": "2022-11-01T07:03:00.000Z"
     },
@@ -63,9 +63,9 @@
         "seasons": 33,
         "image": "https://content.production.cdn.art19.com/images/c3/55/d2/da/c355d2da-f845-47df-a4e6-22b70a5082bb/c290fe89d3a699dd5c316f5f4cfe2ca942183cef5d6ac4fc2d7d6df296690c9e7183f79422dcb0b37af7c7e7e59de0e36cddd3b01500bf066a470614c9a0af6d.png",
         "genres": [
-            "Comedy",
-            "Entertainment",
-            "History"
+            4,
+            5,
+            3
         ],
         "updated": "2022-11-01T07:08:00.000Z"
     },
@@ -76,7 +76,7 @@
         "seasons": 19,
         "image": "https://content.production.cdn.art19.com/images/a3/77/2c/e4/a3772ce4-34f7-431d-bf80-968f555b7003/6c099d5ec76b40bb54e72a75c1dcbc44c5c13a764114fb5183fe7eecd201619fca37cf3dd029c2fc320fb1a3cfab716d94297cbe7bb32ead208b779579015683.png",
         "genres": [
-            "History"
+            3
         ],
         "updated": "2022-11-01T07:01:00.000Z"
     },
@@ -87,7 +87,7 @@
         "seasons": 5,
         "image": "https://content.production.cdn.art19.com/images/f5/16/e0/99/f516e099-4c64-4737-9fdb-55f4d45a4003/6d14be58e0a54d21128c239dd933e0f3c36ca00f85ea7294cbea91a2b214d2384361c2a765842eef66e8583b2c21302c8fd2b1eb4d32e3805481292d758f20aa.jpeg",
         "genres": [
-            "Personal Growth"
+            1
         ],
         "updated": "2022-10-25T07:01:00.000Z"
     },
@@ -98,7 +98,7 @@
         "seasons": 19,
         "image": "https://content.production.cdn.art19.com/images/be/95/68/28/be956828-0cc8-4d16-986f-b81142129bd3/bdc59126cd5707aee511313b8e246428364b62229f8243c4deab8f5721425478c9fcb4224cd0369f8001cde85dbe4c3106d31ed914e414a18208a29386e88317.png",
         "genres": [
-            "Investigative Journalism"
+            2
         ],
         "updated": "2022-11-01T23:01:00.000Z"
     },
@@ -109,7 +109,7 @@
         "seasons": 5,
         "image": "https://content.production.cdn.art19.com/images/a4/b7/0e/b1/a4b70eb1-2ba8-4320-ba12-20939a9c0d13/486bc367f5acec6dbb5fdfb84d510a1ed304ba20c6e9c97da0448a62e6d4a1c5b91fb30198437f6d4db969db5f171aa63648545002fbaa81d9fcc422a2e05b9e.jpeg",
         "genres": [
-            "History"
+            3
         ],
         "updated": "2022-11-03T07:01:00.000Z"
     },
@@ -120,7 +120,7 @@
         "seasons": 3,
         "image": "https://content.production.cdn.art19.com/images/d4/06/1f/5b/d4061f5b-c6d1-4304-b9d7-5e793455243a/4668ed2834f6117f83f68b2659a413f9ebad11c32f4ba8e8c6b68c9c1f36917a7a348171298899e1bbe7c8732a4397a5ef31699bca6be8347e12c361aa04827e.jpeg",
         "genres": [
-            "Investigative Journalism"
+            2
         ],
         "updated": "2022-06-17T04:44:00.000Z"
     },
@@ -131,7 +131,7 @@
         "seasons": 2,
         "image": "https://content.production.cdn.art19.com/images/63/77/c7/83/6377c783-fad3-4ada-aaec-309025514885/679654631357f63f4fdb8a9a02f511dd2cb7eeedccb261e6f31fc1da3e262866672447b0a51aa23ee7b9ef672947d96fb60ce87ec0e89b060c4516211a908822.jpeg",
         "genres": [
-            "Investigative Journalism"
+            2
         ],
         "updated": "2022-11-01T07:00:00.000Z"
     },
@@ -142,7 +142,7 @@
         "seasons": 12,
         "image": "https://content.production.cdn.art19.com/images/3f/03/a1/29/3f03a129-40a1-4ddb-90e1-858c21094d0f/40b6c25e97fb0981c0032789798803128146cd4f7aa7e7ce993adc7925f4b19ec7b7ae696ac611c84a0c1ff93990e41080e1ce0cd2b575dae90901524ba212be.jpeg",
         "genres": [
-            "Investigative Journalism"
+            2
         ],
         "updated": "2022-11-03T13:07:51.000Z"
     },
@@ -153,8 +153,8 @@
         "seasons": 20,
         "image": "https://content.production.cdn.art19.com/images/2e/ab/54/9a/2eab549a-c1c6-4674-a57a-8b85e67d405e/f3c68e8913738d8d31c3b97434e27ac44619b273972960ed9ba7b2b6da610f6cfdd30bd96f73d4418475b081b3cf0cdbddc49799f0b3d11d3d37c77e6b13529b.png",
         "genres": [
-            "Business",
-            "History"
+            6,
+            3
         ],
         "updated": "2022-11-03T07:01:00.000Z"
     },
@@ -165,8 +165,8 @@
         "seasons": 3,
         "image": "https://content.production.cdn.art19.com/images/41/65/a8/83/4165a883-b520-48d0-a804-df3b8a974309/ef5c453f44657ebc21d6045b9ea41c089f8e3872c630d8afc69eae308611bc99ba34965e627db83de9025ce8ecbf30804fc740a281b6e30afdd0ebac58ec9a06.png",
         "genres": [
-            "Entertainment",
-            "Fiction"
+            5,
+            7
         ],
         "updated": "2022-10-04T08:00:00.000Z"
     },
@@ -177,7 +177,7 @@
         "seasons": 3,
         "image": "https://content.production.cdn.art19.com/images/10/f1/d6/18/10f1d618-19ea-49f5-b860-2c4b58e3f583/5835a7e236f22edead1d3532006dfb80c8e405fb2cbef1a0ea26a6436efd23585fe11519e3d36e8ef95eabfeac350c188d39c01e7da50382b266bd61abcc40f2.jpeg",
         "genres": [
-            "Fiction"
+            7
         ],
         "updated": "2022-11-03T07:01:00.000Z"
     },
@@ -188,8 +188,8 @@
         "seasons": 2,
         "image": "https://content.production.cdn.art19.com/images/ea/bd/50/e1/eabd50e1-4f51-4bb0-b8ba-ae02fae59ffe/b1c64fa8376a10fc02357609b132d08706c95273f14b001927cfeecc290aac884c18c8202c2c30b70314ebc5296bf6ec93664ec56c1dc10f971f1afc5a73860c.jpeg",
         "genres": [
-            "Entertainment",
-            "Investigative Journalism"
+            5,
+            2
         ],
         "updated": "2022-11-01T21:00:00.000Z"
     },
@@ -200,8 +200,8 @@
         "seasons": 1,
         "image": "https://content.production.cdn.art19.com/images/f5/cf/d8/37/f5cfd837-6c97-4422-a573-4ea06f2b2a13/129e1aa2908a3f47b8e2f28494ea5067ac6f96b6756e3c80f0ddcced5a43875af40077d78694f229a1cd9d5da05aba1cc6251b903e82e09ff73e05e861d453f5.png",
         "genres": [
-            "News",
-            "Investigative Journalism"
+            8,
+            2
         ],
         "updated": "2018-11-21T08:05:00.000Z"
     },
@@ -212,8 +212,8 @@
         "seasons": 3,
         "image": "https://content.production.cdn.art19.com/images/59/93/d1/5a/5993d15a-b461-4418-97e6-96736913b9f0/cda3367cea57818b96d72a71a8a0d3de9287679c68b4e9f8775f0f764b04da2e2699cbe689f70118d232dd99875acfe3d4b7e00b8c3155f613b7b55f9aa0193a.png",
         "genres": [
-            "News",
-            "Investigative Journalism"
+            8,
+            2
         ],
         "updated": "2022-03-17T07:01:00.000Z"
     },
@@ -224,7 +224,7 @@
         "seasons": 4,
         "image": "https://content.production.cdn.art19.com/images/b3/37/52/bb/b33752bb-585a-47dc-a431-3aef17aacd66/b68b3e4a2e030d4f7ac3a518f4872e2f2985d04a130064bfb41034afe3c15824adafcbd488ce90463876b5b20bc589ead5c8c87b1c614a409d3affe444b2a0e0.jpeg",
         "genres": [
-            "Investigative Journalism"
+            2
         ],
         "updated": "2022-05-31T07:01:00.000Z"
     },
@@ -235,8 +235,8 @@
         "seasons": 9,
         "image": "https://content.production.cdn.art19.com/images/1e/74/fd/d4/1e74fdd4-78cf-40db-96df-2132bce7e286/764385bb44ec1e4982cc6354e6c9ab721791b8fb24abe2ce209551ec4d33279182f249812d1ceb8efbedbe1f37b745c5d06f98ae5649e7c0c7cb0657ce0e5f05.png",
         "genres": [
-            "Fiction",
-            "Kids and Family"
+            7,
+            9
         ],
         "updated": "2022-11-01T07:01:00.000Z"
     },
@@ -247,7 +247,7 @@
         "seasons": 12,
         "image": "https://content.production.cdn.art19.com/images/3d/7c/cf/0e/3d7ccf0e-f94b-4c7b-8ce3-58386e4afc48/f7cbeb45aa5f221a70beb6a25f4a8afbf49da4e2da687f546de2cb0859d26575773500356baf3957b72b348ff5af65675f6a85a017e16f15fb7381344640ecc5.jpeg",
         "genres": [
-            "Kids and Family"
+            9
         ],
         "updated": "2022-10-18T07:01:00.000Z"
     },
@@ -258,8 +258,8 @@
         "seasons": 1,
         "image": "https://content.production.cdn.art19.com/images/36/7d/69/27/367d6927-ff27-4a36-8140-c1a1af61886f/f3ca0ed80f92c424c2c833c880fe41a5a7791898fc61f1fd84e0cfb2c347ccf70d1fd11f0daa65d93ca86295cac86297eb6d8794968759934d4a2c6b7fbb11c3.jpeg",
         "genres": [
-            "History",
-            "Investigative Journalism"
+            3,
+            2
         ],
         "updated": "2020-12-22T08:00:00.000Z"
     },
@@ -270,8 +270,8 @@
         "seasons": 3,
         "image": "https://content.production.cdn.art19.com/images/e9/3d/f8/0d/e93df80d-a143-4745-ad9f-9483578bb23c/73f0355df6467a4161679b444df517fcd563118d776d773e6754732e93ce5fe7eae702f97b99f2364c612a1f3b56af19d5f3dd32e105e9d309b945c63a26b669.jpeg",
         "genres": [
-            "Fiction",
-            "Kids and Family"
+            7,
+            9
         ],
         "updated": "2021-09-20T18:30:00.000Z"
     },
@@ -282,7 +282,7 @@
         "seasons": 4,
         "image": "https://content.production.cdn.art19.com/images/8e/59/e8/1d/8e59e81d-2e78-4db2-870f-4cdae876b9b7/a9f56a60c0b60a1e6173ab74de546d0300e75d066c9f042d12d8b1b614cb0b158c499034af9fd315427351faaf4a271f321cf8fad3db7c2749e2418e2caa4160.png",
         "genres": [
-            "Kids and Family"
+            9
         ],
         "updated": "2022-10-18T07:01:00.000Z"
     },
@@ -293,7 +293,7 @@
         "seasons": 4,
         "image": "https://content.production.cdn.art19.com/images/d3/74/3c/3f/d3743c3f-df43-43a6-8c6b-6e36c486b9af/39ef2629bfa59d1345100c7bb7d43246c4c87f88daf74039c2e0ade35ed14acf3a861362b857a08940408f9d12179f2e4cd7bf31ddc3912442499fe35a0115de.png",
         "genres": [
-            "History"
+            3
         ],
         "updated": "2022-10-28T07:01:00.000Z"
     },
@@ -303,7 +303,7 @@
         "description": "All episodes are available for free, with ad-free episodes available for Wondery+ subscribers. Season 3: The Disappearance of Mario Rossi - Set against the backdrop of NASCAR’s drug smuggling scandal in the early 1980’s, this season of The Sneak tells the story of the disappearance of one of the sport’s most brilliant engineers, a mystery that haunts racing to this day. The hosts will set out to finally answer the question: What really happened to Mario Rossi?  Season 2: Murders at Whiskey Creek - We follow world champion surfer Jack Roland Murphy as he pulls off the biggest jewel heist in American history. Things turn deadly as he is implicated in two murders afterwards. Interviews with him and his accomplices expose even more murders, and an even darker story. Season 1: DB Tuber - News of the crime spread across the internet like wildfire. The story of a football hero turned bank robber shocked the sleepy town where the heist occurred, and became a worldwide sensation. People were aghast as the disgraced athlete told his incredible story. There was only one problem. It wasn’t the whole story. Not by a long shot.  From USA Today & Wondery comes The Sneak. A show that digs into spectacular true crime stories from the world of sports. New episodes every Tuesday. ",
         "seasons": 3,
         "genres": [
-            "Investigative Journalism"
+            2
         ],
         "image": "https://content.production.cdn.art19.com/images/0b/0f/02/5d/0b0f025d-bd2a-4686-bc86-a7bbddba74f3/d1bba784d3bd42b85b0784574b2b44f2ce1786e8193d5a69842c9c5720f21450ea2478546a8786ee7071017089fcf073ef5d988e0e5003d32beb0a7bec64235e.png",
         "updated": "2021-05-20T07:00:00.000Z"
@@ -315,8 +315,8 @@
         "seasons": 2,
         "image": "https://content.production.cdn.art19.com/images/1a/ad/4d/03/1aad4d03-1927-4b03-bf84-dd5ea15c954f/742b684dcfbed627b344699b7279be3548e25c7aa640b127856e487f807dd80e7ff8a56071bbfb28b45434ad1f249e2148c75797b451aea0c6f93c6b914f17cb.jpeg",
         "genres": [
-            "Entertainment",
-            "Personal Growth"
+            5,
+            1
         ],
         "updated": "2022-03-17T07:01:00.000Z"
     },
@@ -327,8 +327,8 @@
         "seasons": 6,
         "image": "https://content.production.cdn.art19.com/images/ee/af/79/a8/eeaf79a8-199e-438b-8a9c-56aeb3f6bd83/a17582304e222235b07b729c63d14fd2049cf1663699c50fd995314dc84fe51273a4638321c4d0e742d7fda87c587566c5dd54229849056e56e51c6a03e93831.png",
         "genres": [
-            "Entertainment",
-            "History"
+            5,
+            3
         ],
         "updated": "2021-10-15T07:00:00.000Z"
     },
@@ -339,7 +339,7 @@
         "seasons": 2,
         "image": "https://content.production.cdn.art19.com/images/76/cf/36/3f/76cf363f-bf38-4490-80f9-ad890df8b2a2/a5cb31de2d0c42284b43fb29591fd9388e41e92f5ff2eac87082ee249f2ad77995f457595fc91e784fa491f7770e4a273a6423b81ac33002ad6e49247a3ab915.png",
         "genres": [
-            "Entertainment"
+            5
         ],
         "updated": "2022-11-02T07:03:00.000Z"
     },
@@ -350,8 +350,8 @@
         "seasons": 2,
         "image": "https://content.production.cdn.art19.com/images/15/88/a1/71/1588a171-e383-4500-bc00-a540c3efa1bd/a4dc4fa5df62ce0485a96b9b9fcfa81f3a02fc372928d2f085abdb7df23a665c05da6b4d640284543a0ddf5c2ef58f17edf1dc76ced5bd11770ab393b0c65a53.jpeg",
         "genres": [
-            "History",
-            "Investigative Journalism"
+            3,
+            2
         ],
         "updated": "2019-01-23T05:00:00.000Z"
     },
@@ -362,8 +362,8 @@
         "seasons": 2,
         "image": "https://content.production.cdn.art19.com/images/15/85/3e/79/15853e79-7883-4cbe-a3c8-2cddba54da0a/536a4c66a9e4f8aa145f5913bdfac6b2a849e202beb5add6aa7d13c7849f72bba52fffe2e19429287758815d4c9517b3d9bbdc5cc02e0f7edc0a0b04f008de31.png",
         "genres": [
-            "Business",
-            "History"
+            6,
+            3
         ],
         "updated": "2022-04-22T07:01:00.000Z"
     },
@@ -374,7 +374,7 @@
         "seasons": 2,
         "image": "https://content.production.cdn.art19.com/images/b6/0c/e1/f2/b60ce1f2-f470-4eba-abe6-03b7dd1c3569/bba3c2ccf524c18e2099bb64d98f88ca52822127b25dbd30936ec318f206931f087c6075c5b839b3e4ddcfbfd45ce6ad84b57fa16c23bebf9b8839e6f1bd7c16.png",
         "genres": [
-            "Kids and Family"
+            9
         ],
         "updated": "2022-11-02T07:01:00.000Z"
     },
@@ -385,7 +385,7 @@
         "seasons": 2,
         "image": "https://content.production.cdn.art19.com/images/45/8a/b9/91/458ab991-8657-45af-8668-0e3e280ce4b3/4f589340295571d10a073f0d1ca23bdbc865959a821f9d8116d5d636a642f5085cf3ef60f13ed17087c69a8be3314c6787dc738837b16b68c34792c9d489b9a6.jpeg",
         "genres": [
-            "Fiction"
+            7
         ],
         "updated": "2021-10-29T09:00:00.000Z"
     },
@@ -396,7 +396,7 @@
         "seasons": 1,
         "image": "https://content.production.cdn.art19.com/images/db/ee/b4/b5/dbeeb4b5-40f6-4b03-8d99-2a81b5cf8e33/3661121915afa366ce97e923e54003290a0cf6f67a9e52eba050514df5276702b51e4c13f5af4feab8410c29b21aeece9d96af3e0464bcd24a603a42a3755ef9.png",
         "genres": [
-            "Investigative Journalism"
+            2
         ],
         "updated": "2022-04-05T20:18:06.000Z"
     },
@@ -407,7 +407,7 @@
         "seasons": 2,
         "image": "https://content.production.cdn.art19.com/images/34/c9/4a/20/34c94a20-0ed5-4ace-adb7-a85f196c29a0/430e76ab492de6da0698405c1df8fcde27a1018622d8e0a99c7a2e8da0d88794878d53c1c36d6bfd8b450c156fdc12dd1cb19b15b9139db37ff8ef526f19b012.png",
         "genres": [
-            "History"
+            3
         ],
         "updated": "2021-07-13T08:00:00.000Z"
     },
@@ -418,7 +418,7 @@
         "seasons": 2,
         "image": "https://content.production.cdn.art19.com/images/80/9b/b1/23/809bb123-130c-4254-a9c1-e66cd2bc9d33/fe06b76bdce09c87166118a932e175e0fc893cf18ade7a553d88b00b1b6f162bf926fd32d722fca969d57e5f46362ea855609da4af886d3e14b766f38444a39b.png",
         "genres": [
-            "Investigative Journalism"
+            2
         ],
         "updated": "2021-01-06T09:00:00.000Z"
     },
@@ -429,8 +429,8 @@
         "seasons": 1,
         "image": "https://content.production.cdn.art19.com/images/3c/5b/49/ee/3c5b49ee-d882-4583-88b0-db0445d3d037/88a25cf30aea1139130c4a922bf0c7eeb61e0d6300a15a2556bede9153dcf0ce4c792e04737a87b2c6568bd53e097038aaec23f39a28e93843b8837421a85673.jpeg",
         "genres": [
-            "Fiction",
-            "Kids and Family"
+            7,
+            9
         ],
         "updated": "2022-10-31T07:01:00.000Z"
     },
@@ -441,7 +441,7 @@
         "seasons": 2,
         "image": "https://content.production.cdn.art19.com/images/d4/73/48/d2/d47348d2-2f6a-4358-b897-ed5ab3b6c658/d70513e718d613ec4aaf039a65ca60f874546e6243659e68c04f90f8ba467aea8a322d4842ac47cc1f8f84aef809875aa03d6340237b5dc6cc75142c2c19f54f.png",
         "genres": [
-            "Entertainment",
+            5,
         ],
         "updated": "2022-11-01T07:01:00.000Z"
     },
@@ -452,7 +452,7 @@
         "seasons": 2,
         "image": "https://content.production.cdn.art19.com/images/82/13/f6/9a/8213f69a-882f-49ae-b25b-aa0d91c27fe3/f2c8dcc41fe54ea9d738b6a73942a1ab3be4d2c6e528e7b24121cf89275a7944aab19b3f1ae44e5c65039510a17903e42577e0fb977ab8af2e388d0b3273c476.jpeg",
         "genres": [
-            "Kids and Family"
+            9
         ],
         "updated": "2021-10-14T09:00:00.000Z"
     },
@@ -463,7 +463,7 @@
         "seasons": 2,
         "image": "https://content.production.cdn.art19.com/images/e0/ba/41/4d/e0ba414d-7805-4435-bcdb-87ef5ccab9a1/25d3351125c43b70beff87de28397fbcf5ea1a7d86d8d2b14ebd0226c8c6ffdb7a723df7a86475d6165c391f4b838fbcc4b6da05f380dc94af40f2b168e99945.jpeg",
         "genres": [
-            "Kids and Family"
+            9
         ],
         "updated": "2022-10-27T07:01:00.000Z"
     },
@@ -474,7 +474,7 @@
         "seasons": 2,
         "image": "https://content.production.cdn.art19.com/images/27/5c/b2/90/275cb290-4a0c-40e1-9015-a944ef3cdaa0/d8a37376115fa95a213434d69a98558cd0eb8c9bc2b24ae75157f6058464ed42c0c5b2ea099e6acbe89e28e20482a9789bff6333d338a8dd1b70cadc7e378e2d.jpeg",
         "genres": [
-            "Kids and Family"
+            9
         ],
         "updated": "2022-04-13T07:01:00.000Z"
     },
@@ -485,7 +485,7 @@
         "seasons": 6,
         "image": "https://content.production.cdn.art19.com/images/d4/c3/24/af/d4c324af-61b8-4905-816e-d33bd7cb3eba/2a63f7fa4a654c8582a18e490838cfb10facccf8464bd2b588bdb13079e82b38542f12e9a6f579cb545f5c7418de411f90f918a4b956b63e9ec0a620e2e37891.png",
         "genres": [
-            "Fiction"
+            7
         ],
         "updated": "2022-06-29T07:30:00.000Z"
     },
@@ -496,8 +496,8 @@
         "seasons": 4,
         "image": "https://content.production.cdn.art19.com/images/db/ea/78/3d/dbea783d-82ee-430f-8db9-cb8409e3ae22/e58264bc3e60343216283d8ce23c35b4c077ac8e486b2fec393f121b24104d1b862b7084b11e2fa3ffea6404b668d5b03ddf4254552cb8d79af0ab5dff3e8e5b.png",
         "genres": [
-            "Business",
-            "History"
+            6,
+            3
         ],
         "updated": "2021-07-13T09:00:00.000Z"
     },
@@ -508,7 +508,7 @@
         "seasons": 1,
         "image": "https://content.production.cdn.art19.com/images/2f/59/1c/9d/2f591c9d-76f3-44de-9e18-e08357760a1b/7981ea59f91389ae43cd403bca43acfebf923edd4b8be32f1b668a6bc587297a9524c48d5f9a924490dd6558c90bf07ee9f790e6811ad77dd112482e0d19d347.jpeg",
         "genres": [
-            "Kids and Family"
+            9
         ],
         "updated": "2020-06-15T09:00:00.000Z"
     },
@@ -519,7 +519,7 @@
         "seasons": 1,
         "image": "https://content.production.cdn.art19.com/images/89/ae/2b/81/89ae2b81-b468-47b6-a0e5-1e73f53a084c/201b0c7d8d907396f53963ab1128a9509aceab1b141cbed3d8027ef714799a4b5190adbf4fe2b85ebd088be2e5baa70bbda30cf7d6a93636056f69de03f3c5d0.jpeg",
         "genres": [
-            "Kids and Family"
+            9
         ],
         "updated": "2021-06-25T09:00:00.000Z"
     },
@@ -530,7 +530,7 @@
         "seasons": 1,
         "image": "https://content.production.cdn.art19.com/images/88/d5/9d/bd/88d59dbd-34b3-4588-b173-f2860a70ee4f/067c26b8a612db644940641db4571613a41dd52888a5ce38e1b21c170bf73c3d97500fa010a2ad1849832e11089c6e997e6142e6a70be8dc4babbb6fdf2a8a6c.png",
         "genres": [
-            "Personal Growth"
+            1
         ],
         "updated": "2022-08-02T15:14:11.000Z"
     },
@@ -541,7 +541,7 @@
         "seasons": 2,
         "image": "https://content.production.cdn.art19.com/images/c5/f8/e7/fa/c5f8e7fa-4b3d-44b5-83f8-30b04dd28293/74283c27dfd3bd1ce61e9aa0fa2e9c8d6f4847152fa4b7e9a38e8fa87b42aaf33ca247af6994bff4304a85ea7c82e7513ded581456b4474b5790320b916f798f.jpeg",
         "genres": [
-            "Investigative Journalism"
+            2
         ],
         "updated": "2020-07-29T07:30:00.000Z"
     },
@@ -552,7 +552,7 @@
         "seasons": 2,
         "image": "https://content.production.cdn.art19.com/images/5b/c8/0a/e6/5bc80ae6-4e4f-45d5-9230-8229b1e20621/79aa8d3f74c0350a905fcebd143e652e12c64e44f928a1a33e094819b1df65c79832f0275f8c6cb47fef5e4344c69c27b52ca9bbcf038598bbd43e054613b5ef.jpeg",
         "genres": [
-            "Kids and Family"
+            9
         ],
         "updated": "2022-11-01T07:01:00.000Z"
     },
@@ -563,7 +563,7 @@
         "seasons": 1,
         "image": "https://content.production.cdn.art19.com/images/90/40/94/ed/904094ed-02fa-4f0d-9ebe-9fcd26a01d15/03ebc89ab0e8951c437fa4d7d24e06ee03a1f56307dafb321745752ac1ccf53b6a121eba63c54a99c45aea7b021a5277dff0d1fb5c0673cce45ba9ea5895f845.jpeg",
         "genres": [
-            "Fiction"
+            7
         ],
         "updated": "2022-11-03T07:01:00.000Z"
     },
@@ -574,7 +574,7 @@
         "seasons": 1,
         "image": "https://content.production.cdn.art19.com/images/16/88/1f/3b/16881f3b-b73a-4b78-aac6-8ba6b9958826/788d257b6687de815e7e120427b5635e3c4d180709584d9d4f9bae7c7506bcd8cfb4f4d511932c02757ac6071b4867a8d6a3b083344c18987427bbd1949de1bf.jpeg",
         "genres": [
-            "Kids and Family"
+            9
         ],
         "updated": "2022-11-03T07:01:00.000Z"
     }
