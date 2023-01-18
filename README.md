@@ -2,8 +2,14 @@
 # Example Podcast API
 
 <!-- omit in toc -->
-## Table of Contents
+**Table of Contents**
 
+- [🤖 Technology](#-technology)
+- [📦Data](#data)
+  - [Relationships](#relationships)
+  - [Endpoints](#endpoints)
+  - [Genre Titles](#genre-titles)
+- [🧑 User Stories](#user-stories)
 
 ## 🤖 Technology
 
@@ -106,11 +112,7 @@ Since genre information is only exposed on `PREVIEW` by means of the specific `G
 | 8 | News |
 | 9 | Kids and Family |
 
-<<<<<<< HEAD
 ## 🧑 User Stories
-=======
-# 🧑 User Stories
->>>>>>> e9c338e88c1274a9c84041022ade5fc2fa737995
 
 **There is a total of 50 possible stories below that determine your final grade.**
 
