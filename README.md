@@ -1,5 +1,19 @@
 # Example Podcast API
 
+- [🤖 Technology](#-technology)
+- [📦Data](#data)
+  - [Relationships](#relationships)
+  - [Endpoints](#endpoints)
+  - [Genre Titles](#genre-titles)
+- [🧑 User Stories](#user-stories)
+
+
+## 🤖 Technology
+
+**You are welcome to attempt this project with plain JavaScript, however it is strongly advised that you use a framework and/or build-process to manage all complexity involved.** 
+
+You are welcome to use any technology set that you are comfortable, whether this be Next.js, Create React App (CRA) or Vue.js. It is recommended that you use TypeScript as well, however you are welcome to avoid TypeScript if you do not feel comfortable with it’s usage just yet.
+
 ## 📦Data
 
 **Data consists of three basic semantic units**
@@ -69,7 +83,7 @@ SEASON ||--|{ EPISODE: episodes___
 
 ```
 
-## Endpoints
+### Endpoints
 
 Data can be called via a `fetch` request to the following three endpoints. Note that there is not always a one-to-one mapping between endpoints and actual data structures. Also note that  ***`<ID>`** indicates where the dynamic ID for the requested item should be placed. For example: `[https://podcast-api.netlify.app/genre/3](https://podcast-api.netlify.app/genre/3)`* 
 
@@ -79,7 +93,7 @@ Data can be called via a `fetch` request to the following three endpoints. Note 
 | https://podcast-api.netlify.app/genre/<ID> | Returns a GENRE object |
 | https://podcast-api.netlify.app/id/<ID> | Returns a SHOW object with several SEASON and EPISODE objects directly embedded within |
 
-## Genre Titles
+### Genre Titles
 
 Since genre information is only exposed on `PREVIEW` by means of the specific `GENRE` id, it is recommended that you include the mapping between genre id values and title in your code itself:
 
@@ -94,12 +108,6 @@ Since genre information is only exposed on `PREVIEW` by means of the specific `G
 | 7 | Fiction |
 | 8 | News |
 | 9 | Kids and Family |
-
-## 🤖 Technology
-
-**You are welcome to attempt this project with plain JavaScript, however it is strongly advised that you use a framework and/or build-process to manage all complexity involved.** 
-
-You are welcome to use any technology set that you are comfortable, whether this be Next.js, Create React App (CRA) or Vue.js. It is recommended that you use TypeScript as well, however you are welcome to avoid TypeScript if you do not feel comfortable with it’s usage just yet.
 
 # 🧑 User Stories
 
