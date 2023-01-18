@@ -6,9 +6,9 @@
 
 - [🤖 Technology](#-technology)
 - [📦Data](#data)
-  - [Relationships](#relationships)
-  - [Endpoints](#endpoints)
-  - [Genre Titles](#genre-titles)
+	- [Relationships](#relationships)
+	- [Endpoints](#endpoints)
+	- [Genre Titles](#genre-titles)
 - [🧑 User Stories](#user-stories)
 
 ## 🤖 Technology
@@ -92,9 +92,9 @@ Data can be called via a `fetch` request to the following three endpoints. Note 
 
 | URL |  |
 | --- | --- |
-| https://podcast-api.netlify.app/shows | Returns an array of PREVIEW |
-| https://podcast-api.netlify.app/genre/<ID> | Returns a GENRE object |
-| https://podcast-api.netlify.app/id/<ID> | Returns a SHOW object with several SEASON and EPISODE objects directly embedded within |
+| `https://podcast-api.netlify.app/shows` | Returns an array of PREVIEW |
+| `https://podcast-api.netlify.app/genre/<ID>` | Returns a GENRE object |
+| `https://podcast-api.netlify.app/id/<ID>` | Returns a SHOW object with several SEASON and EPISODE objects directly embedded within |
 
 ### Genre Titles
 
