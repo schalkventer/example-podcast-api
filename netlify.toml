@@ -6,7 +6,12 @@
 
 [[redirects]]
   from = "/id/:splat/*"
-  to = "/:splat.json"
+  to = "/shows/:splat.json"
+  status = 200
+  
+[[redirects]]
+  from = "/genre/:splat/*"
+  to = "/genres/:splat.json"
   status = 200
 
 [[headers]]
