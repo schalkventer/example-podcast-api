@@ -1,5 +1,7 @@
 # Example Podcast API
 
+## Table of Contents
+
 - [🤖 Technology](#-technology)
 - [📦Data](#data)
   - [Relationships](#relationships)
