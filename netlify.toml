@@ -4,24 +4,23 @@
   to = "/previews.json"
   status = 200
 
-
 [[redirects]]
   from = "/shows"
   to = "/previews.json"
   status = 200
 
 [[redirects]]
-  from = "/show/:splat/*"
+  from = "/show/:splat/"
   to = "/shows/:splat.json"
   status = 200
 
 [[redirects]]
-  from = "/id/:splat/*"
+  from = "/id/:splat/"
   to = "/shows/:splat.json"
   status = 200
   
 [[redirects]]
-  from = "/genre/:splat/*"
+  from = "/genre/:splat/"
   to = "/genre/:splat.json"
   status = 200
 
