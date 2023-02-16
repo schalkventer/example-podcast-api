@@ -16,7 +16,7 @@
 
 [[redirects]]
   from = "/id/:splat/*"
-  to = "/shows/:splat.json"
+  to = "/show/:splat.json"
   status = 200
   
 [[redirects]]
